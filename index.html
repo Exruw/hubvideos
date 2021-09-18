@@ -1,24 +1,15 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <script>
-        var videos = ["https://cdn.discordapp.com/attachments/857998625476706365/888821834034872430/niko.mp4", "https://www.youtube.com/embed/dQw4w9WgXcQ"];
-        window.onload = function () {
-            var playerDiv = document.getElementById("random_player");
-            var player = document.createElement("IFRAME");
-            var randomVideoUrl = videos[Math.floor(Math.random() * videos.length)];
-            player.setAttribute('width', '640');
-            player.setAttribute('height', '390');
-            player.setAttribute('src', randomVideoUrl);
-
-            playerDiv.appendChild(player);
-        };
-    </script>
-</head>
-
-<body>
-    <div id="random_player" />
-</body>
-
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>video test</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body> 
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <video width="320" height="240" autoplay id="myVideo">  
+    </video>      
+  </body>
 </html>
