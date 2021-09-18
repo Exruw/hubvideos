@@ -1,15 +1,60 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>video test</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
-  </head>
-  <body> 
-    <script src="script.js"></script>
+    <title>random videos</title>
+    <meta name="description" content="Random videos for your enjoyment
+    Exruw was here O_O">
+    <meta name="theme-color" content="#0D69AB" /> 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <video width="320" height="240" autoplay id="https://cdn.discordapp.com/attachments/881656384352038963/888849141688569876/por.mp4">  
-    </video>      
-  </body>
-</html>
+    <video width="320" height="240" autoplay id="myVideo">
+      </video>
+</head>
+
+<div id="banner-images"> </div>
+<script> 
+$(document).ready(function(){
+
+var videos = [
+    [{type:'mp4', 'src':'https://media.discordapp.net/attachments/881656384352038963/888849141688569876/por.mp4'}],
+    [{type:'mp4', 'src':'https://cdn.discordapp.com/attachments/881656384352038963/888907647565324288/niko_1.mp4'}],
+    [{type:'mp4', 'src':'http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4'}]
+];
+
+// selecting random item from array,you can make your own
+var randomitem = videos[Math.floor(Math.random()*videos.length)];
+
+// This function adds a new video source (dynamic) in the video html tag
+
+function videoadd(element, src, type) {
+    var source = document.createElement('source');
+
+    source.src = src;
+    source.type = type;
+   element.appendChild(source);
+}
+// this function fires the video for particular video tag
+
+function newvideo(src)
+{
+var vid = document.getElementById("myVideo");
+videoadd(vid,src ,'video/ogg');
+vid.autoplay = true;
+vid.load();
+//vid.play();
+}
+// function call
+newvideo(randomitem[0].src)
+
+// Added an event listener so that everytime the video finishes ,a new video is loaded from array
+document.getElementById('myVideo').addEventListener('ended',handler,false);
+
+function handler(e)
+{
+newvideo(randomitem[0].src)
+
+}
+  
+
+})
+</script>
