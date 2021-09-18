@@ -1,16 +1,24 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<video width="320" height="240" autoplay id="myVideo">
-  
-</video>
-<script>
-    // function to generate random int inside a given range
-    function getRandomInt(min, max) {
-        return Math.floor(Math.random() * (max - min + 1)) + min;
-    }
-    var video = document.getElementById('videoItem');
-    var sources = video.getElementsByTagName('source');
-    var videoUrlsMp4=["https://cdn.discordapp.com/attachments/857998625476706365/888821834034872430/niko.mp4", "URL2.mp4", "URL3.mp4"];
-    var random_nr = getRandomInt(0, videoUrlsMp4.length-1);
-    sources[0].src = videoUrlsMp4[random_nr ];
-    video.load();
-</script>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        var videos = ["https://cdn.discordapp.com/attachments/857998625476706365/888821834034872430/niko.mp4", "https://www.youtube.com/embed/dQw4w9WgXcQ"];
+        window.onload = function () {
+            var playerDiv = document.getElementById("random_player");
+            var player = document.createElement("IFRAME");
+            var randomVideoUrl = videos[Math.floor(Math.random() * videos.length)];
+            player.setAttribute('width', '640');
+            player.setAttribute('height', '390');
+            player.setAttribute('src', randomVideoUrl);
+
+            playerDiv.appendChild(player);
+        };
+    </script>
+</head>
+
+<body>
+    <div id="random_player" />
+</body>
+
+</html>
