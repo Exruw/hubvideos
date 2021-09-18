@@ -9,10 +9,8 @@
     }
     var video = document.getElementById('videoItem');
     var sources = video.getElementsByTagName('source');
-    var videoUrlsMp4=["URL1.mp4", "URL2.mp4", "URL3.mp4"];
-    var videoUrlsOgg4=["URL1.ogg", "URL2.ogg", "URL3.ogg"];
+    var videoUrlsMp4=["https://cdn.discordapp.com/attachments/857998625476706365/888821834034872430/niko.mp4", "URL2.mp4", "URL3.mp4"];
     var random_nr = getRandomInt(0, videoUrlsMp4.length-1);
     sources[0].src = videoUrlsMp4[random_nr ];
-    sources[1].src = videoUrlsOgg4[random_nr ];
     video.load();
 </script>
