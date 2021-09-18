@@ -2,6 +2,7 @@ html {
   font-family: monospace;
   background: black;
   color: white;
+  height: 100%;  
   padding: 0;
 }
 body {
