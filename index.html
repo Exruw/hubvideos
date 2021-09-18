@@ -7,7 +7,7 @@
     Exruw was here O_O">
     <meta name="theme-color" content="#0D69AB" /> 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <video width="320" height="240" autoplay id="myVideo">
+    <video width="320" height="240" autoplay id="Videos">
       </video>
 </head>
 
@@ -32,7 +32,7 @@ function videoadd(element, src, type) {
 
 function newvideo(src)
 {
-var vid = document.getElementById("myVideo");
+var vid = document.getElementById("Videos");
 videoadd(vid,src ,'video/ogg');
 vid.autoplay = true;
 vid.load();
