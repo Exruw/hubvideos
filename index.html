@@ -9,7 +9,7 @@
     <link rel="icon" type="image/svg+xml" href="icon.svg" />    
     <link href="style.css" rel="stylesheet" type="text/css" />     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <video width="500" height="500" style="left: 50%;top: 50%; margin-left: -250px; margin-top: -250px;" autoplay controls id="myVideo">
+    <video width="500" height="500" style="left: 50%;top: 50%; margin-left: -250px; margin-top: -250px; position: absolute;" autoplay muted id="myVideo">
       </video>
 </head>
 
@@ -49,7 +49,9 @@ vid.load();
 newvideo(randomitem[0].src) // why are you still reading these comments bro,,, you have better shit to do
 
 document.getElementById('myVideo').addEventListener('ended',handler,false);
-
+document.addEventListener("click", function(){
+    document.getElementById("myVideo").muted = false
+})
 function handler(e)
 {
 newvideo(randomitem[0].src)
