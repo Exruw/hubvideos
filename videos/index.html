@@ -14,7 +14,7 @@ var VidDirectory = '/videos';
 $.ajax({url: VidDirectory}).then(function(html) {
     var document = $(html);
 
-    // find all links ending with .pdf 
+    
     document.find('a[href$=.mp4]').each(function() {
         var Name = $(this).text();
         var Url = $(this).attr('href');
