@@ -62,7 +62,18 @@ var videos = [
     [{type:'mov', 'src':'videos/pack.mov'}],
     [{type:'mp4', 'src':'https://cdn.discordapp.com/attachments/857979217257955358/888969393793544203/video0_-_2021-07-14T024900.328.mp4'}],
     [{type:'mp4', 'src':'videos/the_cream.mp4'}],
-    [{type:'mp4', 'src':'https://cdn.discordapp.com/attachments/881656384352038963/888907647565324288/niko_1.mp4'}]
+    [{type:'mp4', 'src':'https://cdn.discordapp.com/attachments/881656384352038963/888907647565324288/niko_1.mp4'}],
+    // New videos as of 9/20/2021 12:05 AM
+    // - ShadeblastHere
+    [{type:'webm', 'src':'videos/bomb.webm'}],
+    [{type:'mp4', 'src':'videos/baaldud.mp4'}],
+    [{type:'mp4', 'src':'videos/gone.mp4'}],
+    [{type:'mp4', 'src':'videos/laff.mp4'}],
+    [{type:'mp4', 'src':'videos/oyoyoyoyoyoyoy.mp4'}],
+    [{type:'mp4', 'src':'videos/video0-1286.mp4'}],
+    [{type:'mp4', 'src':'videos/video0-549.mp4'}],
+    [{type:'mp4', 'src':'videos/video0.mp4'}],
+    [{type:'mp4', 'src':'videos/z.mp4'}]
 ];
 
 var randomitem = videos[Math.floor(Math.random()*videos.length)];
@@ -90,6 +101,7 @@ document.getElementById('click').addEventListener("click", function(){
     document.getElementById("myVideo").style.opacity = 1
     document.getElementById("click").remove()
     newvideo(randomitem[0].src) // why are you still reading these comments bro,,, you have better shit to do
+                                // you're not my dad fuck you
 });
     
 function handler(e)
