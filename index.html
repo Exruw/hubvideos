@@ -69,18 +69,6 @@ $(document).keydown(function(e){
        return false;
     }
 });
-    interval = setInterval(function(){
-        if (!document.getElementById("myVideo").muted){
-            clearInterval(interval)
-            return
-        }
-        try {
-            document.getElementById("myVideo").muted = false
-        } catch(err) {
-        
-        }
-    }, 200)
-  
 
 })
 </script>
