@@ -9,8 +9,9 @@
     <link rel="icon" type="image/svg+xml" href="icon.svg" />    
     <link href="style.css" rel="stylesheet" type="text/css" />     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <video width="500" height="500" style="left: 50%;top: 50%; margin-left: -250px; margin-top: -250px; position: absolute;" autoplay muted id="myVideo">
+    <video width="500" height="500" style="top: 50%; right: 50%; transform: translate(50%,-50%); position: absolute; opacity: 0;" id="myVideo">
       </video>
+    <button style="top: 50%; right: 50%; transform: translate(50%,-50%); position: absolute;" id="click">click me</button>
 </head>
 
 <div id="banner-images"> </div>
@@ -24,12 +25,12 @@ var videos = [
     [{type:'mp4', 'src':'videos/rappingcat.mp4'}], // you can also add videos to the videos folder (or you can make a completely new folder for your videos shade
     [{type:'mp4', 'src':'videos/veggietale.mp4'}],
     [{type:'mp4', 'src':'videos/halflife.mp4'}],
+    [{type: "webm", src: "videos/top_infinity_cheese.webm"}],
+    [{type: "mov", src: "videos/cocaina.mov"}],
     [{type:'mp4', 'src':'videos/moyai.mp4'}],
     [{type:'mp4', 'src':'videos/onepiece.mp4'}],
     [{type:'mp4', 'src':'videos/paid.mp4'}],
     [{type:'mp4', 'src':'videos/the_cream.mp4'}],
-    [{type: "webm", src: "videos/top_infinity_cheese.webm"}],
-    [{type: "mov", src: "videos/cocaina.mov"}],
     [{type:'mp4', 'src':'https://cdn.discordapp.com/attachments/881656384352038963/888907647565324288/niko_1.mp4'}]
 ];
 
@@ -51,12 +52,15 @@ videoadd(vid,src ,'video/ogg');
 vid.autoplay = true;
 vid.load();
 }
-newvideo(randomitem[0].src) // why are you still reading these comments bro,,, you have better shit to do
 
 document.getElementById('myVideo').addEventListener('ended',handler,false);
-document.addEventListener("click", function(){
+document.getElementById('click').addEventListener("click", function(){
     document.getElementById("myVideo").muted = false
-})
+    document.getElementById("myVideo").opacity = 1
+    document.getElementById("button").opacity = 1
+    newvideo(randomitem[0].src) // why are you still reading these comments bro,,, you have better shit to do
+});
+    
 function handler(e)
 {
 newvideo(randomitem[0].src)
