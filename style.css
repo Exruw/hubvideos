@@ -6,6 +6,10 @@ html {
   padding: 0;
 }
 body {
-  margin: 0;
-  white-space: pre-wrap;
+  width: 100%;
+  display: table-cell;
+}
+html, body {
+    margin: 0;
+    padding: 0;
 }
