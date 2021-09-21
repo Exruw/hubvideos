@@ -1,71 +1,185 @@
 <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/svg+xml" href="icon.svg">
+        <meta name="description" content="A list of all videos.">
+        <meta name="theme-color" content="#FF0000">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <title>Video Directory</title>
 
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width">
-	<title>Video directory</title>
-	<meta name="description" content="List of all videos">
-	<meta name="theme-color" content="#FF0000" />
-	<link rel="icon" type="image/svg+xml" href="icon.svg" />
-	<h1>Videos are:</h1>
-	<p><a href="https://hubchicken.tk/videos/jumpscare.mp4">jumpscare.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/rightnow.mp4">rightnow.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/nicoarc.mp4">nikoarc.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/Remyboy.mp4">Remyboy.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/istock.mp4">istock.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/apple.mp4">apple.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/flopdday.mp4">flopdday.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/ltg.mp4">ltg.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/rappingcat.mp4">rappingcat.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/veggietale.mp4">veggietale.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/top_infinity_cheese.webm">top_infinity_cheese.webm</a>
-		<br><a href="https://hubchicken.tk/videos/cocaina.mov">cocaina.mov</a>
-		<br><a href="https://hubchicken.tk/videos/bomb.webm">bomb.webm</a>
-		<br><a href="https://hubchicken.tk/videos/THE_DVD.mp4">THE_DVD.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/baaldud.mp4">baaldud.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/gone.mp4">gone.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/alonedoggo.mp4">alonedoggo.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/dogepeic.mp4">dogepeic.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/funnydog.mp4">funnydog.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/welcome_to_the_underground.mp4">welcome_to_the_underground.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/how_was_the_fall.mp4">how_was_the_fall.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/video0-17-4.mp4">video0-17-4.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/dill.mp4">dill.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/laff.mp4">laff.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/oyoyoyoyoyoyoy.mp4">oyoyoyoyoyoyoy.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/video0-1286.mp4">video0-1286.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/video0-549.mp4">video0-549.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/video0.mp4">video0.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/z.mp4">z.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/moyai.mp4">moyai.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/bro.mp4">bro.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/peter.mp4">peter.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/onepiece.mp4">onepiece.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/paid.mp4">paid.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/shoe.mp4">shoe.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/bob.mp4">bob.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/zoroirlbelike.mp4">zoroirlbelike.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/WHAT.mp4">WHAT.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/3D.mp4">3D.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/pusi.mp4">pusi.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/banger.mp4">banger.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/air_istotle.mp4">air_istotle.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/appel.mp4">appel.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/demo_alarm.mp4">demo_alarm.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/Ok.mp4">Ok.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/racist_santa.mp4">racist_santa.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/ibs.mp4">ibs.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/familymissing.mp4">familymissing.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/oblivion.mp4">oblivion.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/phonecall.mp4">phonecall.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/the_cream.mp4">the_cream.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/beat.mp4">beat.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/HIS_FRIES.mp4">HIS_FRIES.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/pack.mov">pack.mov</a>
-		<br><a href="https://hubchicken.tk/videos/john.mp4">john.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/btd5.mp4">btd5.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/minecrafdt.mp4">minecrafdt.mp4</a>
-		<br><a href="https://hubchicken.tk/videos/hereicome.mp4">hereicome.mp4</a>
-		<br> </p>
-	<h2><a href="https://hubchicken.tk">Go Back</a></h2>
-</head>
+        <style>
+            :root {
+                --min-width: 400px;
+            }
+
+            body {
+                margin: 0;
+                background-color: #1e1e1e;
+            }
+
+            .topbar {
+                display: inline-block;
+                width: 100%;
+                min-width: var(--min-width);
+                margin: 0;
+                background-color: #262626;
+                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+                margin-bottom: 20px;
+            }
+
+            .topbar p {
+                text-align: center;
+                font-family: monospace;
+                font-size: 20px;
+                user-select: none;
+                color: white;
+            }
+
+            .topbar a {
+                font-size: 15px;
+                text-decoration: none;
+                color: white;
+            }
+
+            .topbar a:hover {
+                text-decoration: underline;
+            }
+
+            .content-container {
+                display: block;
+                margin: auto;
+                width: 50%;
+                min-width: var(--min-width);
+                height: 90vh;
+                word-wrap: break-word;
+                background-color: #262626;
+                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+                overflow: auto;
+                margin-bottom: 20px;
+            }
+
+            .content-container a {
+                display: block;
+                background-color: transparent;
+                padding: 5px 10px;
+                margin: 0;
+                font-family: monospace;
+                font-size: 15px;
+                user-select: none;
+                text-decoration: none;
+                text-align: center;
+                color: white;
+            }
+
+            .content-container a:hover {
+                text-decoration: underline;
+                background-color: #212121;
+            }
+
+            .content-container a:active {
+                background-color: #1a1a1a;
+            }
+
+            @media screen and (max-width: 768px) {
+                .content-container a {
+                    font-size: 12px;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="topbar">
+            <p>Video List<br><a href="https://hubchicken.tk/">Go Back</a></p>
+        </div>
+        <div class="content-container" id="container"></div>
+
+        <script>
+            $(document).ready(function(){
+                var videos = [
+                'https://cdn.discordapp.com/attachments/881656384352038963/888939092237238313/video0.mp4', 
+                'https://cdn.discordapp.com/attachments/883902480205905961/889500697538732092/WHA_DA.mp4',    
+                'videos/jumpscare.mp4',
+                'videos/rappingcat.mp4', 
+                'videos/veggietale.mp4',
+                'videos/halflife.mp4',
+                'videos/ltg.mp4',    
+                "videos/top_infinity_cheese.webm",
+                "videos/cocaina.mov",
+                'videos/moyai.mp4',
+                'videos/bro.mp4',
+                'videos/THE_DVD.mp4',
+                'videos/alonedoggo.mp4',
+                'videos/dogepeic.mp4',
+                'videos/funnydog.mp4',   
+                'videos/how_was_the_fall.mp4',
+                'videos/video0-17-4.mp4',
+                'videos/welcome_to_the_underground.mp4',    
+                'videos/onepiece.mp4',
+                'videos/apple.mp4',
+                'videos/istock.mp4',
+                'videos/Remyboy.mp4',
+                'videos/nicoarc.mp4',
+                'videos/rightnow.mp4',
+                'videos/flopdday.mp4',
+                'videos/paid.mp4',
+                'videos/dill.mp4',    
+                'videos/shoe.mp4',
+                'videos/bob.mp4',
+                'videos/zoroirlbelike.mp4',
+                'videos/WHAT.mp4',
+                'videos/pusi.mp4',
+                'videos/banger.mp4',
+                'videos/air_istotle.mp4',
+                'videos/appel.mp4',
+                'videos/demo_alarm.mp4',
+                'videos/Ok.mp4',
+                'videos/3D.mp4',
+                'videos/peter.mp4',
+                'videos/john.mp4',
+                'videos/btd5.mp4',
+                'videos/hereicome.mp4',
+                'videos/minecrafdt.mp4',
+                'videos/racist_santa.mp4',
+                'videos/ibs.mp4',
+                'videos/familymissing.mp4',
+                'videos/oblivion.mp4',
+                'videos/phonecall.mp4',
+                'videos/beat.mp4',
+                'videos/HIS_FRIES.mp4',
+                'videos/pack.mov',
+                'https://cdn.discordapp.com/attachments/857979217257955358/888969393793544203/video0_-_2021-07-14T024900.328.mp4',
+                'videos/the_cream.mp4',
+                'https://cdn.discordapp.com/attachments/881656384352038963/888907647565324288/niko_1.mp4',
+                'videos/bomb.webm',
+                'videos/baaldud.mp4',
+                'videos/gone.mp4',
+                'videos/laff.mp4',
+                'videos/oyoyoyoyoyoyoy.mp4',
+                'videos/video0-1286.mp4',
+                'videos/video0-549.mp4',
+                'videos/video0.mp4',
+                'videos/z.mp4'
+                ];
+                var container = document.getElementById("container");
+
+                function insertLink(text, link) {
+                    container.innerHTML += `<a href="${link}">${text}</a>`;
+                }
+
+                function formatText(text) {
+                    let formatted = text.split("videos/");
+                    if (formatted[1])
+                        return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replaceAll("_", " ");
+                    else
+                        return text;
+                }
+
+                videos.forEach(video => {
+                    insertLink(formatText(video), video);
+                })
+            });
+        </script>
+    </body>
+</html>
