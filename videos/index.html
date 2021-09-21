@@ -59,8 +59,21 @@
                 word-wrap: break-word;
                 background-color: #262626;
                 box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-                overflow: auto;
+                overflow-x: hidden;
+                overflow-y: auto;
                 margin-bottom: 20px;
+            }
+
+            .content-container input[type=text] {
+                width: 100%;
+                outline: none;
+                background-color: #262626;
+                border: none;
+                font-family: Inconsolata;
+                font-weight: 300;
+                font-size: 15px;
+                color: white;
+                padding: 5px 10px;
             }
 
             .content-container a {
@@ -107,7 +120,11 @@
         <div class="topbar">
             <p>Video List<br><a href="https://hubchicken.tk/">Go Back</a></p>
         </div>
-        <div class="content-container" id="container"></div>
+        <div class="content-container">
+            <input type="text" placeholder="Search a video.." id="search-text"><br>
+
+            <div id="container"></div>
+        </div>
 
         <footer>
             <p>Page designed by Infernocat</p>
@@ -199,6 +216,22 @@
                 videos.forEach(video => {
                     insertLink(formatText(video), video);
                 })
+
+                // Searching
+                var searchText = document.getElementById("search-text");
+
+                function searchItems(search) {
+                    container.innerHTML = ""
+                    videos.forEach(video => {
+                        if (formatText(video).substring(0, search.length).toLowerCase() == search.toLowerCase()) {
+                            insertLink(formatText(video), video);
+                        }
+                    });
+                }
+
+                searchText.onkeyup = function() {
+                    searchItems(searchText.value);
+                }
             });
         </script>
     </body>
