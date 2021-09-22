@@ -1,10 +1,3 @@
 ![Fuck you](https://cdn.discordapp.com/emojis/852669621941174302.gif?v=1)
 
-
- AMONG US IMPOSTERSAUCE MLGWARFARE WAS HERE
-
-shut the fuck up mlg
-
-Cock.
-
-exruw is black please ban him from your servers
+good job with the css sander hopefully you didnt copy paste from google
