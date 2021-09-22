@@ -12,10 +12,6 @@
         <style>
             @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
 
-            :root {
-                --min-width: 400px;
-            }
-
             body {
                 margin: 0;
                 background-color: #1e1e1e;
@@ -274,3 +270,198 @@
         </script>
     </body>
 </html>
+
+<!--
+
+Old source - just incase
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Random Videos</title>
+    <meta name="description" content="Everytime you reload the site, a new video appears!">
+    <meta name="theme-color" content="#0D69AB" />
+    <link rel="icon" type="image/svg+xml" href="icon.svg" />     
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
+        *{
+            font-family: Inconsolata;
+            font-size: larger;
+            color: rgb(230,230,230);
+            font-size: 1.5vw;
+            text-align: center;
+            justify-content: center;
+        }
+        #click{
+            background-color: rgb(15,15,15);
+            border: .5vh solid rgb(10,10,10);
+            border-radius: 10%;
+            margin: 1em auto;
+            right: 50%;
+        }
+        #click:active{
+            background-color: rgb(45,45,45);
+        }
+        body{
+            background-color: rgb(30,30,30);
+        }
+        fieldset{
+            border: .5vh solid rgb(15,15,15);
+            background-color: rgb(20,20,20);
+            /* font-size: 1vw; */
+            width: 50%;
+            height: 60%;
+/*             border-radius: 15%; */
+            text-align: center;
+            margin: 0px auto;
+        }
+    </style>
+    <div id="banner-images"> </div>
+    <script> 
+        $(document).ready(function(){
+
+            var videos = [
+            'https://cdn.discordapp.com/attachments/881656384352038963/888939092237238313/video0.mp4', 
+            'https://cdn.discordapp.com/attachments/883902480205905961/889500697538732092/WHA_DA.mp4',    
+            'videos/jumpscare.mp4',
+            'videos/rappingcat.mp4', 
+            'videos/veggietale.mp4',
+            'videos/halflife.mp4',
+            'videos/ltg.mp4',    
+            "videos/top_infinity_cheese.webm",
+            "videos/cocaina.mov",
+            'videos/moyai.mp4',
+            'videos/bro.mp4',
+            'videos/THE_DVD.mp4',
+            'videos/alonedoggo.mp4',
+            'videos/dogepeic.mp4',
+            'videos/funnydog.mp4',
+            'videos/THE_ONE_PIECE.mp4',    
+            'videos/how_was_the_fall.mp4',
+            'videos/video0-17-4.mp4',
+            'videos/welcome_to_the_underground.mp4',    
+            'videos/onepiece.mp4',
+            'videos/apple.mp4',
+            'videos/istock.mp4',
+            'videos/Remyboy.mp4',
+            'videos/nicoarc.mp4',
+            'videos/rightnow.mp4',
+            'videos/flopdday.mp4',
+            'videos/paid.mp4',
+            'videos/dill.mp4',    
+            'videos/shoe.mp4',
+            'videos/bob.mp4',
+            'videos/zoroirlbelike.mp4',
+            'videos/WHAT.mp4',
+            'videos/pusi.mp4',
+            'videos/banger.mp4',
+            'videos/air_istotle.mp4',
+            'videos/appel.mp4',
+            'videos/demo_alarm.mp4',
+            'videos/Ok.mp4',
+            'videos/3D.mp4',
+            'videos/peter.mp4',
+            'videos/john.mp4',
+            'videos/btd5.mp4',
+            'videos/hereicome.mp4',
+            'videos/minecrafdt.mp4',
+            'videos/racist_santa.mp4',
+            'videos/ibs.mp4',
+            'videos/familymissing.mp4',
+            'videos/oblivion.mp4',
+            'videos/phonecall.mp4',
+            'videos/beat.mp4',
+            'videos/HIS_FRIES.mp4',
+            'videos/pack.mov',
+            'https://cdn.discordapp.com/attachments/857979217257955358/888969393793544203/video0_-_2021-07-14T024900.328.mp4',
+            'videos/the_cream.mp4',
+            'https://cdn.discordapp.com/attachments/881656384352038963/888907647565324288/niko_1.mp4',
+            'videos/bomb.webm',
+            'videos/baaldud.mp4',
+            'videos/gone.mp4',
+            'videos/laff.mp4',
+            'videos/oyoyoyoyoyoyoy.mp4',
+            'videos/video0-1286.mp4',
+            'videos/video0-549.mp4',
+            'videos/video0.mp4',
+            'videos/z.mp4',
+            'videos/club_penguin_cart_ride.mp4',    
+            'videos/hackerman.mp4'
+            ];
+
+            var randomitem = videos[Math.floor(Math.random()*videos.length)];
+
+            const filetypes = [
+                "mp4","webm","mov","mp4","wav"
+            ];
+
+            function getfiletype(sourceurl){ // use this instead of your table garbage please it hurts to look at
+                for (let i = 0;i<filetypes.length;i++){
+                    if(sourceurl.endsWith(filetypes[i] !== undefined)){
+                        return filetypes[i];
+                    }
+                }
+            };
+
+            function videoadd(element, src, type) {
+                var source = document.createElement('source');
+                console.log(` new video added, video is ${src} and the file type is ${getfiletype(src)}`)
+                source.src = src;
+                source.type = type;
+                element.appendChild(source);
+            }
+
+
+            function newvideo(src)
+            {
+            var vid = document.getElementById("myVideo");
+            videoadd(vid,src ,'video/ogg');
+            vid.autoplay = true;
+            vid.load();
+            }
+
+            document.getElementById('myVideo').addEventListener('ended',handler,false);
+            document.getElementById('click').addEventListener("click", function(){
+                document.getElementById("myVideo").muted = false
+                document.getElementById("myVideo").style.opacity = 1
+                document.getElementById("click").remove()
+                newvideo(randomitem) // why are you still reading these comments bro,,, you have better shit to do
+                                            // you're not my dad fuck you
+            });
+                
+            function handler(e)
+            {
+            newvideo(randomitem)
+
+            }
+                // yea stolen from google lol
+            $(document).bind("contextmenu",function(e) {
+            e.preventDefault();
+            });
+
+            $(document).keydown(function(e){
+                if(e.which === 123){
+                return false;
+                }
+            });
+        })
+    </script>
+</head> 
+
+<body>
+    <fieldset>
+        <video id="myVideo" width="500" height="500"></video><br>
+        <input type = "button" value="press for free video" id = "click">
+    </fieldset>
+    <p>... or go <a href="https://hubchicken.tk/videos">here</a> for a list of videos</p>
+    <p>Website layout made by MLGwarfare04, site concept made by exruw and mau</p>
+    <p><a href="https://hubchicken.tk/contact.html">Contacts</a></p>
+</body>
+
+</html>
+
+-->
