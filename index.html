@@ -251,7 +251,9 @@
                 function loadVideo() {
                     videoSource.src = randomItem;
                     videoSource.type = "video/ogg";
-                    video.autoplay = true;
+                    try {
+                        video.autoplay = true;
+                    } catch(e) {}
                     video.load();
                 }
 
