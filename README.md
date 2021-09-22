@@ -6,3 +6,5 @@
 shut the fuck up mlg
 
 Cock.
+
+exruw is black please ban him from your servers
