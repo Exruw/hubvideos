@@ -155,6 +155,7 @@
         </div>
 
         <div class="content-container">
+            <a style="text-align: center;" id="video-link"></a>
             <video id="video">
                 <source id="video-source" src="">
             </video>
@@ -170,6 +171,13 @@
 
         <script>
             $(document).ready(function(){
+                /*
+                    MASSIVE PROBLEM:
+                    - Videos do not work on mobile
+                    - I do not know why
+                    - If anyone can research this, please fix
+                */
+                
                 var videos = [
                 'https://cdn.discordapp.com/attachments/881656384352038963/888939092237238313/video0.mp4', 
                 'https://cdn.discordapp.com/attachments/883902480205905961/889500697538732092/WHA_DA.mp4',    
@@ -242,24 +250,33 @@
                 var video = document.getElementById("video");
                 var videoSource = document.getElementById("video-source");
                 var videoButton = document.getElementById("video-button");
+                var videoLink = document.getElementById("video-link");
                 let randomItem = null;
 
                 function randomNumber(range) {
                     return Math.floor(Math.random() * range);
                 }
 
+                function formatText(text) {
+                    let formatted = text.split("videos/");
+                    if (formatted[1])
+                        // fuk u if you have a file extension twice
+                        return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replaceAll("_", " ");
+                    else
+                        return text;
+                }
+
                 function loadVideo() {
                     videoSource.src = randomItem;
                     videoSource.type = "video/ogg";
-                    try {
-                        video.autoplay = true;
-                    } catch(e) {}
+                    video.autoplay = true;
                     video.load();
                 }
 
                 function addVideo() {
                     randomItem = videos[randomNumber(videos.length)];
-                    console.log(randomItem);
+                    videoLink.textContent = formatText(randomItem);
+                    videoLink.href = randomItem;
                     loadVideo();
                 }
 
