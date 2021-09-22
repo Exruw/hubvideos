@@ -200,7 +200,8 @@
                 var container = document.getElementById("container");
 
                 function insertLink(text, link) {
-                    container.innerHTML += `<a href="${link.replace('video/', '')}">${text}</a>`;
+                    link = link.replace("video/", "");
+                    container.innerHTML += `<a href="${link}">${text}</a>`;
                 }
 
                 function formatText(text) {
