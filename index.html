@@ -284,10 +284,6 @@
                 var videoLink = document.getElementById("video-link");
                 let randomItem = null;
 
-                function randomNumber(range) {
-                    return Math.floor(Math.random() * range);
-                }
-
                 function formatText(text) {
                     let formatted = text.split("videos/");
                     if (formatted[1])
@@ -305,7 +301,7 @@
                 }
 
                 function addVideo() {
-                    randomItem = videos[randomNumber(videos.length)];
+                    randomItem = getRandomVideo();
                     videoLink.textContent = formatText(randomItem);
                     videoLink.href = randomItem;
                     loadVideo();
