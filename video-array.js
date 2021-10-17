@@ -80,7 +80,8 @@ var videoArray = [
   // New videos as of 9/25/2021, 4:20 PM (in romanian time)
   // - ShadeblastHere
   'videos/oh_hell_no.mp4',
-  'videos/ltgv2.mp4'
+  'videos/ltgv2.mp4',
+  'videos/put-a-finger-down.mp4'
 ];
 
 export function getArray() {
