@@ -81,7 +81,9 @@ var videoArray = [
   // - ShadeblastHere
   'videos/oh_hell_no.mp4',
   'videos/ltgv2.mp4',
-  'videos/put-a-finger-down.mp4'
+  'videos/put-a-finger-down.mp4',
+  'videos/funky.mp4',
+  'videos/another-canister.mp4'
 ];
 
 export function getArray() {
