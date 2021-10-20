@@ -83,7 +83,13 @@ var videoArray = [
   'videos/ltgv2.mp4',
   'videos/put-a-finger-down.mp4',
   'videos/funky.mp4',
-  'videos/another-canister.mp4'
+  'videos/another-canister.mp4',
+  'videos/snake-in-my-boot.mp4',
+  'videos/bugs-life.mp4',
+  'videos/slink-da-kink.mp4',
+  'videos/another-grail.mp4',
+  'videos/monsters-university.mp4',
+  'videos/rattatooly.mp4'
 ];
 
 export function getArray() {
