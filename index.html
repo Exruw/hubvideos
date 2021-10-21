@@ -205,7 +205,7 @@
                     let formatted = text.split("videos/");
                     if (formatted[1])
                         // fuk u if you have a file extension twice
-                        return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replaceAll("_", " ");
+                        return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replaceAll("_", " ").replaceAll("-", " ");
                     else
                         return text;
                 }
