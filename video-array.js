@@ -89,7 +89,8 @@ var videoArray = [
   'videos/slink-da-kink.mp4',
   'videos/another-grail.mp4',
   'videos/monsters-university.mp4',
-  'videos/rattatooly.mp4'
+  'videos/rattatooly.mp4',
+  'videos/handsome-squidward.mp4'
 ];
 
 export function getArray() {
