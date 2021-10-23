@@ -80,6 +80,7 @@ var videoArray = [
   // New videos as of 9/25/2021, 4:20 PM (in romanian time)
   // - ShadeblastHere
   'videos/oh_hell_no.mp4',
+  //
   'videos/ltgv2.mp4',
   'videos/put-a-finger-down.mp4',
   'videos/funky.mp4',
@@ -90,7 +91,43 @@ var videoArray = [
   'videos/another-grail.mp4',
   'videos/monsters-university.mp4',
   'videos/rattatooly.mp4',
-  'videos/handsome-squidward.mp4'
+  'videos/handsome-squidward.mp4',
+  // New videos as of 10/23/2021, 3:08 AM (in romanian time)
+  // - ShadeblastHere
+  'videos/thisdude.mp4',
+  'videos/GCSDK_fish.webm',
+  'videos/long_way_from_texas',
+  'videos/experimente.mp4',
+  'videos/exploiters.mp4',
+  'videos/sex_win.mp4',
+  'videos/chirumiru.mp4',
+  'videos/screwthenether.mp4',
+  'videos/sew_ner.mp4',
+  'videos/video0_9-9.mp4',
+  'videos/soccer.mp4',
+  'videos/succ.mp4',
+  'videos/screamroom.mp4',
+  'videos/youre_not_here_alone.mp4',
+  'videos/musolinni_feesh.mp4',
+  'videos/robloxian.mp4',
+  'videos/the_good_music.mp4',
+  'videos/LUFFY_NO.mp4',
+  'videos/boris.mp4',
+  'videos/la_creatura-1.mp4',
+  'videos/Penis_dubstep_intro240P.mp4',
+  'videos/SAKUYA_GIVING_CIRNO_THE_FISHE_--------240P.mp4',
+  'videos/Sin_titulo_100_480p.mp4',
+  'videos/shocking_discovery.mp4',
+  'videos/Real_life_Father_Grigori_Half_Life_2_meme.mp4',
+  'videos/gock.mp4',
+  'videos/spider.mp4',
+  'videos/kit.mp4',
+  'videos/video0-6-19-1.mp4',
+  'videos/okay_i_pull_up_hop_out_at_the_after_party_you_and_all_your_friends_yeah_they_love_to_get_naughtysipp.mp4',
+  'videos/ichiban.mp4',
+  'videos/tunak.mp4',
+  'videos/broke_ass.mp4'
+  //
 ];
 
 export function getArray() {
