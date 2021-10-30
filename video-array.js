@@ -7,6 +7,7 @@ var videoArray = [
   'videos/jumpscare.mp4',
   'videos/rappingcat.mp4', 
   'videos/veggietale.mp4',
+  'videos/mathclass.mp4',
   'videos/halflife.mp4',
   'videos/ltg.mp4',    
   "videos/top_infinity_cheese.webm",
