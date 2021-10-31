@@ -127,8 +127,11 @@ var videoArray = [
   'videos/okay_i_pull_up_hop_out_at_the_after_party_you_and_all_your_friends_yeah_they_love_to_get_naughtysipp.mp4',
   'videos/ichiban.mp4',
   'videos/tunak.mp4',
-  'videos/broke_ass.mp4'
+  'videos/broke_ass.mp4',
   //
+  // I think you know the drill by now
+  // 10/31/2021
+  'videos/pigalert.mp4'
 ];
 
 export function getArray() {
