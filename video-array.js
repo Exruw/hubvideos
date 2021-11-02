@@ -131,7 +131,39 @@ var videoArray = [
   //
   // I think you know the drill by now
   // 10/31/2021
-  'videos/pigalert.mp4'
+  'videos/pigalert.mp4',
+  // Fuck
+  // 11/3/2021
+  'videos/ferb.mp4',
+  'videos/what_the_hell_is_this.mp4',
+  'videos/whateven.mp4',
+  'videos/hack.mp4',
+  'videos/roblox-1.mp4',
+  'videos/roblox_client_1995.mp4',
+  'videos/old_roblox.mp4',
+  'videos/misterobvious.mp4',
+  'videos/Gangsta_Rap_-_Ni__a_Ni__a_Ni__a_Clean_Version.mp4',
+  'videos/Windows_Gangster_Edition.mp4',
+  'videos/joe_biden.mp4',
+  'videos/for_you.mp4',
+  'videos/damn_daniel.mp4',
+  'videos/That_oughta_do_it.mp4',
+  'videos/Amarillo_amarillo_los_platanos_240P_1.mp4',
+  'videos/My_somewhat_useless_invention.mp4',
+  'videos/unibombed.mp4',
+  'videos/EPIC.mp4',
+  'videos/pornoputas.mp4',
+  'videos/LMFAO0.mp4',
+  'videos/battleofwits.mp4',
+  'videos/eminem_turtle_1.mp4',
+  'videos/jumpscare-2.mp4',
+  'videos/youu.mp4',
+  'videos/THE_DOOR.mp4',
+  'videos/no_bomb.mp4',
+  'videos/doctor_freeeeman.mp4',
+  'videos/download_hl_2_free.mp4',
+  'videos/free_bosnian_half_life_steam_cd_key_no_fkae.mp4'
+  //
 ];
 
 export function getArray() {
