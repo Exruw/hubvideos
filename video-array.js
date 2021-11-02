@@ -177,7 +177,7 @@ var videoArray = [
   'videos/betmen.mov',
   'videos/Ultrakill.mp4',
   'videos/Traktor.mp4',
-  'videos/GOOOOST.mp4',
+  'videos/GOOOOST.mov',
   'videos/rat-2.mp4',
   'videos/rat_capture.mp4',
   'videos/crat.mp4',
