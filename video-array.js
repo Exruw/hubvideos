@@ -162,7 +162,8 @@ var videoArray = [
   'videos/no_bomb.mp4',
   'videos/doctor_freeeeman.mp4',
   'videos/download_hl_2_free.mp4',
-  'videos/free_bosnian_half_life_steam_cd_key_no_fkae.mp4'
+  'videos/free_bosnian_half_life_steam_cd_key_no_fkae.mp4',
+  'videos/AAAUGH.mp4'
   //
 ];
 
