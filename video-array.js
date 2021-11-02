@@ -97,7 +97,7 @@ var videoArray = [
   // - ShadeblastHere
   'videos/thisdude.mp4',
   'videos/GCSDK_fish.webm',
-  'videos/long_way_from_texas',
+  'videos/long_way_from_texas.mp4', // And nobody noticed.
   'videos/experimente.mp4',
   'videos/exploiters.mp4',
   'videos/sex_win.mp4',
