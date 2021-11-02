@@ -163,7 +163,31 @@ var videoArray = [
   'videos/doctor_freeeeman.mp4',
   'videos/download_hl_2_free.mp4',
   'videos/free_bosnian_half_life_steam_cd_key_no_fkae.mp4',
-  'videos/AAAUGH.mp4'
+  //
+  'videos/AAAUGH.mp4',
+  //
+  'videos/GREEN_SAMUS.mp4',
+  'videos/pala.mp4',
+  'videos/bin.mp4',
+  'videos/blya.mp4',
+  'videos/Angry_Russian_Sound_Effect_Anomaly_1.mp4',
+  'videos/russia.mp4',
+  'videos/Russian_sneeze.mp4',
+  'videos/russian_cat_hangover.mp4',
+  'videos/betmen.mov',
+  'videos/Ultrakill.mp4',
+  'videos/Traktor.mp4',
+  'videos/GOOOOST.mp4',
+  'videos/rat-2.mp4',
+  'videos/rat_capture.mp4',
+  'videos/crat.mp4',
+  'videos/rate_throw_plague_be_upon_you.mp4',
+  'videos/racoon.mp4',
+  'videos/ebf5_soundtrack.mp4',
+  'videos/TRACKED.mp4',
+  'videos/The_feeling_the.mp4',
+  'videos/kotttot.mp4',
+  'videos/Nymphis_Fae_but_its_mixed_together_with_JECXZ_Start.mp4'
   //
 ];
 
