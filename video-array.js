@@ -248,8 +248,19 @@ var videoArray = [
   'videos/what_is_this.mp4',
   // SPONGEBOBP :D 11/3/2021 9:32 PM EST Exruw
   'videos/spongebopb.mp4',
-  'videos/GeorgeOfTheJungle.webm'
-  //
+  'videos/GeorgeOfTheJungle.webm',
+  // fetch me their souls 11/4/2021 romanian
+  'videos/dullahan.mp4',
+  'videos/insanity.mp4',
+  'videos/hackermode.mp4',
+  'videos/canada.mp4',
+  'videos/burgerking.mp4',
+  'videos/pala.mp4',
+  'videos/aerodynamics.mp4',
+  'videos/patrick.mp4',
+  'videos/apocalypse.mov',
+  'videos/Horde.mp4',
+  'videos/wither.mp4'
 ];
 
 export function getArray() {
