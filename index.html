@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,171 +9,32 @@
         <meta property="og:title" content="Random Videos" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://hubchicken.tk" />
-        <meta property="og:image" content="https://hubchicken.tk/HUBCHICKEN.png" />
-        <meta property="og:description" content="Everytime you click the button, a new video appears!" />
+        <meta property="og:image"
+            content="https://hubchicken.tk/HUBCHICKEN.png" />
+        <meta property="og:description"
+            content="Everytime you click the button, a new video appears!" />
         <meta name="theme-color" content="#0D69AB">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <title>Random Videos</title>
-
-        <style>
-            @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
-
-            body {
-                margin: 0;
-                background-color: #1e1e1e;
-            }
-
-            hr {
-                border: 1px solid white;
-            }
-
-            .topbar {
-                display: inline-block;
-                width: 100%;
-                margin: 0;
-                background-color: #262626;
-                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-                margin-bottom: 20px;
-            }
-
-            .topbar p {
-                text-align: center;
-                font-family: Inconsolata;
-                font-weight: 400;
-                font-size: 20px;
-                user-select: none;
-                color: white;
-            }
-
-            .topbar span {
-                font-size: 15px;
-                color: white;
-            }
-
-            .content-container {
-                display: block;
-                margin: auto;
-                width: 50%;
-                word-wrap: break-word;
-                background-color: #262626;
-                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-                overflow-x: hidden;
-                overflow-y: auto;
-                padding: 10px;
-                margin-bottom: 20px;
-            }
-
-            .content-container p {
-                font-family: Inconsolata;
-                font-weight: 300;
-                font-size: 15px;
-                color: white;
-                user-select: none;
-                padding: 2px 0;
-                margin: 0;
-            }
-
-            .content-container video {
-                width: 100%;
-                height: 500px;
-                background-color: black;
-            }
-
-            .content-container input[type=button] {
-                display: block;
-                background-color: transparent;
-                padding: 5px 10px;
-                margin: 0;
-                font-family: Inconsolata;
-                font-weight: 300;
-                font-size: 15px;
-                width: 100%;
-                cursor: pointer;
-                user-select: none;
-                text-decoration: none;
-                text-align: center;
-                color: white;
-                border: none;
-            }
-
-            .content-container input[type=button]:hover {
-                text-decoration: underline;
-                background-color: #212121;
-            }
-
-            .content-container a {
-                display: block;
-                background-color: transparent;
-                padding: 5px 10px;
-                margin: 0;
-                font-family: Inconsolata;
-                font-weight: 300;
-                font-size: 15px;
-                user-select: none;
-                text-decoration: none;
-                text-align: left;
-                color: white;
-            }
-
-            .content-container a:hover {
-                text-decoration: underline;
-                background-color: #212121;
-            }
-
-            .content-container a:active {
-                background-color: #1a1a1a;
-            }
-
-            footer {
-                bottom: 0;
-                width: 100%;
-                position: fixed;
-            }
-
-            footer p {
-                text-align: center;
-                font-family: Inconsolata;
-                font-weight: 300;
-                font-size: 15px;
-                color: #c9c9c9;
-                user-select: none;
-            }
-
-
-            @media screen and (max-width: 768px) {
-                .topbar p {
-                    font-size: 17px;
-                }
-
-                .topbar a {
-                    font-size: 12px;
-                }
-
-                .content-container {
-                    width: 85%;
-                }
-
-                .content-container video {
-                    height: 300px;
-                }
-
-                .content-container a {
-                    font-size: 12px;
-                }
-            }
-        </style>
+        <link rel="stylesheet" href="style.css">
     </head>
+
     <body>
         <div class="topbar">
-            <p>Hubchicken.tk<br><span><em>Welcome to hell.</em></span></p>
+            <img onclick="new Audio('hubchicken.mp3').play()"
+                style="cursor: pointer;" src="HUBCHICKEN.png" alt="Hubchicken"
+                height="35" />
+            <article>
+                <p>Hubchicken.tk<br><span><em>Welcome to hell.</em></span></p>
+            </article>
         </div>
 
         <div class="content-container">
-            <a style="text-align: center;" id="video-link"></a>
+            <a style="text-align: center;" id="video-link" download></a>
             <video id="video">
                 <source id="video-source" src="">
             </video>
-            <input type="button" value="Click this to load a random video" id="video-button">
+            <input type="button" value="Click this to load a random video"
+                id="video-button">
         </div>
 
         <div class="content-container">
@@ -183,250 +45,165 @@
         </div>
 
         <script type="module">
-            import { getArray, getRandomVideo } from "https://hubchicken.tk/video-array.js"
-            $(document).ready(function(){
-                /*
-                    MASSIVE PROBLEM:
-                    - Videos do not work on mobile
-                    - I do not know why
-                    - If anyone can research this, please fix
-                    
-                    Solution: Mobile sucks dick lmao
-                    NOTE: IF YOU WANT TO ADD VIDEOS, GO TO video-array.js
-                */
+            import { getArray, getRandomVideo } from "./video-array.js"
+            /*
+                MASSIVE PROBLEM:
+                - Videos do not work on mobile
+                - I do not know why
+                - If anyone can research this, please fix
+                
+                Solution: Mobile sucks dick lmao
+                NOTE: IF YOU WANT TO ADD VIDEOS, GO TO video-array.js
+            */
 
-                var video = document.getElementById("video");
-                var videoSource = document.getElementById("video-source");
-                var videoButton = document.getElementById("video-button");
-                var videoLink = document.getElementById("video-link");
-                let randomItem = null;
+            var video = document.getElementById("video");
+            var videoSource = document.getElementById("video-source");
+            var videoButton = document.getElementById("video-button");
+            var videoLink = document.getElementById("video-link");
+            let randomItem = null;
 
-                function formatText(text) {
-                    let formatted = text.split("videos/");
-                    if (formatted[1])
-                        // fuk u if you have a file extension twice
-                        return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replaceAll("_", " ").replaceAll("-", " ");
-                    else
-                        return text;
+            function formatText(text) {
+                let formatted = text.split("videos/");
+                if (formatted[1])
+                    // fuk u if you have a file extension twice
+                    return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replaceAll("_", " ").replaceAll("-", " ");
+                else
+                    return text;
+            }
+
+            function loadVideo() {
+                videoSource.src = randomItem;
+                videoSource.type = "video/ogg";
+                video.autoplay = true;
+                video.load();
+            }
+
+            function addVideo() {
+                randomItem = getRandomVideo();
+                videoLink.textContent = formatText(randomItem);
+                videoLink.href = randomItem;
+                loadVideo();
+            }
+
+
+            video.addEventListener("ended", loadVideo, false);
+            videoButton.addEventListener("click", addVideo);
+
+            /** @type {<Type>(arr: Type[]) => Type} */
+            const random = arr => arr[Math.floor(Math.random() * arr.length)]
+            function particles({
+                amount = 50,
+                delay = 10,
+                duration = 1000,
+                photos = [
+                    'moller',
+                    'molly_hq',
+                    'seconds before bragle',
+                    'she wants your food',
+                    'sitting on top of headrest',
+                    'zzz',
+                    'cool sleep',
+                    'molge',
+                    'begging',
+                    'standing'
+                ].map((a) => `./molly/${a}.png`),
+                pos: [x, y] = ['0%', '100%']
+            }) {
+                for (const i of Array(amount).keys()) {
+                    const img = new Image(150, 150)
+                    img.src = random(photos)
+                    img.style = `
+                    position: fixed;
+                    transform-origin: center center;
+                    object-fit: contain;
+                    `
+                    img.ariaHidden = 'true'
+                    document.body.appendChild(img)
+                    img.animate([{ opacity: 0 }, { opacity: 1 }], {
+                        delay: i * delay,
+                        duration: 100,
+                        fill: 'both'
+                    })
+                    img
+                        .animate(
+                            [
+                                {
+                                    top: Math.random() * 100 + '%',
+                                    left: Math.random() * 100 + '%'
+                                },
+                                { top: y, left: x, width: 0, height: 0 }
+                            ],
+                            {
+                                delay: i * delay,
+                                easing: 'cubic-bezier(.95, .05, .795, .035)',
+                                duration: duration,
+                                fill: 'both'
+                            }
+                        )
+                        .addEventListener('finish', () => {
+                            img.remove()
+                        })
                 }
-
-                function loadVideo() {
-                    videoSource.src = randomItem;
-                    videoSource.type = "video/ogg";
-                    video.autoplay = true;
-                    video.load();
-                }
-
-                function addVideo() {
-                    randomItem = getRandomVideo();
-                    videoLink.textContent = formatText(randomItem);
-                    videoLink.href = randomItem;
-                    loadVideo();
-                }
+            }
 
 
-                video.addEventListener("ended", loadVideo, false);
-                videoButton.addEventListener("click", addVideo);
-
-
-                // Hide context menu
-                $(document).bind("contextmenu", function(e) {
-                    e.preventDefault();
+            /** @param {string} text @param {HTMLElement} [paragraph] */
+            function say(text, paragraph) {
+                const voice = random(speechSynthesis.getVoices().filter(voice => voice.lang.startsWith('en-')))
+                let handle
+                return new Promise((resolve) => {
+                    function check() {
+                        if (speechSynthesis.speaking) {
+                            handle = requestAnimationFrame(check)
+                        } else {
+                            cancelAnimationFrame(handle)
+                            resolve()
+                        }
+                    }
+                    const utter = new SpeechSynthesisUtterance(text)
+                    utter.voice = voice
+                    if (paragraph) {
+                        paragraph.innerText = ""
+                    }
+                    utter.addEventListener('boundary', function (event) {
+                        if (paragraph) {
+                            paragraph.innerText = text.substring(0, event.charIndex + event.charLength)
+                        }
+                    });
+                    speechSynthesis.speak(utter)
+                    check()
                 })
-            });
+            }
+
+            const moller = [
+                'moller',
+                'molly_hq',
+                'seconds before bragle',
+                'she wants your food',
+                'sitting on top of headrest',
+                'zzz',
+                'cool sleep',
+                'molge',
+                'begging',
+                'standing'
+            ].map((a) => `./molly/${a}.png`)
+            // Hide context menu
+            document.body.addEventListener('contextmenu', event => {
+                event.preventDefault()
+                if (event.target?.id !== 'video-link') {
+                    new Audio('https://www.myinstants.com/media/sounds/vine-boom.mp3').play()
+
+                    particles({
+                        pos: [event.pageX + 'px', event.pageY + 'px'],
+                        duration: 300,
+                        delay: 1
+                    })
+                } else {
+                    navigator.clipboard.writeText(videoLink.href)
+                    say(`Copied to clipboard.`)
+                }
+            })
         </script>
     </body>
-</html>
-
-<!--
-
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Random Videos</title>
-    <meta name="description" content="Everytime you reload the site, a new video appears!">
-    <meta name="theme-color" content="#0D69AB" />
-    <link rel="icon" type="image/svg+xml" href="icon.svg" />     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-
-    <style>
-        @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
-        *{
-            font-family: Inconsolata;
-            font-size: larger;
-            color: rgb(230,230,230);
-            font-size: 1.5vw;
-            text-align: center;
-            justify-content: center;
-        }
-        #click{
-            background-color: rgb(15,15,15);
-            border: .5vh solid rgb(10,10,10);
-            border-radius: 10%;
-            margin: 1em auto;
-            right: 50%;
-        }
-        #click:active{
-            background-color: rgb(45,45,45);
-        }
-        body{
-            background-color: rgb(30,30,30);
-        }
-        fieldset{
-            border: .5vh solid rgb(15,15,15);
-            background-color: rgb(20,20,20);
-            /* font-size: 1vw; */
-            width: 50%;
-            height: 60%;
-/*             border-radius: 15%; */
-            text-align: center;
-            margin: 0px auto;
-        }
-    </style>
-    <div id="banner-images"> </div>
-    <script> 
-        $(document).ready(function(){
-
-            var videos = [
-            'https://cdn.discordapp.com/attachments/881656384352038963/888939092237238313/video0.mp4', 
-            'https://cdn.discordapp.com/attachments/883902480205905961/889500697538732092/WHA_DA.mp4',    
-            'videos/jumpscare.mp4',
-            'videos/rappingcat.mp4', 
-            'videos/veggietale.mp4',
-            'videos/halflife.mp4',
-            'videos/ltg.mp4',    
-            "videos/top_infinity_cheese.webm",
-            "videos/cocaina.mov",
-            'videos/moyai.mp4',
-            'videos/bro.mp4',
-            'videos/THE_DVD.mp4',
-            'videos/alonedoggo.mp4',
-            'videos/dogepeic.mp4',
-            'videos/funnydog.mp4',
-            'videos/THE_ONE_PIECE.mp4',    
-            'videos/how_was_the_fall.mp4',
-            'videos/video0-17-4.mp4',
-            'videos/welcome_to_the_underground.mp4',    
-            'videos/onepiece.mp4',
-            'videos/apple.mp4',
-            'videos/istock.mp4',
-            'videos/Remyboy.mp4',
-            'videos/nicoarc.mp4',
-            'videos/rightnow.mp4',
-            'videos/flopdday.mp4',
-            'videos/paid.mp4',
-            'videos/dill.mp4',    
-            'videos/shoe.mp4',
-            'videos/bob.mp4',
-            'videos/zoroirlbelike.mp4',
-            'videos/WHAT.mp4',
-            'videos/pusi.mp4',
-            'videos/banger.mp4',
-            'videos/air_istotle.mp4',
-            'videos/appel.mp4',
-            'videos/demo_alarm.mp4',
-            'videos/Ok.mp4',
-            'videos/3D.mp4',
-            'videos/peter.mp4',
-            'videos/john.mp4',
-            'videos/btd5.mp4',
-            'videos/hereicome.mp4',
-            'videos/minecrafdt.mp4',
-            'videos/racist_santa.mp4',
-            'videos/ibs.mp4',
-            'videos/familymissing.mp4',
-            'videos/oblivion.mp4',
-            'videos/phonecall.mp4',
-            'videos/beat.mp4',
-            'videos/HIS_FRIES.mp4',
-            'videos/pack.mov',
-            'https://cdn.discordapp.com/attachments/857979217257955358/888969393793544203/video0_-_2021-07-14T024900.328.mp4',
-            'videos/the_cream.mp4',
-            'https://cdn.discordapp.com/attachments/881656384352038963/888907647565324288/niko_1.mp4',
-            'videos/bomb.webm',
-            'videos/baaldud.mp4',
-            'videos/gone.mp4',
-            'videos/laff.mp4',
-            'videos/oyoyoyoyoyoyoy.mp4',
-            'videos/video0-1286.mp4',
-            'videos/video0-549.mp4',
-            'videos/video0.mp4',
-            'videos/z.mp4',
-            'videos/club_penguin_cart_ride.mp4',    
-            'videos/hackerman.mp4'
-            ];
-
-            var randomitem = videos[Math.floor(Math.random()*videos.length)];
-
-            const filetypes = [
-                "mp4","webm","mov","mp4","wav"
-            ];
-
-            function getfiletype(sourceurl){ // use this instead of your table garbage please it hurts to look at
-                for (let i = 0;i<filetypes.length;i++){
-                    if(sourceurl.endsWith(filetypes[i] !== undefined)){
-                        return filetypes[i];
-                    }
-                }
-            };
-
-            function videoadd(element, src, type) {
-                var source = document.createElement('source');
-                console.log(` new video added, video is ${src} and the file type is ${getfiletype(src)}`)
-                source.src = src;
-                source.type = type;
-                element.appendChild(source);
-            }
-
-
-            function newvideo(src)
-            {
-            var vid = document.getElementById("myVideo");
-            videoadd(vid,src ,'video/ogg');
-            vid.autoplay = true;
-            vid.load();
-            }
-
-            document.getElementById('myVideo').addEventListener('ended',handler,false);
-            document.getElementById('click').addEventListener("click", function(){
-                document.getElementById("myVideo").muted = false
-                document.getElementById("myVideo").style.opacity = 1
-                document.getElementById("click").remove()
-                newvideo(randomitem) // why are you still reading these comments bro,,, you have better shit to do
-                                            // you're not my dad fuck you
-            });
-                
-            function handler(e)
-            {
-            newvideo(randomitem)
-
-            }
-                // yea stolen from google lol
-            $(document).bind("contextmenu",function(e) {
-            e.preventDefault();
-            });
-
-            $(document).keydown(function(e){
-                if(e.which === 123){
-                return false;
-                }
-            });
-        })
-    </script>
-</head> 
-
-<body>
-    <fieldset>
-        <video id="myVideo" width="500" height="500"></video><br>
-        <input type = "button" value="press for free video" id = "click">
-    </fieldset>
-    <p>... or go <a href="https://hubchicken.tk/videos">here</a> for a list of videos</p>
-    <p>Website layout made by MLGwarfare04, site concept made by exruw and mau</p>
-    <p><a href="https://hubchicken.tk/contact.html">Contacts</a></p>
-</body>
 
 </html>
-
--->

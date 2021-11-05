@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
+
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="icon" type="image/svg+xml" href="icon.svg">
         <meta name="description" content="A list of all videos.">
         <meta name="theme-color" content="#262626">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <title>Video Directory</title>
 
         <style>
             @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
-            
+
             body {
                 margin: 0;
                 background-color: #1e1e1e;
@@ -111,62 +111,65 @@
                     font-size: 12px;
                 }
             }
+
         </style>
     </head>
+
     <body>
         <div class="topbar">
             <p>Video List<br><a href="https://hubchicken.tk/">Go Back</a></p>
         </div>
 
-        <div class="content-container"><input type="text" placeholder="Search a video.." id="search-text"></div>
+        <div class="content-container"><input type="text"
+                placeholder="Search a video.." id="search-text"></div>
 
-        <div class="content-container" style="height: calc(88vh - 97px);" id="container"></div>
+        <div class="content-container" style="height: calc(88vh - 97px);"
+            id="container"></div>
 
         <footer>
             <p>Page designed by Infernocat</p>
         </footer>
 
         <script type="module">
-            import { getArray } from "https://hubchicken.tk/video-array.js"
-            $(document).ready(function(){
-                var videos = getArray();
-                var container = document.getElementById("container");
+            import { getArray } from "../video-array.js"
+            var videos = getArray();
+            var container = document.getElementById("container");
 
-                function insertLink(text, link) {
-                    link = link.replace("videos/", "");
-                    container.innerHTML += `<a href="${link}">${text}</a>`;
-                }
+            function insertLink(text, link) {
+                link = link.replace("videos/", "");
+                container.innerHTML += `<a href="${link}">${text}</a>`;
+            }
 
-                function formatText(text) {
-                    let formatted = text.split("videos/");
-                    if (formatted[1])
-                        // fuk u if you have a file extension twice
-                        return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replaceAll("_", " ").replaceAll("-", " ");
-                    else
-                        return text;
-                }
+            function formatText(text) {
+                let formatted = text.split("videos/");
+                if (formatted[1])
+                    // fuk u if you have a file extension twice
+                    return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replaceAll("_", " ").replaceAll("-", " ");
+                else
+                    return text;
+            }
 
-                videos.sort();
+            videos.sort();
+            videos.forEach(video => {
+                insertLink(formatText(video), video);
+            })
+
+            // Searching
+            var searchText = document.getElementById("search-text");
+
+            function searchItems(search) {
+                container.innerHTML = ""
                 videos.forEach(video => {
-                    insertLink(formatText(video), video);
-                })
+                    if (formatText(video).substring(0, search.length).toLowerCase() == search.toLowerCase()) {
+                        insertLink(formatText(video), video);
+                    }
+                });
+            }
 
-                // Searching
-                var searchText = document.getElementById("search-text");
-
-                function searchItems(search) {
-                    container.innerHTML = ""
-                    videos.forEach(video => {
-                        if (formatText(video).substring(0, search.length).toLowerCase() == search.toLowerCase()) {
-                            insertLink(formatText(video), video);
-                        }
-                    });
-                }
-
-                searchText.onkeyup = function() {
-                    searchItems(searchText.value);
-                }
-            });
+            searchText.onkeyup = function () {
+                searchItems(searchText.value);
+            }
         </script>
     </body>
+
 </html>
