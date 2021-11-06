@@ -264,13 +264,45 @@ var videoArray = [
   'videos/Horde.mp4',
   'videos/wither.mp4',
   // mr banger tweet
-  // 11/4/2021,
+  // 11/4/2021
   'videos/video0-1-1-1_1.mp4',
   'videos/0e0dc8ce78c2277e4fd834a930119462.mp4',
   //11/5/2021
   //AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
   'videos/kids.mov',
-  'videos/video0.mp4'
+  'videos/video0.mp4',
+  //
+  // 11/6/2021
+  // ShadeblastHere
+  // Shut the fuck up
+  'videos/UUUUUA_AUUUUU.mp4',
+  'videos/joelghost.mp4',
+  'videos/christmes.mp4',
+  'videos/mexican.mp4',
+  'videos/NATS.mp4',
+  'videos/balls.mp4',
+  'videos/balls-1.mp4',
+  'videos/GiveUsYourBalls.mp4',
+  'videos/dawg.mp4',
+  'videos/string_shrk.mp4',
+  'videos/I_will_become_back_my_money.mp4',
+  'videos/payacho.webm',
+  'videos/video0-224.mp4',
+  'videos/staring.mp4',
+  'videos/touching_payphone.mp4',
+  'videos/payphone_rain.mp4',
+  'videos/albanian.mp4',
+  'videos/fatherless_child-1.mp4',
+  'videos/accordionhorse.mp4',
+  'videos/clevealand.mp4',
+  'videos/food_criminal.mp4',
+  'videos/train.mp4',
+  'videos/dogdogdogdogdogdog.mp4',
+  'videos/aprilfools.mp4',
+  'videos/naenae.mp4',
+  'videos/doin.mp4',
+  'videos/doinyourmom.mp4'
+  //
 ]
 
 export function getArray() {
