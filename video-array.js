@@ -312,7 +312,15 @@ var videoArray = [
   'videos/trust_me_on_this_it_is_soo_good.mp4',
   'videos/patrick_roasts_krabs.mp4',
   'videos/United_Home_Security.mp4',
-  'videos/construct_pool.mp4'
+  'videos/construct_pool.mp4',
+  'videos/britian.mp4',
+  'videos/aneruca.mp4',
+  'videos/ashamed.mp4',
+  'videos/in_tears.mp4',
+  'videos/i_know_i_fiona.mp4',
+  'videos/wah_is_coming.mp4',
+  'videos/astronaut_game.mp4',
+  'videos/who_you_here_to_meet.mp4'
 ]
 
 export function getArray() {
