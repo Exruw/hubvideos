@@ -1,5 +1,6 @@
-// testing something, i don't remember everything. FUCK YOU.
-
+// instructions for any braindead people:
+// step 1: upload video to videos/ folder
+// step 2: go here, and do 'videos/nameofvideo.mp4', if its the one all the way at the bottom, dont add the ",". Thank you for your time
 var videoArray = [
   'https://cdn.discordapp.com/attachments/799419671161733210/904835057489948702/My_intro.mp4',
   'https://cdn.discordapp.com/attachments/881656384352038963/888939092237238313/video0.mp4',
