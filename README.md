@@ -4,3 +4,7 @@ idk where to put updates so ill shove them here:
 
 11/5/2021:
 Renamed repo to "hubchicken" and added more videos - Exruw
+
+
+Also To Do list for Exruw:
+on https://hubchicken.tk/videos/index.html make it show a counter of total videos
