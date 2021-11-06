@@ -199,7 +199,7 @@ var videoArray = [
   'videos/crazy_dave.mp4',
   'videos/fuc_you_rusia.mp4',
   'videos/Alto_ahi_hermano.mp4',
-  'videos/On_February_26th_2007_Phillip_Dicks_was_was_mauled_to_death_by_a_low_poly_lion_in_Fairbanks_Alaska.mp4',
+  'videos/On_February_26th_2007_Philip_Dicks_was_was_mauled_to_death_by_a_low_poly_lion_in_Fairbanks_Alaska.mp4',
   'videos/afton.mp4',
   'videos/avalon.mp4',
   'videos/simon_fucking_cowell.mp4',
