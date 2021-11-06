@@ -301,8 +301,18 @@ var videoArray = [
   'videos/aprilfools.mp4',
   'videos/naenae.mp4',
   'videos/doin.mp4',
-  'videos/doinyourmom.mp4'
+  'videos/doinyourmom.mp4',
   //
+  //2003boobear
+  //no
+  'videos/tank.mov',
+  'videos/pizza.mp4',
+  'videos/quarter.mp4',
+  'videos/parachute.mp4',
+  'videos/trust_me_on_this_it_is_soo_good.mp4',
+  'videos/patrick_roasts_krabs.mp4',
+  'videos/United_Home_Security.mp4',
+  'videos/construct_pool.mp4'
 ]
 
 export function getArray() {
