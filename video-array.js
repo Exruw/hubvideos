@@ -266,7 +266,11 @@ var videoArray = [
   // mr banger tweet
   // 11/4/2021,
   'videos/video0-1-1-1_1.mp4',
-  'videos/0e0dc8ce78c2277e4fd834a930119462.mp4'
+  'videos/0e0dc8ce78c2277e4fd834a930119462.mp4',
+  //11/5/2021
+  //AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+  'videos/kids.mov',
+  'videos/video0.mp4'
 ]
 
 export function getArray() {
