@@ -398,19 +398,18 @@ var videoArray = [
   //
   //2003boobear
   //shush
-  'videos/the_time.mp4',
-  'videos/bo.mp4',
-  'videos/resident.mp4',
-  'videos/fast_food_delivery_for_chickens.mp4',
-  'videos/dbz_1.mp4',
-  'videos/on_my_computer.mp4',
-  'videos/banana.mp4',
-  'videos/you_should.mp4',
-  'videos/sqreel.mp4',
-  'videos/goku.mov',
-  'videos/resident_evil_boss.mov',
   'videos/asshole.mov',
-  'videos/bart.mov',
+  'videos/banana.mp4',
+  'videos/bomb.mp4',
+  'videos/dbz_1.mp4',
+  'videos/fast_food_delivery_for_chickens.mp4',
+  'videos/resident.mp4',
+  'videos/sqreel.mp4',
+  'videos/the_time.mp4',
+  'videos/video0-21.mov',
+  'videos/video0-33.mov',
+  'videos/video0.mov',
+  'videos/you_should.mp4',
   'videos/welcome_to_tetrio_place_the_blocks_1.3gpp'
 ]
 
