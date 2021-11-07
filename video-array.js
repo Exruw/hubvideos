@@ -333,7 +333,7 @@ var videoArray = [
   'videos/wrath.mp4',
   'videos/reddit.mp4',
   'videos/alerta_de_intrusos.mp4',
-  'videos/slogcat.mp4',
+  'videos/slogcat.mov',
   'videos/i_was_born.mp4',
   'videos/wii.mp4',
   'videos/bacon.mp4',
