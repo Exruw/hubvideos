@@ -390,7 +390,7 @@ var videoArray = [
   'videos/epicvideo.mp4',
   'videos/get_down.mp4',
   'videos/liveleak.mp4',
-  'videos/broooo.mp4',
+  'videos/brooo.mp4',
   'videos/ice_cream.webm',
   'videos/fish.mp4',
   'videos/danincg.mp4',
