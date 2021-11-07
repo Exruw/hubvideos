@@ -394,8 +394,24 @@ var videoArray = [
   'videos/ice_cream.webm',
   'videos/fish.mp4',
   'videos/danincg.mp4',
-  'videos/danceofgods.mp4'
+  'videos/danceofgods.mp4',
   //
+  //2003boobear
+  //shush
+  'videos/the_time.mp4',
+  'videos/bo.mp4',
+  'videos/resident.mp4',
+  'videos/fast_food_delivery_for_chickens.mp4',
+  'videos/dbz_1.mp4',
+  'videos/on_my_computer.mp4',
+  'videos/banana.mp4',
+  'videos/you_should.mp4',
+  'videos/sqreel.mp4',
+  'videos/goku.mov',
+  'videos/resident_evil_boss.mov',
+  'videos/asshole.mov',
+  'videos/bart.mov',
+  'videos/welcome_to_tetrio_place_the_blocks_1.3gpp'
 ]
 
 export function getArray() {
