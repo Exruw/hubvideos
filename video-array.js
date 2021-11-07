@@ -320,7 +320,31 @@ var videoArray = [
   'videos/i_know_i_fiona.mp4',
   'videos/wah_is_coming.mp4',
   'videos/astronaut_game.mp4',
-  'videos/who_you_here_to_meet.mp4'
+  'videos/who_you_here_to_meet.mp4',
+  //11/7/2021
+  //2003boobear
+  //genius!
+  'videos/something_serious.mov',
+  'videos/duck_dance.mp4',
+  'videos/gato.mp4',
+  'videos/pan_hit.mp4',
+  'videos/sad_mood.mp4',
+  'videos/dog_cat.mp4',
+  'videos/wrath.mp4',
+  'videos/reddit.mp4',
+  'videos/alerta_de_intrusos.mp4',
+  'videos/slogcat.mp4',
+  'videos/i_was_born.mp4',
+  'videos/wii.mp4',
+  'videos/bacon.mp4',
+  'videos/lets_goooooooooo.mp4',
+  'videos/bowl.mp4',
+  'videos/music.mp4',
+  'videos/hello.mp4',
+  'videos/alerta_de_macaco.mp4',
+  'videos/school_lunch.mp4',
+  'videos/bottle.mp4',
+  'videos/that_true.mp4'
 ]
 
 export function getArray() {
