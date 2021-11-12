@@ -590,7 +590,25 @@ var videoArray = [
   'videos/night_of_nights.mp4',
   'videos/gru.mov',
   'videos/villager.mp4',
-  'videos/coke_bottle.mp4'
+  'videos/coke_bottle.mp4',
+  // 11/12/2021
+  // ShadeblastHere
+  'videos/indian.mp4',
+  'videos/walking.mp4',
+  'videos/Black_Jew_Online-1.mp4',
+  'videos/6qok3s.mp4',
+  'videos/damn_daniel-1.mp4',
+  'videos/resident.mp4',
+  'videos/hdmi_to_hose.mp4',
+  'videos/atumalaca.mp4',
+  'videos/packwatch.mp4',
+  'videos/Jetpack_Joyride.mp4',
+  'videos/RIP_BOZO.mp4',
+  'videos/rippeely.mp4',
+  'videos/Snowwatch.mp4',
+  'videos/gear.mp4',
+  'videos/indian_scammer.mp4',
+  'videos/cap_doctor.mp4'
 ]
 
 export function getArray() {
