@@ -579,7 +579,7 @@ var videoArray = [
   'videos/snoic_vs_tbc.mp4',
   'videos/sheesh.mp4',
   'videos/bear.mp4',
-  'videos/basedcrackers.mp4'.
+  'videos/basedcrackers.mp4',
   'videos/bloons.mp4',
   'videos/golf.mp4',
   'videos/heavy.mp4',
