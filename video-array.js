@@ -616,7 +616,7 @@ var videoArray = [
   'videos/abraham.mp4',
   'videos/ADBREAK.mp4',
   'videos/amongus..mp4',
-  'videos/bad_apply.mp4',
+  'videos/bad_apple.mp4',
   'videos/balls-2.mp4',
   'videos/barbarian_cutscene.mp4',
   'videos/bartt.mp4',
