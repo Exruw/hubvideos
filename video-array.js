@@ -758,7 +758,48 @@ var videoArray = [
   'videos/cat_sled.mov',
   'videos/my_hero_academia.mov',
   'videos/death.mov',
-  'videos/nooooooooooooooooo.mov'
+  'videos/nooooooooooooooooo.mov',
+  //
+  // 					11/16/2021
+  // 				      ShadeblastHere
+  //
+  //				   - Look! 35 Videos! -
+  //
+  'videos/adachi.mp4',
+  'videos/akuma.mp4',
+  'videos/check_this.mp4',
+  'videos/damn_daniel-2.mp4',
+  'videos/damn_daniel-3.mp4',
+  'videos/damn_daniel.mov',
+  'videos/damn_daniel_but_its_1080p.mp4',
+  'videos/damn_daniel_one_piece_x_monochrome_meme.mp4',
+  'videos/dang.mp4',
+  'videos/epicdancing.mp4',
+  'videos/gato_magic.mp4',
+  'videos/gman.mp4',
+  'videos/HOW_DO_YOU_MESS_UP_A_SANDWICH.mp4',
+  'videos/jesue.mp4',
+  'videos/loadsamoney.mp4',
+  'videos/marisa.mp4',
+  'videos/modify.mp4',
+  'videos/mucklikeeveryoneelse.mp4',
+  'videos/multiple_4K_monitors.mp4',
+  'videos/Never_Illegally_Download.mp4',
+  'videos/OffLimits.mp4',
+  'videos/POSTAL2NPC.mp4',
+  'videos/POSTAL2NPC_2.mp4',
+  'videos/POSTAL2NPC_3.mp4',
+  'videos/POSTAL2NPC_4.mp4',
+  'videos/POSTAL2NPC_5.mp4',
+  'videos/POSTAL2NPC_6.mp4',
+  'videos/POSTAL2NPC_7.mp4',
+  'videos/POSTAL2NPC_8.mp4',
+  'videos/redesign_your_logo.mp4',
+  'videos/SONIC_GAMEGEAR.mp4',
+  'videos/Spongebob_Sings_Gangstas_Paradise.mp4',
+  'videos/technical_issue.mp4',
+  'videos/ururur.mp4'
+  //
 ]
 
 export function getArray() {
