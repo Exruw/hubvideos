@@ -828,8 +828,19 @@ var videoArray = [
   'videos/team_fort_two.mp4',
   'videos/The_Isaac_of_Isaac_-_ReIsaac.mp4',
   'videos/wayfair.mp4',
-  'videos/YOU_LOSE.mp4'
+  'videos/YOU_LOSE.mp4',
   //
+  //2003boobear, 11/17/2021 (shadeblasthere's timezone is different)
+  'videos/twinke_tackle.mov',
+  'videos/trolls.mp4',
+  'videos/dbd.mp4',
+  'videos/coach.mp4',
+  'videos/mario_is_REAL.mp4',
+  'videos/fire.mp4',
+  'videos/arbys_announcement.mp4',
+  'videos/windy_Day.mp4',
+  'videos/dripton.mp4',
+  'videos/chipmunk_rap.mp4'
 ]
 
 export function getArray() {
