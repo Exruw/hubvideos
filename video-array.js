@@ -798,7 +798,37 @@ var videoArray = [
   'videos/SONIC_GAMEGEAR.mp4',
   'videos/Spongebob_Sings_Gangstas_Paradise.mp4',
   'videos/technical_issue.mp4',
-  'videos/ururur.mp4'
+  'videos/ururur.mp4',
+  //
+  // 					11/18/2021
+  // 				      ShadeblastHere
+  //
+  //				    - i'm so cracked -
+  //
+  'videos/ANON_NOOOO.mp4',
+  'videos/borzoi.mp4',
+  'videos/credits.mp4',
+  'videos/dallas.mp4',
+  'videos/dallas_goes_underground.mp4',
+  'videos/damn_daniel-4.mp4',
+  'videos/Damn_Daniel_Super_Star.mp4',
+  'videos/Flightreacts_Damn_Daniel_ar_ar_ar_ar_ar_ar_vocoded.mp4',
+  'videos/FLOOR_999.mp4',
+  'videos/GO_FUCK_YOURSELF.mp4',
+  'videos/i_have_a_meme.mp4',
+  'videos/kiryu.mp4',
+  'videos/manly.mp4',
+  'videos/MY_GOD.mp4',
+  'videos/pollo.mp4',
+  'videos/seels.mp4',
+  'videos/SPACE.mp4',
+  'videos/Spanish_Skeleton.mp4',
+  'videos/sponb.mp4',
+  'videos/sponbg.mp4',
+  'videos/team_fort_two.mp4',
+  'videos/The_Isaac_of_Isaac_-_ReIsaac.mp4',
+  'videos/wayfair.mp4',
+  'videos/YOU_LOSE.mp4'
   //
 ]
 
