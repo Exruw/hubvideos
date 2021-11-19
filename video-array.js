@@ -841,7 +841,9 @@ var videoArray = [
   'videos/windy_Day.mp4',
   'videos/dripton.mp4',
   'videos/chipmunk_rap.mp4',
-  'videos/Iwantmychickennuggets.mp4'
+  'videos/Iwantmychickennuggets.mp4',
+  // why does my penis burn when i piss (exruw)
+  'videos/cinder.mp4'
 ]
 
 export function getArray() {
