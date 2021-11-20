@@ -843,7 +843,45 @@ var videoArray = [
   'videos/chipmunk_rap.mp4',
   'videos/Iwantmychickennuggets.mp4',
   // why does my penis burn when i piss (exruw)
-  'videos/cinder.mp4'
+  'videos/cinder.mp4',
+  //
+  // 					11/20/2021
+  // 				      ShadeblastHere
+  //
+  //               - one of the mp4s i downloaded made me go insane -
+  //
+  'videos/01X01-The-Froggy-Apple-Crumble.mp4',
+  'videos/6EUYBWhVkKg.mp4',
+  'videos/agk.mp4',
+  'videos/agk_tylenol.mp4',
+  'videos/Anti_Bob_Ross.mp4',
+  'videos/bonkumiru.mp4',
+  'videos/chirumiru_midi.mp4',
+  'videos/CREEPER_RAP.mp4',
+  'videos/divamiru.mp4',
+  'videos/engimiru.mp4',
+  'videos/fox_steals_womans_phone.mp4',
+  'videos/gangnamiru.mp4',
+  'videos/heavylaugh.mp4',
+  'videos/how_do_i_call_this.mp4',
+  'videos/insanity_at_its_finest.mp4',
+  'videos/jonumiru.mp4',
+  'videos/kitchenmiru.mp4',
+  'videos/Minecraft_Volume_Alpha.mp4',
+  'videos/not_oneshot.mp4',
+  'videos/overdrive.mp4',
+  'videos/pissumiru.mp4',
+  'videos/rainbow_trololol.mp4',
+  'videos/reimu.mp4',
+  'videos/rogueracist.mov',
+  'videos/sandwichmiru.mp4',
+  'videos/slamiru.mp4',
+  'videos/slugger.mp4',
+  'videos/spongebobb.mp4',
+  'videos/stupid_idiot.mp4',
+  'videos/stupid_idiot2.mp4',
+  'videos/the_man_of_sex.mp4'
+  //
 ]
 
 export function getArray() {
