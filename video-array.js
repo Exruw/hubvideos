@@ -883,7 +883,8 @@ var videoArray = [
   'videos/the_man_of_sex.mp4',
   // exruw damn daniel 11/20/21
   'videos/damndan.mp4',
-  'videos/floweydrive.mp4'
+  'videos/floweydrive.mp4',
+  'videos/therock.mp4'
 ]
 
 export function getArray() {
