@@ -880,8 +880,10 @@ var videoArray = [
   'videos/spongebobb.mp4',
   'videos/stupid_idiot.mp4',
   'videos/stupid_idiot2.mp4',
-  'videos/the_man_of_sex.mp4'
-  //
+  'videos/the_man_of_sex.mp4',
+  // exruw damn daniel 11/20/21
+  'videos/damndan.mp4',
+  'videos/floweydrive.mp4'
 ]
 
 export function getArray() {
