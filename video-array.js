@@ -741,7 +741,7 @@ var videoArray = [
   'videos/ASMR_You_fall_asleep_while_watching_George_Lopez_at_3_AM.mp4',
   'videos/sponge.mp4',
   'videos/demoman.mp4',
-  'videos/sick_thomas_the_train_tricks.mp4',
+  'videos/sick thomas the train tricks.mp4',
   'videos/my_cat.mp4',
   'videos/Grizzly.mp4',
   'videos/brick_fall.mp4',
@@ -884,7 +884,26 @@ var videoArray = [
   // exruw damn daniel 11/20/21
   'videos/damndan.mp4',
   'videos/floweydrive.mp4',
-  'videos/therock.mp4'
+  'videos/therock.mp4',
+  //2003boobear, 11/22/2021
+  'videos/dumb_egg_shot_his_shadow.mp4',
+  'videos/maij.mp4',
+  'videos/dob_bowl.mp4',
+  'videos/ooh_hoo_hoo.mp4',
+  'videos/fighting_air.mp4',
+  'videos/CHRISTMAS_dante.mp4',
+  'videos/knock_knock.mp4',
+  'videos/REALgamers.mp4',
+  'videos/dont_screenshot_nfts_.mp4',
+  'videos/Alcoholism.mp4',
+  'videos/bad_cramp.mp4', //HEY SHADEBLASTHERE
+  'videos/based_as_fuck.mp4', //CRY
+  'videos/car_alarms_everywhere.mp4',
+  'videos/big_shot_but_its_small_shot.mp4',
+  'videos/B_O_N_K.mp4',
+  'videos/korea.mp4',
+  'videos/lament.mov',
+  'videos/H.mov'
 ]
 
 export function getArray() {
