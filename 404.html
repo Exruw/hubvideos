@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+<!--yeah messy code... SHUT. UP.-->  
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="icon.svg">  
 <title>404: Not Found</title>
 <meta name="theme-color" content="#0D69AB">  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");  
 body {
@@ -15,6 +17,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
 }
 .topbar {
   display: inline-block;
@@ -44,10 +47,14 @@ img {
 </style>
 </head>
 <body>
-        <div class="topbar">
-            <p>Page Not Found<br><a href="https://hubchicken.tk/">Go Back</a></p>
-        </div>
-<img src="https://http.cat/404" style="width:50%;">
+<div class="topbar">
+  <p>Page Not Found<br><a href="https://hubchicken.tk/">Go Back</a></p>
+</div>
+</body>  
+<div id="banner-images"> </div>
+<script type="text/javascript">
+var images = ['404cat.png', '404dog.png'];
+ 
+$('<img class="fade-in" src="https://hubchicken.tk/cdn/' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-images');  
 
-</body>
-</html>
+</script>
