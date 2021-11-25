@@ -904,7 +904,23 @@ var videoArray = [
   'videos/B_O_N_K.mp4',
   'videos/korea.mp4',
   'videos/lament.mov',
-  'videos/H.mov'
+  'videos/H.mov',
+  //2003boobear, 11/25/2021
+  'videos/how_ya_doin.mov',
+  'videos/ill_cut_it.mov',
+  'videos/pootis_man.mov',
+  'videos/clash_royale_W.mp4',
+  'videos/ch.mp4',
+  'videos/psychopath_abrogation.mp4',
+  'videos/22_minutes.mp4',
+  'videos/Glass.mp4',
+  'videos/boom.mp4',
+  'videos/stanley_parable_american_psycho.mp4',
+  'videos/Seaofthieves.mp4',
+  'videos/luigi_skate.mp4',
+  'videos/dart_monkey.mp4',
+  'videos/use_water.mp4',
+  'videos/dog_water.mp4'
 ]
 
 export function getArray() {
