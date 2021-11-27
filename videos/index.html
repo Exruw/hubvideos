@@ -137,7 +137,7 @@
 
             function insertLink(text, link) {
                 link = link.replace("videos/", "");
-                container.innerHTML += `<a href="${link}">${text}</a>`;
+                container.innerHTML += `<a href="${"/videos/" + link}">${text}</a>`;
             }
 
             function formatText(text) {
