@@ -920,7 +920,67 @@ var videoArray = [
   'videos/luigi_skate.mp4',
   'videos/dart_monkey.mp4',
   'videos/use_water.mp4',
-  'videos/dog_water.mp4'
+  'videos/dog_water.mp4',
+  //
+  // 					11/27/2021
+  // 				      ShadeblastHere
+  //
+  //               	    - damn daniel, 🐬 🐬 🐬 🐬 🐬 🐬 -
+  //
+  // 	  also whenever i add // at the end of my videos you don't fuck with it
+  //                              just add another one
+  //
+  'videos/astaghfirullah.mp4',
+  'videos/bad_daniel.mp4',
+  'videos/badgers.mp4',
+  'videos/bat.mp4',
+  'videos/bound3.mp4',
+  'videos/breen.mp4',
+  'videos/chinese.mp4',
+  'videos/damn.mp4',
+  'videos/damn_danie.mp4',
+  'videos/damn_daniel-5.mp4',
+  'videos/damn_daniel-6.mp4',
+  'videos/damn_daniel-7.mp4',
+  'videos/damn_daniel-8.mp4',
+  'videos/damn_daniel-9.mp4',
+  'videos/damn_daniel_1.mp4',
+  'videos/dantdm.mp4',
+  'videos/DO_YOU.mp4',
+  'videos/dorado.mp4',
+  'videos/drink.mp4',
+  'videos/fan.mov',
+  'videos/FIX_THE_DOOR.mp4',
+  'videos/foregin_language.mp4',
+  'videos/headphones.mp4',
+  'videos/how_do_i_craft_this_again.mp4',
+  'videos/jiren_scary.mp4',
+  'videos/kanye.mp4',
+  'videos/LIMC_ar_ar_ar_ar.mp4',
+  'videos/maeia_hee.mp4',
+  'videos/math.mp4',
+  'videos/michael_jackson_cat.mp4',
+  'videos/michael_jackson_corpse.mp4',
+  'videos/michael_jackson_dog.mp4',
+  'videos/mine_the_diamond.mp4',
+  'videos/Mouse_Party_3.mp4',
+  'videos/NEW_JERSEY.mp4',
+  'videos/night_of_fire.mp4',
+  'videos/oh_shit_im_feeling_it.mp4',
+  'videos/oooh.mp4',
+  'videos/PINGAS.mp4',
+  'videos/scary_fact.mov',
+  'videos/SKATE.mp4',
+  'videos/Spider-Man_Screaming_Noooo.mp4',
+  'videos/the_most_annoying_sound_in_the_world.mp4',
+  'videos/this_is_sparta.mp4',
+  'videos/Tnt.mp4',
+  'videos/we_will_steal_the_moon.mp4',
+  'videos/wheelchair.mp4',
+  'videos/your_mother.mp4',
+  'videos/youwhat.mp4',
+  'videos/YTPMV_Damn_Colored_Daniel_Spark.mp4'
+  //
 ]
 
 export function getArray() {
