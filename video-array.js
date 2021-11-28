@@ -979,8 +979,9 @@ var videoArray = [
   'videos/wheelchair.mp4',
   'videos/your_mother.mp4',
   'videos/youwhat.mp4',
-  'videos/YTPMV_Damn_Colored_Daniel_Spark.mp4'
-  //
+  'videos/YTPMV_Damn_Colored_Daniel_Spark.mp4',
+  // exruw dont you lecture me with your 30 dollar hair nats
+  'videos/spacesong.mp4'
 ]
 
 export function getArray() {
