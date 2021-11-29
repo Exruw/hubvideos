@@ -1052,8 +1052,7 @@ var videoArray = [
   'videos/fawn.mov',
   'videos/female_strength.mov',
   'videos/trayaurus.mov',
-  'videos/standards.3gpp',
-
+  'videos/standards.3gpp'
   //
   //
   //
