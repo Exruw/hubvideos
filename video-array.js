@@ -981,7 +981,43 @@ var videoArray = [
   'videos/youwhat.mp4',
   'videos/YTPMV_Damn_Colored_Daniel_Spark.mp4',
   // exruw dont you lecture me with your 30 dollar hair nats
-  'videos/spacesong.mp4'
+  'videos/spacesong.mp4',
+  //
+  // 					11/29/2021
+  // 				      ShadeblastHere
+  //
+  //		     - let's beat http://thebest404pageeverredux.com -
+  //
+  'videos/4k_demaster.mp4',
+  'videos/alright.mp4',
+  'videos/Black_jutsu.mp4',
+  'videos/bruhdy.mov',
+  'videos/ceda.mp4',
+  'videos/damn_django.mp4',
+  'videos/Dion.mp4',
+  'videos/Joe_dies.mov',
+  'videos/LTG_KYS_.mp4',
+  'videos/monke.mp4',
+  'videos/mosq.mp4',
+  'videos/ohshitwatchout.mp4',
+  'videos/ok2.mp4',
+  'videos/piccolo_you_have_no_sauce.mp4',
+  'videos/roblox.mp4',
+  'videos/ROBLOX_DEVELOPER_TOOLS_HACK.mp4',
+  'videos/sa.mp4',
+  'videos/shapiro.mp4',
+  'videos/video0-4-1.mp4',
+  'videos/WAKE_UP.mp4',
+  'videos/we.mp4',
+  'videos/wepon_wepon_wepon_wepon_wepon.mp4',
+  'videos/when_puberty_hits.mp4'
+  //
+  //
+  //
+  //
+  //
+  //
+  //
 ]
 
 export function getArray() {
