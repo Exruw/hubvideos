@@ -1052,7 +1052,20 @@ var videoArray = [
   'videos/fawn.mov',
   'videos/female_strength.mov',
   'videos/trayaurus.mov',
-  'videos/standards.3gpp'
+  'videos/standards.3gpp',
+  //2003boobear, 11/30/2021
+  //christmas just around the corner
+  'videos/new_pokemon.mp4',
+  'videos/rXvFebEs.mp4',
+  'videos/chair_lol.mp4',
+  'videos/scroingy.mp4',
+  'videos/fridge.mp4',
+  'videos/family_guyyyy.mp4',
+  'videos/christmas_amneisa_obsessed_woman.mp4',
+  'videos/the_called_one.mp4',
+  'videos/tommy_gun.mp4',
+  'videos/best_musician.mov',
+  'videos/vergil_CHRISTMAS.mov'
   //
   //
   //
