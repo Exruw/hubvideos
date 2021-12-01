@@ -1072,13 +1072,46 @@ var videoArray = [
   'videos/El_pibe_que_salio_de_una_alcantarilla.mp4',
   'videos/CRABGRASS.mp4',
   'videos/roman_class.mp4',
-  'videos/BAGLE.mp4' //HEY SHADE CRY ABOUT IT
+  'videos/BAGLE.mp4', //HEY SHADE CRY ABOUT IT
+		     // what's there to cry about if i don't get it you dumbass
   //
+  // 					12/ 1/2021
+  // 				      ShadeblastHere
   //
+  //		 	           - GAMERS,  GAMERS! -
   //
-  //
-  //
-  //
+  'videos/boiaintnowayboi_8.mp4',
+  'videos/bottle_skrumpe.mp4',
+  'videos/carro_con_sapato.mp4',
+  'videos/cinnamon_toast_crunch.mp4',
+  'videos/como_ven_a_este_puto_idiota_bastardo_pendejo_imbecil_baboso_de_mierda_dices_puras_mamadas.mp4',
+  'videos/Death_Metal_Drumming_Washing_Machine.mp4',
+  'videos/diner.mp4',
+  'videos/do_you_want_cheese.mp4',
+  'videos/DONUT.mp4',
+  'videos/duancingrobot.mp4',
+  'videos/e-o-carro-da-rua-passando-no-seu-ovo.mp4',
+  'videos/FROGGE.mp4',
+  'videos/gold_plastic_syndrome.mp4',
+  'videos/itprotectsme.mp4',
+  'videos/loquendo_putasos.mp4',
+  'videos/nuke.mp4',
+  'videos/Pemdas.mp4',
+  'videos/peteur.mp4',
+  'videos/RICK.mp4',
+  'videos/shadow_froggo.mp4',
+  'videos/skate2.mp4',
+  'videos/sosig.mp4',
+  'videos/sosoig.mp4',
+  'videos/SUPER_FAST_TURTLE.mp4',
+  'videos/thanos.mp4',
+  'videos/theoats.mp4',
+  'videos/THWOMP.mp4',
+  'videos/troge.mp4',
+  'videos/troller.mp4',
+  'videos/twitter_thread.mp4',
+  'videos/unintelligible.mp4',
+  'videos/Youre_looking_for_the_paintings_with_red_sticker_on_em.mp4'
   //
 ]
 
