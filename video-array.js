@@ -1065,7 +1065,14 @@ var videoArray = [
   'videos/the_called_one.mp4',
   'videos/tommy_gun.mp4',
   'videos/best_musician.mov',
-  'videos/vergil_CHRISTMAS.mov'
+  'videos/vergil_CHRISTMAS.mov',
+  //2003boobear, 12/1/2021
+  //https://youtu.be/gaGnS6D1Zv4
+  'videos/spring_cleaning.mp4',
+  'videos/El_pibe_que_salio_de_una_alcantarilla.mp4',
+  'videos/CRABGRASS.mp4',
+  'videos/roman_class.mp4',
+  'videos/BAGLE.mp4' //HEY SHADE CRY ABOUT IT
   //
   //
   //
