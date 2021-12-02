@@ -1111,7 +1111,18 @@ var videoArray = [
   'videos/troller.mp4',
   'videos/twitter_thread.mp4',
   'videos/unintelligible.mp4',
-  'videos/Youre_looking_for_the_paintings_with_red_sticker_on_em.mp4'
+  'videos/Youre_looking_for_the_paintings_with_red_sticker_on_em.mp4',
+  //2003boobear, 12/1/2021 (later in the day)
+  //i have learned how to use youtube-dl and i plan to abuse this newfound power
+  'videos/minecraft.mp4',
+  'videos/FNAB.mp4',
+  'videos/bruh_who.mp4',
+  'videos/super_mario_odyssey_nuke.mp4',
+  'videos/Los_Angeles_rush_hour_traffic.mp4',
+  'videos/universal_crime.mp4', //READ
+  'videos/yodazo.mp4', //EM
+  'videos/fairy_flip.mp4', //AND
+  'videos/8008135.mov' //WEEP
   //
 ]
 
