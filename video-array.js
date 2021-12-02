@@ -826,6 +826,7 @@ var videoArray = [
   'videos/Spanish_Skeleton.mp4',
   'videos/sponb.mp4',
   'videos/sponbg.mp4',
+  "videos/Tainted_Lost.mp4",
   'videos/team_fort_two.mp4',
   'videos/The_Isaac_of_Isaac_-_ReIsaac.mp4',
   'videos/wayfair.mp4',
@@ -1123,6 +1124,7 @@ var videoArray = [
   'videos/yodazo.mp4', //EM
   'videos/fairy_flip.mp4', //AND
   'videos/8008135.mov' //WEEP
+
   //
 ]
 
