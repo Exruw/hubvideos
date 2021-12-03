@@ -1123,8 +1123,8 @@ var videoArray = [
 	'videos/universal_crime.mp4', //READ
 	'videos/yodazo.mp4', //EM
 	'videos/fairy_flip.mp4', //AND
-	'videos/8008135.mov' //WEEP
-
+	'videos/8008135.mov', //WEEP
+	'videos/spongebob_nugget.mp4'
 	//
 ]
 
