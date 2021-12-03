@@ -131,13 +131,17 @@
         </footer>
 
         <script type="module">
-            import { getArray } from "../video-array.js"
-            var videos = getArray();
+            import { getArray } from "../video-array.js";
+            var videos = getArray(), videoElements = [];
             var container = document.getElementById("container");
 
             function insertLink(text, link) {
                 link = link.replace("videos/", "");
-                container.innerHTML += `<a href="${"/videos/" + link}">${text}</a>`;
+                var newElement = document.createElement("a");
+                newElement.href = `/videos/${link}`;
+                newElement.innerText = text;
+                container.append(newElement);
+                videoElements.push(newElement);
             }
 
             function formatText(text) {
@@ -158,15 +162,16 @@
             var searchText = document.getElementById("search-text");
 
             function searchItems(search) {
-                container.innerHTML = ""
-                videos.forEach(video => {
-                    if (formatText(video).substring(0, search.length).toLowerCase() == search.toLowerCase()) {
-                        insertLink(formatText(video), video);
+                videoElements.forEach(video => {
+                    if (formatText(video.innerText).substring(0, search.length).toLowerCase() == search.toLowerCase()) {
+                      video.style.display = "block";
+                    } else {
+                      video.style.display = "none";
                     }
                 });
             }
 
-            searchText.onkeyup = function () {
+            searchText.onkeyup = function() {
                 searchItems(searchText.value);
             }
         </script>
