@@ -1126,7 +1126,25 @@ var videoArray = [
 	'videos/8008135.mov', //WEEP
 	'videos/spongebob_nugget.mp4', //dankpods moment
 	'videos/eltnam.mov',
-	'videos/superman_64.mp4'
+	'videos/superman_64.mp4',
+	'videos/banooka_siste.mp4',
+	'videos/be_normal.mp4',
+	'videos/bibro.mp4',
+	'videos/cac_snins.mp4',
+	'videos/CJ.mp4',
+	'videos/drink.mp4',
+	'videos/fart_sound_effect.mp4',
+	'videos/gambam.mp4',
+	'videos/iceag.mp4',
+	'videos/jueves 2.mp4',
+	'videos/math_quiz.mp4',
+	'videos/moan.mp4',
+	'videos/MY_FNAF_RAP_BY_RAPPA_3000.mp4',
+	'videos/NEWSEX.mp4',
+	'videos/nyaaaum.mp4',
+	'videos/plankton_penis.mp4',
+	'videos/Silksong_leak.mp4',
+	'videos/suc.mp4'
 	/*
 	░░██████████████████░░░░░
 	░████████░░░░░░░░░░░░████
