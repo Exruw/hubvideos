@@ -18,7 +18,7 @@
 
 	<body>
 		<div class="topbar">
-			<img onclick="new Audio('hubchicken.mp3').play()"
+			<img id="hubchickenicon" onclick="new Audio('hubchicken.mp3').play()"
 				style="cursor: pointer;" src="HUBCHICKEN.png" alt="Hubchicken"
 				height="35" />
 			<article>
@@ -41,8 +41,15 @@
 			<a href="contact.html">Contacts</a>
 			<a href="videos/index.html">List of Videos</a></h1>
 		</div>
-
+		<script>
+			const d = new Date();
+			var month = d.getMonth();
+			if (month == 11) {
+			document.getElementById("hubchickenicon").src="assets/HUBCHICKEN_festive.png"
+			}
+		</script>
 		<script type="module">
+			
 			import { getArray, getRandomVideo } from "./video-array.js"
 			/*
 				MASSIVE PROBLEM:
