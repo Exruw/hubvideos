@@ -1124,6 +1124,25 @@ var videoArray = [
 	'videos/yodazo.mp4', //EM
 	'videos/fairy_flip.mp4', //AND
 	'videos/8008135.mov', //WEEP
+	/*
+	░░██████████████████░░░░░
+	░████████░░░░░░░░░░░░████
+	░██░░░░░░████████████████
+	░████████░░░░░░░░░░░░░░██
+	░░░██████████████████████
+	░░░████████████████████░░
+	░░░████▒▒▒▒████▒▒▒▒████░░
+	░░░██▒▒██▒▒██▒▒▒▒██▒▒██░░
+	░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
+	░░░██▒▒▒▒▒▒████▒▒▒▒▒▒██░░
+	░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
+	░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
+	░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
+	░░░████████████████████░░
+	░░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██░░
+	░░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██░░░░
+	░░░████████████████░░░░░░
+	*/
 	'videos/spongebob_nugget.mp4', //dankpods moment
 	'videos/eltnam.mov',
 	'videos/superman_64.mp4',
@@ -1144,26 +1163,24 @@ var videoArray = [
 	'videos/nyaaaum.mp4',
 	'videos/plankton_penis.mp4',
 	'videos/Silksong_leak.mp4',
-	'videos/suc.mp4'
-	/*
-	░░██████████████████░░░░░
-	░████████░░░░░░░░░░░░████
-	░██░░░░░░████████████████
-	░████████░░░░░░░░░░░░░░██
-	░░░██████████████████████
-	░░░████████████████████░░
-	░░░████▒▒▒▒████▒▒▒▒████░░
-	░░░██▒▒██▒▒██▒▒▒▒██▒▒██░░
-	░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
-	░░░██▒▒▒▒▒▒████▒▒▒▒▒▒██░░
-	░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
-	░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
-	░░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
-	░░░████████████████████░░
-	░░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██░░
-	░░░██▓▓▓▓▓▓▓▓▓▓▓▓▓▓██░░░░
-	░░░████████████████░░░░░░
-	*/
+	'videos/suc.mp4',
+	//2003boobear, 12/03/2021
+	'videos/stand_up_for_yourself.mp4',
+	'videos/btd6.mp4',
+	'videos/well_shit-1.mp4',
+	'videos/low_tier_vegeta.mp4',
+	'videos/come_get_some.mp4',
+	'videos/Wiggles.mp4',
+	'videos/FIHS.mp4',
+	'videos/you_messatsu_right.mp4',
+	'videos/flamethrower_far_cry_3.mp4',
+	'videos/step_on_the_gas.mp4',
+	'videos/Poom.mp4',
+	'videos/anonymous_helicoptor.mp4',
+	'videos/uwaaaaaaaa.mp4', //https://www.youtube.com/watch?v=DGeLYYtb3jw
+	'videos/anti_LGBTQ_car.mov',
+	'videos/high_tier_vegeta.mov',
+	'videos/wtf.mov' //https://www.youtube.com/watch?v=DGeLYYtb3jw
 ]
 
 export function getArray() {
