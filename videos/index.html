@@ -1,180 +1,195 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="icon" type="image/svg+xml" href="icon.svg" />
+		<meta name="description" content="A list of all videos." />
+		<meta name="theme-color" content="#262626" />
+		<title>Video Directory</title>
 
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="icon" type="image/svg+xml" href="icon.svg">
-        <meta name="description" content="A list of all videos.">
-        <meta name="theme-color" content="#262626">
-        <title>Video Directory</title>
+		<style>
+			@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
 
-        <style>
-            @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap");
+			body {
+				margin: 0;
+				background-color: #1e1e1e;
+			}
 
-            body {
-                margin: 0;
-                background-color: #1e1e1e;
-            }
+			.topbar {
+				display: inline-block;
+				width: 100%;
+				margin: 0;
+				background-color: #262626;
+				box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+				margin-bottom: 20px;
+			}
 
-            .topbar {
-                display: inline-block;
-                width: 100%;
-                margin: 0;
-                background-color: #262626;
-                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-                margin-bottom: 20px;
-            }
+			.topbar p {
+				text-align: center;
+				font-family: Inconsolata;
+				font-weight: 400;
+				font-size: 20px;
+				user-select: none;
+				color: white;
+			}
 
-            .topbar p {
-                text-align: center;
-                font-family: Inconsolata;
-                font-weight: 400;
-                font-size: 20px;
-                user-select: none;
-                color: white;
-            }
+			.topbar a {
+				font-size: 15px;
+				text-decoration: none;
+				color: white;
+			}
 
-            .topbar a {
-                font-size: 15px;
-                text-decoration: none;
-                color: white;
-            }
+			.topbar a:hover {
+				text-decoration: underline;
+			}
 
-            .topbar a:hover {
-                text-decoration: underline;
-            }
+			.content-container {
+				display: block;
+				margin: auto;
+				width: 50%;
+				word-wrap: break-word;
+				background-color: #262626;
+				box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+				overflow-x: hidden;
+				overflow-y: auto;
+				margin-bottom: 20px;
+			}
 
-            .content-container {
-                display: block;
-                margin: auto;
-                width: 50%;
-                word-wrap: break-word;
-                background-color: #262626;
-                box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
-                overflow-x: hidden;
-                overflow-y: auto;
-                margin-bottom: 20px;
-            }
+			.content-container input[type='text'] {
+				width: 100%;
+				outline: none;
+				background-color: #262626;
+				border: none;
+				font-family: Inconsolata;
+				font-weight: 300;
+				font-size: 15px;
+				color: white;
+				padding: 5px 10px;
+			}
 
-            .content-container input[type=text] {
-                width: 100%;
-                outline: none;
-                background-color: #262626;
-                border: none;
-                font-family: Inconsolata;
-                font-weight: 300;
-                font-size: 15px;
-                color: white;
-                padding: 5px 10px;
-            }
+			.content-container a {
+				display: block;
+				background-color: transparent;
+				padding: 5px 10px;
+				margin: 0;
+				font-family: Inconsolata;
+				font-weight: 300;
+				font-size: 15px;
+				user-select: none;
+				text-decoration: none;
+				text-align: center;
+				color: white;
+			}
 
-            .content-container a {
-                display: block;
-                background-color: transparent;
-                padding: 5px 10px;
-                margin: 0;
-                font-family: Inconsolata;
-                font-weight: 300;
-                font-size: 15px;
-                user-select: none;
-                text-decoration: none;
-                text-align: center;
-                color: white;
-            }
+			.content-container a:hover {
+				text-decoration: underline;
+				background-color: #212121;
+			}
 
-            .content-container a:hover {
-                text-decoration: underline;
-                background-color: #212121;
-            }
+			.content-container a:active {
+				background-color: #1a1a1a;
+			}
 
-            .content-container a:active {
-                background-color: #1a1a1a;
-            }
+			footer p {
+				text-align: center;
+				font-family: Inconsolata;
+				font-weight: 300;
+				font-size: 15px;
+				color: #c9c9c9;
+				user-select: none;
+			}
 
-            footer p {
-                text-align: center;
-                font-family: Inconsolata;
-                font-weight: 300;
-                font-size: 15px;
-                color: #c9c9c9;
-                user-select: none;
-            }
+			@media screen and (max-width: 768px) {
+				.content-container {
+					width: 85%;
+				}
 
+				.content-container a {
+					font-size: 12px;
+				}
+			}
+		</style>
+	</head>
 
-            @media screen and (max-width: 768px) {
-                .content-container {
-                    width: 85%;
-                }
+	<body>
+		<div class="topbar">
+			<p>Video List<br /><a href="https://hubchicken.tk/">Go Back</a></p>
+		</div>
 
-                .content-container a {
-                    font-size: 12px;
-                }
-            }
+		<div class="content-container">
+			<input
+				type="text"
+				placeholder="Search a video.."
+				id="search-text"
+			/>
+		</div>
 
-        </style>
-    </head>
+		<div
+			class="content-container"
+			style="height: calc(88vh - 97px)"
+			id="container"
+		></div>
 
-    <body>
-        <div class="topbar">
-            <p>Video List<br><a href="https://hubchicken.tk/">Go Back</a></p>
-        </div>
+		<footer>
+			<p>Page designed by Infernocat</p>
+		</footer>
 
-        <div class="content-container"><input type="text"
-                placeholder="Search a video.." id="search-text"></div>
+		<script type="module">
+			import { getArray } from '../video-array.js'
+			var videos = getArray(),
+				videoElements = []
+			var container = document.getElementById('container')
 
-        <div class="content-container" style="height: calc(88vh - 97px);"
-            id="container"></div>
+			function insertLink(text, link) {
+				link = link.replace('videos/', '')
+				var newElement = document.createElement('a')
+				newElement.href = `/videos/${link}`
+				newElement.innerText = text
+				container.append(newElement)
+				videoElements.push(newElement)
+			}
 
-        <footer>
-            <p>Page designed by Infernocat</p>
-        </footer>
+			function formatText(text) {
+				let formatted = text.split('videos/')
+				if (formatted[1])
+					// fuk u if you have a file extension twice
+					return formatted[1]
+						.replace('.mp4', '')
+						.replace('.webm', '')
+						.replace('.mov', '')
+						.replace('.3gpp', '')
+						.replaceAll('_', ' ')
+						.replaceAll('-', ' ')
+				//
+				else return text
+			}
 
-        <script type="module">
-            import { getArray } from "../video-array.js";
-            var videos = getArray(), videoElements = [];
-            var container = document.getElementById("container");
+			videos.sort()
+			videos.forEach((video) => {
+				insertLink(formatText(video), video)
+			})
 
-            function insertLink(text, link) {
-                link = link.replace("videos/", "");
-                var newElement = document.createElement("a");
-                newElement.href = `/videos/${link}`;
-                newElement.innerText = text;
-                container.append(newElement);
-                videoElements.push(newElement);
-            }
+			// Searching
+			var searchText = document.getElementById('search-text')
 
-            function formatText(text) {
-                let formatted = text.split("videos/");
-                if (formatted[1])
-                    // fuk u if you have a file extension twice
-                    return formatted[1].replace(".mp4", "").replace(".webm", "").replace(".mov", "").replace(".3gpp", "").replaceAll("_", " ").replaceAll("-", " "); //
-                else
-                    return text;
-            }
+			function searchItems(search) {
+				videoElements.forEach((video) => {
+					if (
+						formatText(video.innerText)
+							.substring(0, search.length)
+							.toLowerCase() == search.toLowerCase()
+					) {
+						video.style.display = 'block'
+					} else {
+						video.style.display = 'none'
+					}
+				})
+			}
 
-            videos.sort();
-            videos.forEach(video => {
-                insertLink(formatText(video), video);
-            })
-
-            // Searching
-            var searchText = document.getElementById("search-text");
-
-            function searchItems(search) {
-                videoElements.forEach(video => {
-                    if (formatText(video.innerText).substring(0, search.length).toLowerCase() == search.toLowerCase()) {
-                      video.style.display = "block";
-                    } else {
-                      video.style.display = "none";
-                    }
-                });
-            }
-
-            searchText.onkeyup = function() {
-                searchItems(searchText.value);
-            }
-        </script>
-    </body>
-
+			searchText.onkeyup = function () {
+				searchItems(searchText.value)
+			}
+		</script>
+	</body>
 </html>
