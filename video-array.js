@@ -1180,7 +1180,30 @@ var videoArray = [
 	'videos/uwaaaaaaaa.mp4', //https://www.youtube.com/watch?v=DGeLYYtb3jw
 	'videos/anti_LGBTQ_car.mov',
 	'videos/high_tier_vegeta.mov',
-	'videos/wtf.mov' //https://www.youtube.com/watch?v=DGeLYYtb3jw
+	'videos/wtf.mov', //https://www.youtube.com/watch?v=DGeLYYtb3jw
+	//2003boobear, 12/05/2021
+	'videos/this_wall.mp4',
+	'videos/alex.mp4
+	'videos/me_or_beer.mp4',
+	'videos/enjoy_the_holidays.mp4',
+	'videos/oneshot_in_real_life.mp4',
+	'videos/yuyuyuyuyuyuyu.mp4',
+	'videos/Kevin_the_cube_skin.mp4',
+	'videos/MedicTF2InGta.mp4',
+	'videos/woo_woo.mp4',
+	'videos/Nice-card-shuffle-skill.mp4',
+	'videos/screamong.mp4',
+	'videos/spong.mp4',
+	'videos/long_time_no_see.mp4',
+	'videos/trashngl.mp4',
+	'videos/americano_presidente.mp4',
+	'videos/IWatchedYouDie.mp4',
+	'videos/DECEMBER_FIRST.mp4',
+	'videos/quinc.mp4',
+	'videos/jump_at_your_own_risk.mp4',
+	'videos/REAL_LIFE_LOW_TIER_GOD.mp4',
+	'videos/booba.mp4', //💀
+	'videos/jacket_music.mov'
 ]
 
 export function getArray() {
