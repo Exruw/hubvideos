@@ -1183,7 +1183,7 @@ var videoArray = [
 	'videos/wtf.mov', //https://www.youtube.com/watch?v=DGeLYYtb3jw
 	//2003boobear, 12/05/2021
 	'videos/this_wall.mp4',
-	'videos/alex.mp4
+	'videos/alex.mp4',
 	'videos/me_or_beer.mp4',
 	'videos/enjoy_the_holidays.mp4',
 	'videos/oneshot_in_real_life.mp4',
