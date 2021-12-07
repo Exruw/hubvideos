@@ -1203,7 +1203,30 @@ var videoArray = [
 	'videos/jump_at_your_own_risk.mp4',
 	'videos/REAL_LIFE_LOW_TIER_GOD.mp4',
 	'videos/booba.mp4', //💀
-	'videos/jacket_music.mov'
+	'videos/jacket_music.mov',
+	'videos/anal_penetration_porn_sex_sex_porn_sex_among_us_imposter.mp4',
+	'videos/soup_can.mp4',
+	'videos/yoshh.mp4',
+	'videos/all_in_the_wrist.mp4',
+	'videos/dr_pepper_loop.mp4',
+	'videos/cursed_fnaf_bootleg.mp4',
+	'videos/fish_dies_of_mud poisoning.mp4',
+	'videos/mud_dies_of_fish_poisoning_2.mp4',
+	'videos/SexTape.mp4',
+	'videos/obama_israel.mp4',
+	'videos/pinecone.mp4',
+	'videos/script_trading.mp4',
+	'videos/breakout.mp4',
+	'videos/Ring for Carrots.mp4',
+	'videos/DARK MAGICIAN.mp4',
+	'videos/vibri.mp4',
+	'videos/rolle.mp4',
+	'videos/cuchillobama.mp4',
+	'videos/SOAB.mp4',
+	'videos/ea.mp4',
+	'videos/GREEN GIANT.mp4',
+	'videos/reheeted.mp4',
+	'videos/nice tones.mp4'
 ]
 
 export function getArray() {
