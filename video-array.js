@@ -761,10 +761,10 @@ var videoArray = [
 	'videos/death.mov',
 	'videos/nooooooooooooooooo.mov',
 	//
-	// 					11/16/2021
+	// 				    11/16/2021
 	// 				  ShadeblastHere
 	//
-	//				   - Look! 35 Videos! -
+	//				- Look! 35 Videos! -
 	//
 	'videos/adachi.mp4',
 	'videos/akuma.mp4',
@@ -801,7 +801,7 @@ var videoArray = [
 	'videos/technical_issue.mp4',
 	'videos/ururur.mp4',
 	//
-	// 					11/18/2021
+	// 				    11/18/2021
 	// 				  ShadeblastHere
 	//
 	//				- i'm so cracked -
@@ -847,10 +847,10 @@ var videoArray = [
 	// why does my penis burn when i piss (exruw)
 	'videos/cinder.mp4',
 	//
-	// 					11/20/2021
+	// 			            11/20/2021
 	// 				  ShadeblastHere
 	//
-	//   - one of the mp4s i downloaded made me go insane -
+	//  		 - one of the mp4s i downloaded made me go insane -
 	//
 	'videos/01X01-The-Froggy-Apple-Crumble.mp4',
 	'videos/6EUYBWhVkKg.mp4',
@@ -923,13 +923,13 @@ var videoArray = [
 	'videos/use_water.mp4',
 	'videos/dog_water.mp4',
 	//
-	// 					11/27/2021
+	// 				    11/27/2021
 	// 				  ShadeblastHere
 	//
-	//   	- damn daniel, 🐬 🐬 🐬 🐬 🐬 🐬 -
+	//   			 - damn daniel, 🐬 🐬 🐬 🐬 🐬 🐬 -
 	//
 	// 	  also whenever i add // at the end of my videos you don't fuck with it
-	//  just add another one
+	//  				just add another one
 	//
 	'videos/astaghfirullah.mp4',
 	'videos/bad_daniel.mp4',
@@ -984,7 +984,7 @@ var videoArray = [
 	// exruw dont you lecture me with your 30 dollar hair nats
 	'videos/spacesong.mp4',
 	//
-	// 					11/29/2021
+	// 				    11/29/2021
 	// 				  ShadeblastHere
 	//
 	//		 - let's beat http://thebest404pageeverredux.com -
@@ -1076,8 +1076,8 @@ var videoArray = [
 	'videos/BAGLE.mp4', //HEY SHADE CRY ABOUT IT
 	// what's there to cry about if i don't get it you dumbass
 	//
-	// 					12/ 1/2021
-	// 				  ShadeblastHere
+	// 			        12/ 1/2021
+	// 			      ShadeblastHere
 	//
 	//		 	   - GAMERS,  GAMERS! -
 	//
@@ -1151,7 +1151,7 @@ var videoArray = [
 	'videos/bibro.mp4',
 	'videos/cac_snins.mp4',
 	'videos/CJ.mp4',
-	'videos/drink.mp4',
+	'videos/drink2.mp4',
 	'videos/fart_sound_effect.mp4',
 	'videos/gambam.mp4',
 	'videos/iceag.mp4',
@@ -1251,7 +1251,88 @@ var videoArray = [
 	'videos/NO.mov',
 	'videos/engine.mov',
 	'videos/best_burrito.mov',
-	'videos/buuurp.mov' //lol
+	'videos/buuurp.mov', //lol
+	//
+	// 			        12/ 8/2021
+	// 			      ShadeblastHere
+	//
+	//		     - shut the fuck up 2003boobear -
+	//
+	'videos/2016_Ghana_Movie_Trailer_wwwAfroLynxcom.mp4',
+	'videos/400_degrees_kelvin.mp4',
+	'videos/90_Degree_Angle.mp4',
+	'videos/angrybirds.mp4',
+	'videos/ATF_speedtyping.mp4',
+	'videos/baking_the_world.mp4',
+	'videos/BOMB_.mp4',
+	'videos/C4.mov',
+	'videos/can_of_soup.mp4',
+	'videos/catfight_Standing_here_I_realize.mp4',
+	'videos/cereal_fish.mp4',
+	'videos/DAMN_DANIEL_14.mp4',
+	'videos/engis_new_building.mp4',
+	'videos/Escaping_DB.mp4',
+	'videos/evilgoku.mp4',
+	'videos/Fish_Jenga.mp4',
+	'videos/fishgamingwednesday.mp4',
+	'videos/fling.mp4',
+	'videos/funny_movie_maker.mp4',
+	'videos/gangster_fish.mp4',
+	'videos/Gordon_Freeman_can_rap.mp4',
+	'videos/grappler.mp4',
+	'videos/Green.mp4',
+	'videos/GREETINGS-1.mp4',
+	'videos/greetings.mp4',
+	'videos/homeless.mp4',
+	'videos/howyoudoin.mp4',
+	'videos/Im_file_select.mp4',
+	'videos/im_filipino.mp4',
+	'videos/imfish.mp4',
+	'videos/Industrial_Society_and_Its_Future.webm',
+	'videos/isthatseattaken.mp4',
+	'videos/jinxmusic.mov',
+	'videos/jumping_godzilla.mp4',
+	'videos/kazakhstan.mp4',
+	'videos/kazakhstan_ugrazaj_nambambierofke.mp4',
+	'videos/man_screams_at_yellow_paint.mp4',
+	'videos/mario_galaxy_3.mp4',
+	'videos/mario_pinball_land.mp4',
+	'videos/Marks_Pizzeria_New_TV_Commercial.mp4',
+	'videos/morphine_administered.mp4',
+	'videos/movies_free_dot_com.mp4',
+	'videos/movistar_1.mp4',
+	'videos/movistar_2.mp4',
+	'videos/new_outro_dot_wmv.mp4',
+	'videos/orchestra.mov',
+	'videos/PADORU.mov',
+	'videos/Pingpong.mp4',
+	'videos/PUNCHED.mov',
+	'videos/RatFight.mp4',
+	'videos/ROOOAAAAAAGHH.mp4',
+	'videos/rudefish.mp4',
+	'videos/sandwich.mp4',
+	'videos/selfdrive.mp4',
+	'videos/sigma.mp4',
+	'videos/silly_strategy_game.mp4',
+	'videos/Simpsons.mp4',
+	'videos/SO_TRUE.mp4',
+	'videos/Spin.mp4',
+	'videos/spinbot.mp4',
+	'videos/sqimpwar.mp4',
+	'videos/staples.mp4',
+	'videos/steps_on_lego_dies.mp4',
+	'videos/The_new_tf2_update.mp4',
+	'videos/the_suspect.mp4',
+	'videos/TheRighTools.mp4',
+	'videos/Wanna_hear_the_most_annoying_meme_in_the_world.mp4',
+	'videos/welcome_to_the_philippines.mp4',
+	'videos/woah.mp4',
+	'videos/woman.mp4',
+	'videos/wtf_noo.mp4',
+	'videos/wypierdalaj.mp4',
+	'videos/you-2.mp4',
+	'videos/YOU_THINK_YOURE_SO_FUCKING_COOL.mp4'
+	//
 ]
 
 export function getArray() {
