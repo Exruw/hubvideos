@@ -1204,6 +1204,7 @@ var videoArray = [
 	'videos/REAL_LIFE_LOW_TIER_GOD.mp4',
 	'videos/booba.mp4', //💀
 	'videos/jacket_music.mov',
+	//i dont know who added the lower links but it wasnt me -2003
 	'videos/anal_penetration_porn_sex_sex_porn_sex_among_us_imposter.mp4',
 	'videos/soup_can.mp4',
 	'videos/yoshh.mp4',
@@ -1226,7 +1227,31 @@ var videoArray = [
 	'videos/ea.mp4',
 	'videos/GREEN GIANT.mp4',
 	'videos/reheeted.mp4',
-	'videos/nice tones.mp4'
+	'videos/nice tones.mp4',
+	//2003boobear, 12/07/2021
+	//where the hell is shadeblasthere
+	'videos/AAAAAAAAAAAAAAAAAAAAA.mp4',
+	'videos/doooooog.mp4',
+	'videos/driving_at_night.mp4',
+	'videos/creature_from_the_deep.mp4',
+	'videos/Risk_of_rain_2.mp4',
+	'videos/gas_money.mp4',
+	'videos/TWIST_IT.mp4',
+	'videos/u_mad.mp4',
+	'videos/say_hello_to_the_car_service.mp4',
+	'videos/yakuza_irl.mp4',
+	'videos/uuuuuuuuuuu.mp4',
+	'videos/goku_irl.mp4',
+	'videos/hona.mp4',
+	'videos/joel.mp4',
+	'videos/niipah.mp4',
+	'videos/fanf.mp4',
+	'videos/Barack_Obama_vs_Mitt_Romney.mp4', //NO WAY
+	'videos/minecraft_in_a_cave.mp4',
+	'videos/NO.mov',
+	'videos/engine.mov',
+	'videos/best_burrito.mov',
+	'videos/buuurp.mov' //lol
 ]
 
 export function getArray() {
