@@ -1331,8 +1331,25 @@ var videoArray = [
 	'videos/wtf_noo.mp4',
 	'videos/wypierdalaj.mp4',
 	'videos/you-2.mp4',
-	'videos/YOU_THINK_YOURE_SO_FUCKING_COOL.mp4'
-	//
+	'videos/YOU_THINK_YOURE_SO_FUCKING_COOL.mp4',
+	//2003boobear, 12/10/2021
+	//no
+	'videos/disco_kittens.mp4',
+	'videos/lightning.mp4',
+	'videos/flying_cheeseburgers.mp4',
+	'videos/o.mp4',
+	'videos/ponderingmyorb.mp4',
+	'videos/snowmiser.mp4',
+	'videos/starwars_telekinesis.mp4',
+	'videos/funniest_minion_memes.mp4',
+	'videos/aneurysm.mp4',
+	'videos/youlaggin.mp4',
+	'videos/WATCH_IT_BUB.mp4',
+	'videos/imajustdip.mp4',
+	'videos/banana_man.mp4',
+	'videos/swimming_in_the_rain.mp4',
+	'videos/dmc5.mp4',
+	'videos/1stnight.mp4'
 ]
 
 export function getArray() {
