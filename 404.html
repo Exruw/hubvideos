@@ -99,24 +99,5 @@ var images = [
 ]
 
 $('<img class="fade-in" src="https://hubchicken.tk/cdn/' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-images');
-var numberOfSongs = 6
-var sound = new Array(numberOfSongs + 1)
-sound[0] = "https://hubchicken.tk/cdn/wariobogey.mp3"
-sound[1] = "https://hubchicken.tk/cdn/yoshibogey.mp3"
-sound[2] = "https://hubchicken.tk/cdn/peachbogey.mp3"
-sound[3] = "https://hubchicken.tk/cdn/daiseybogey.mp3"
-sound[4] = "https://hubchicken.tk/cdn/luigibogey.mp3"
-sound[5] = "https://hubchicken.tk/cdn/mariobogey.mp3"
-
-function randomNumber() {
-	var randomLooper = -1
-	while (randomLooper < 0 || randomLooper > numberOfSongs || isNaN(randomLooper)) {
-		randomLooper = parseInt(Math.random() * (numberOfSongs + 1))
-	}
-	return randomLooper
-}
-var randomsub = randomNumber()
-var soundFile = sound[randomsub]
-document.write('<EMBED src= "' + soundFile + '" hidden=true autostart=true>')
 	</script>
 </html>
