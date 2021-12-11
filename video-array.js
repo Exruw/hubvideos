@@ -1349,7 +1349,21 @@ var videoArray = [
 	'videos/banana_man.mp4',
 	'videos/swimming_in_the_rain.mp4',
 	'videos/dmc5.mp4',
-	'videos/1stnight.mp4'
+	'videos/1stnight.mp4',
+	//2003boobear, 12/11/2021
+	'videos/Angry_chess.mov',
+	'videos/2_player_game.mov',
+	'videos/nice_christmas.mp4',
+	'videos/I_am_the_spy.mp4',
+	'videos/2fort_irl.mp4',
+	'videos/youre_never_gonna_get_my_power.mp4',
+	'videos/domed.mp4',
+	'videos/some_tv.mp4',
+	'videos/You_will_never_find_me.mp4',
+	'videos/notification_spam.mp4',
+	'videos/spilt_tea.mp4',
+	'videos/ur_not_a_dish.mp4',
+	'videos/cool_hand_tricks.mp4' //https://tenor.com/view/minor-inconvenience-gif-23795670
 ]
 
 export function getArray() {
