@@ -1456,7 +1456,26 @@ var videoArray = [
 	'videos/Star_warped_question_3.mp4',
 	'videos/sup_ladies_and gentlemen_the live_stream_is starting_right now.mp4',
 	'videos/aauugh_hd.mp4',
-	'videos/vinny_turns_his_fov_up.mp4'
+	'videos/vinny_turns_his_fov_up.mp4',
+	'videos/Homero si canta.mp4',
+	'videos/MONOSPACE.mp4',
+	'videos/Osmium_Alloy_Bomb.mp4',
+	'videos/PADDINGTON.mp4',
+	'videos/SONIC GAMEGEAR.mp4',
+	'videos/Spitball.mp4',
+	'videos/a_new_dawn.mp4',
+	'videos/calamar.mp4',
+	'videos/donald_fuck_joice.mp4',
+	'videos/letgo.mp4',
+	'videos/ma.mp4',
+	'videos/marc.mp4',
+	'videos/organ_fishe.mp4',
+	"videos/please don't be tiddies.mp4",
+	'videos/sawgebob.mp4',
+	'videos/sex_death.mp4',
+	'videos/spook.mp4',
+	'videos/triangle.mp4',
+	'videos/whattheshitisthis.mp4',
 ]
 
 export function getArray() {
