@@ -1455,7 +1455,8 @@ var videoArray = [
 	'videos/weed_milk_tutorial.mp4',
 	'videos/Star_warped_question_3.mp4',
 	'videos/sup_ladies_and gentlemen_the live_stream_is starting_right now.mp4',
-	'videos/aauugh_hd.mp4'
+	'videos/aauugh_hd.mp4',
+	'videos/vinny_turns_his_fov_up.mp4'
 ]
 
 export function getArray() {
