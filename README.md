@@ -1,3 +1,3 @@
-![Fuck you](https://cdn.discordapp.com/emojis/852669621941174302.gif?v=1)
+![Fuck you](https://c.tenor.com/3gJrau0SCnMAAAAj/gooper-hypnospace.gif)
 
 i hate the nig
