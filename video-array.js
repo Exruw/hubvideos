@@ -1364,6 +1364,7 @@ var videoArray = [
 	'videos/spilt_tea.mp4',
 	'videos/ur_not_a_dish.mp4',
 	'videos/cool_hand_tricks.mp4', //https://tenor.com/view/minor-inconvenience-gif-23795670
+	//WRITE YOUR NAME DOWN
 	'videos/the future of transport.mp4',
 	'videos/weed cave.mp4',
 	'videos/craft_axe.mp4',
@@ -1476,6 +1477,28 @@ var videoArray = [
 	'videos/spook.mp4',
 	'videos/triangle.mp4',
 	'videos/whattheshitisthis.mp4',
+	//2003boobear, 12/15/2021
+	'videos/vangaurd.mp4',
+	'videos/gravity_gun.mp4',
+	'videos/real_life_glitch.mp4',
+	'videos/wine_cat.mp4',
+	'videos/catcatcatcatcatcat.mp4',
+	'videos/cat_bread.mp4',
+	'videos/by_the_strength_and_guidence_of_the_nine.mp4',
+	'videos/darkrp.mp4',
+	'videos/Trailer.mp4',
+	'videos/spanish_goku.mp4',
+	'videos/cuttherope.mp4',
+	'videos/she_deserved_it..mp4',
+	'videos/patrick_gets_killed_by_flumpty.mp4',
+	'videos/norton_anti_virus.mp4',
+	'videos/slipping_on_ice.mp4',
+	'videos/flying_gorila.mp4',
+	'videos/VENEZUELA.mp4',
+	'videos/GRENADE.mp4',
+	'videos/sus_scp.mp4',
+	'videos/Ah_yes_my_favorite_video_game.mp4',
+	'videos/love_this_game.mov'
 ]
 
 export function getArray() {
