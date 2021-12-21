@@ -1542,7 +1542,7 @@ var videoArray = [
 	'videos/fnafsong.mp4',
 	'videos/footlong.mp4',
 	'videos/freakout.mp4',
-	'videos/GET_THE_FAK_OFF_MV.mov',
+	'videos/GET_THE_FAK_OFF_MY.mov',
 	'videos/GLASS_BREAK_just_a_week_away!.mp4',
 	'videos/gluguluglugulugluglugul.mp4',
 	'videos/gravity_coil.mp4',
