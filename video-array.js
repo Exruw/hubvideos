@@ -1599,6 +1599,8 @@ var videoArray = [
 	'videos/plague.mp4',
 	'videos/ps2game.mp4',
 	'videos/Racist_Golem.mov',
+	'videos/RATTLE_EM,_BOYS!.mp4',
+	'videos/RATTLE_ME_BONES.mp4',
 	'videos/rock,_paper,_scissors!.mp4',
 	'videos/ROTATE_THE_PLOMPY.mov',
 	'videos/scary_jumpscare.mov',
@@ -1638,6 +1640,8 @@ var videoArray = [
 	'videos/yelling_creature.mp4',
 	'videos/yomamaso.mp4',
 	'videos/You_are_watching_a_master_at_work..mp4',
+	//
+	// spacy forgot to divide
 	'videos/normal_people_chart.mp4',
 	'videos/ol666.mp4',
 	'videos/lechuga.mp4',
