@@ -109,14 +109,20 @@
 					font-size: 12px;
 				}
 			}
+            #VideoAmount {
+                color:white;
+                font-family: Inconsolata;
+                text-align: center;
+            }
 		</style>
 	</head>
 
 	<body>
 		<div class="topbar">
 			<p>Video List<br /><a href="https://hubchicken.tk/">Go Back</a></p>
+            
 		</div>
-
+        <p id="VideoAmount">Video Count: </p></a>
 		<div class="content-container">
 			<input
 				type="text"
@@ -124,13 +130,13 @@
 				id="search-text"
 			/>
 		</div>
-
+        
 		<div
 			class="content-container"
 			style="height: calc(88vh - 97px)"
 			id="container"
 		></div>
-
+        
 		<footer>
 			<p>Page designed by Infernocat</p>
 		</footer>
@@ -140,7 +146,7 @@
 			var videos = getArray(),
 				videoElements = []
 			var container = document.getElementById('container')
-
+            document.getElementById("VideoAmount").innerHTML = "Video amount: "+videos.length
 			function insertLink(text, link) {
 				link = link.replace('videos/', '')
 				var newElement = document.createElement('a')
