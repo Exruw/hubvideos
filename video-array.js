@@ -1690,7 +1690,36 @@ var videoArray = [
 	'videos/ohnoimouttapower.mp4',
 	'videos/pokescream.mp4',
 	'videos/toilet_bowl.mp4',
-	'videos/susmomentconfusion.mp4'
+	'videos/susmomentconfusion.mp4',
+	//
+	// exruw forgot to.
+	'videos/Rogue_Lineage.mp4',
+	//
+	// 			            12/23/2021
+	// 				  ShadeblastHere
+	//
+	//  				    - 2 days -
+	//
+	'videos/ARABIC_ASTRONAUT_IN_THE_OCEAN.mp4',
+	'videos/Cangrejo.mp4',
+	'videos/cocodile.mp4',
+	'videos/crack.mp4',
+	'videos/crack2.mp4',
+	'videos/CRAZY_BUTT.mp4',
+	'videos/death-3.mp4',
+	'videos/deep.mp4',
+	'videos/fnaf2.mp4',
+	'videos/game_over.mp4',
+	'videos/happy_1.mp4',
+	'videos/HATRED.mp4',
+	'videos/HULK_NO.mov',
+	'videos/JOLLY_GOOD_SHOW.mov',
+	'videos/persona5.mp4',
+	'videos/Shadowstepbeat.mp4',
+	'videos/thebeatles.mp4',
+	'videos/this_way.mp4',
+	'videos/typical_low_life_thugs.mp4',
+	'videos/yo_viendo_un_video_de_fernanfloo.mp4'
 	//
 ]
 
