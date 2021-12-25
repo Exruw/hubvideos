@@ -214,7 +214,6 @@ var videoArray = [
 	'videos/DAYTONAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.mp4',
 	'videos/conscriptwmv.webm',
 	'videos/Look_at_this_nigga_on_this_shit.mp4',
-	'videos/sponge.mp4',
 	'videos/dont_ever_buy_weed_from_a_gas_station.mp4',
 	'videos/camel_singing_maliali_song.mp4',
 	'videos/Real_Indonesian_Gaming.mp4',
@@ -1194,7 +1193,6 @@ var videoArray = [
 	'videos/woo_woo.mp4',
 	'videos/Nice-card-shuffle-skill.mp4',
 	'videos/screamong.mp4',
-	'videos/spong.mp4',
 	'videos/long_time_no_see.mp4',
 	'videos/trashngl.mp4',
 	'videos/americano_presidente.mp4',
@@ -1719,6 +1717,7 @@ var videoArray = [
 	'videos/thebeatles.mp4',
 	'videos/this_way.mp4',
 	'videos/typical_low_life_thugs.mp4',
+	'videos/spongecock.mp4',
 	'videos/yo_viendo_un_video_de_fernanfloo.mp4'
 	//
 ]
