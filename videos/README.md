@@ -7,6 +7,3 @@ Just so you know, you shouldn't add videos which have a space (or any other spec
 Got it? Good.
 
 ![](https://cdn.discordapp.com/emojis/866760334588510218.gif?size=256)
-
-ogle does not car
--![ogle](https://user-images.githubusercontent.com/61877191/147424654-50e1ade9-368e-4281-a240-6e448fafe331.png)
