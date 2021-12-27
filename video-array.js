@@ -1775,7 +1775,42 @@ var videoArray = [
 	'videos/when_the_duck.mp4',
 	'videos/wtfradio.mp4',
 	'videos/wtfspongebob.mp4',
-	'videos/yo_baby.mp4'
+	'videos/yo_baby.mp4',
+	//2003boobear, 12/26/2021
+	//sorry im slacking, the deep called
+	'videos/void_eating_pizza.mp4',
+	'videos/oh_no.mp4',
+	'videos/dog_sniff.mp4',
+	'videos/Are_you_retarded.mp4',
+	'videos/spongebob_irl.mp4',
+	'videos/spongebob_opening.mp4',
+	'videos/violencia.mp4',
+	'videos/gta5_omniman.mp4',
+	'videos/level_69_soldier.mp4',
+	'videos/glowstick.mp4',
+	'videos/epic_move.mp4',
+	'videos/tryna_troll_you.mp4',
+	'videos/boner.mp4',
+	'videos/cinder_blo.mp4',
+	'videos/the_doggy.mp4',
+	'videos/genshit_impact.mp4',
+	'videos/its_a_shower.mp4', //https://www.youtube.com/watch?v=PqXPW0oBKgg
+	'videos/memoji.mp4',
+	'videos/halfatoo.mp4',
+	'videos/cockarmy.mp4',
+	'videos/tf2_trading.mp4',
+	'videos/SCHOOL_SUCKS.mp4',
+	'videos/absolutely_diabolically_evil_lick.mp4',
+	'videos/AAAAAAAAA-1.mp4',
+	'videos/critical_balls.mp4',
+	'videos/minion_1.mp4',
+	'videos/food_battle_2010.mp4',
+	'videos/if_the_lights_went_out.mp4',
+	'videos/hearing_kids_cry.mp4',
+	'videos/nice_computer_you_got_here.mov',
+	'videos/im_siri.mov',
+	'videos/Crack.mov',
+	'videos/christmas_shirts.mov'
 	//
 ]
 
