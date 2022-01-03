@@ -1810,7 +1810,39 @@ var videoArray = [
 	'videos/nice_computer_you_got_here.mov',
 	'videos/im_siri.mov',
 	'videos/Crack.mov',
-	'videos/christmas_shirts.mov'
+	'videos/christmas_shirts.mov',
+	//2003boobear, 1/02/2022
+	//first update of the year??????
+	'videos/GOT_MILK.mp4',
+	'videos/hand_iron.mp4',
+	'videos/halal_mode.mp4',
+	'videos/building_snowmen_is_fun.mp4',
+	'videos/statue_of_liberty.mp4',
+	'videos/lipstick.mp4',
+	'videos/not_a_drill.mp4',
+	'videos/Regular_Ice.mp4',
+	'videos/p290.mp4',
+	'videos/AMEburger.mp4',
+	'videos/stupid.mp4',
+	'videos/roblox_demoman.mp4',
+	'videos/the_horse.mp4',
+	'videos/si_no_fuera_por_la_silla_de_caia_el_techo_encima.mp4',
+	'videos/plug_it_in.mp4',
+	'videos/jellyfish_jam.mp4',
+	'videos/dynamite.mp4',
+	'videos/duck_attack.mp4',
+	'videos/Eevee_dies.mp4',
+	'videos/forbidden_cola.mp4',
+	'videos/B_r_u_h..mp4',
+	'videos/the_johnson_house.mp4',
+	'videos/38.mp4',
+	'videos/cat_impersonation.mp4',
+	'videos/MAIJIMA.mov',
+	'videos/REAL_GHOST.mov',
+	'videos/spring_phone_case.mov',
+	'videos/i_really_hate_you.mov',
+	'videos/anonymous_friend_request.mov',
+	'videos/I_HATE_THE_MEDIA.mov'
 	//
 ]
 
