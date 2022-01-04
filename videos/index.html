@@ -183,9 +183,12 @@
 			function searchItems(search) {
 				videoElements.forEach((video) => {
 					if (
-						formatText(video.innerText)
-							.substring(0, search.length)
-							.toLowerCase() == search.toLowerCase()
+						//Kept this if anyone wants to revert it, for whatever reason
+						//---------------------------------------------------------------
+						//formatText(video.innerText)
+						//	.substring(0, search.length)
+						//	.toLowerCase() == search.toLowerCase()
+						video.innerText.includes(search)
 					) {
 						video.style.display = 'block'
 					} else {
