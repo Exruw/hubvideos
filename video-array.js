@@ -1842,7 +1842,10 @@ var videoArray = [
 	'videos/spring_phone_case.mov',
 	'videos/i_really_hate_you.mov',
 	'videos/anonymous_friend_request.mov',
-	'videos/I_HATE_THE_MEDIA.mov'
+	'videos/I_HATE_THE_MEDIA.mov',
+	//2003boobear, 1/4/2022
+	//one
+	'videos/ragoozer.mp4'
 	//
 ]
 
