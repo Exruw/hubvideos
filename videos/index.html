@@ -147,8 +147,7 @@
 				videoElements = []
 			var container = document.getElementById('container')
 			var searchText = document.getElementById('search-text')
-            document.getElementById("VideoAmount").innerHTML = "Video Amount: "+videos.length
-			searchText.placeholder = `Search for a video out of ${videos.length} videos`;
+			searchText.placeholder = `Search for a video out of ${videos.length} videos...`;
 			function insertLink(text, link) {
 				link = link.replace('videos/', '')
 				var newElement = document.createElement('a')
