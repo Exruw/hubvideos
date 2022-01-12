@@ -7,10 +7,13 @@
 // I DO NOT WANT TO WRITE ASCII CODES WHEN I LINK THE VIDEOS IT'S TOO MUCH OF A FUCKING HASSLE
 // - ShadeblastHere
 
+// WHY ARE YOU USING SINGLE QUOTES 
+
 var videoArray = [
 	'https://cdn.discordapp.com/attachments/799419671161733210/904835057489948702/My_intro.mp4',
 	'https://cdn.discordapp.com/attachments/881656384352038963/888939092237238313/video0.mp4',
 	'https://cdn.discordapp.com/attachments/883902480205905961/889500697538732092/WHA_DA.mp4',
+	'videos/frieza.mp4',
 	'videos/spong.mp4',
 	'videos/jumpscare.mp4',
 	'videos/rappingcat.mp4',
