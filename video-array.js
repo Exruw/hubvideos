@@ -900,7 +900,7 @@ var videoArray = [
 	//2003boobear, 11/22/2021
 	'videos/dumb_egg_shot_his_shadow.mp4',
 	'videos/maij.mp4',
-	'videos/dob_bowl.mp4',
+	'videos/dog_bowl.mp4',
 	'videos/ooh_hoo_hoo.mp4',
 	'videos/fighting_air.mp4',
 	'videos/CHRISTMAS_dante.mp4',
@@ -1268,7 +1268,7 @@ var videoArray = [
 	//		     - shut the fuck up 2003boobear -
 	//
 	'videos/2016_Ghana_Movie_Trailer_wwwAfroLynxcom.mp4',
-	'videos/400_degrees_kelvin.mp4',
+	'videos/4000_degrees_kelvin.mp4',
 	'videos/90_Degree_Angle.mp4',
 	'videos/angrybirds.mp4',
 	'videos/ATF_speedtyping.mp4',
@@ -1797,7 +1797,7 @@ var videoArray = [
 	'videos/cinder_blo.mp4',
 	'videos/the_doggy.mp4',
 	'videos/genshit_impact.mp4',
-	'videos/its_a_shower.mp4', //https://www.youtube.com/watch?v=PqXPW0oBKgg
+	'videos/its_a_shower.mov', //https://www.youtube.com/watch?v=PqXPW0oBKgg
 	'videos/memoji.mp4',
 	'videos/halfatoo.mp4',
 	'videos/cockarmy.mp4',
@@ -1821,7 +1821,7 @@ var videoArray = [
 	'videos/halal_mode.mp4',
 	'videos/building_snowmen_is_fun.mp4',
 	'videos/statue_of_liberty.mp4',
-	'videos/lipstick.mp4',
+	'videos/lipstick.mov',
 	'videos/not_a_drill.mp4',
 	'videos/Regular_Ice.mp4',
 	'videos/p290.mp4',
