@@ -1934,7 +1934,7 @@ var videoArray = [
 	'videos/Who_is_it',
 	'videos/why_are_you_staring_at_the_bomb.mp4',
 	'videos/XBOX-LIVE.mp4',
-	'videos/XBOX_LIVE2.mp4
+	'videos/XBOX_LIVE2.mp4'
 ]
 
 export function getArray() {
