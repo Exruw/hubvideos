@@ -1848,7 +1848,7 @@ var videoArray = [
 	'videos/I_HATE_THE_MEDIA.mov',
 	//2003boobear, 1/4/2022
 	//one
-	'videos/ragoozer.mp4'
+	'videos/ragoozer.mp4',
 	//
 	//
 	// 			             1/15/2021
