@@ -1875,8 +1875,8 @@ var videoArray = [
 	'videos/DEKIMXKEY.mov',
 	'videos/dog_destroyed.mp4',
 	'videos/dohtarune.mov',
-	'videos/ellis.mmp4',
-	'videos/FAAACTS',
+	'videos/ellis.mp4',
+	'videos/FAAACTS.mp4',
 	'videos/FACKING_BOOLSHET.mp4',
 	'videos/falldamage.mp4',
 	'videos/fisherman.mp4',
@@ -1931,10 +1931,12 @@ var videoArray = [
 	'videos/video0_2.mov',
 	'videos/wallace.mp4',
 	'videos/Water..mov',
-	'videos/Who_is_it',
-	'videos/why_are_you_staring_at_the_bomb.mp4',
+	'videos/Who_is_it.mp4',
+	'videos/why_are_you_staring_at_the_bomb.mov',
 	'videos/XBOX-LIVE.mp4',
 	'videos/XBOX_LIVE2.mp4',
+	//
+	// brush spacy off because they forgot to split 1/17/2021
 	"videos/18_ONLY.mp4",
 	"videos/CNC.mp4",
 	"videos/EggsInAFridge.mov",
@@ -1965,7 +1967,32 @@ var videoArray = [
 	"videos/top_cores.mp4",
 	"videos/waaow.mp4",
 	"videos/walter_gm.mp4",
-	"videos/ytp_pedofiles.mp4"
+	"videos/ytp_pedofiles.mp4",
+	//
+	//
+	// 			             1/17/2021
+	// 				  ShadeblastHere
+	//
+	//  			         - i am not real -
+	//
+	'videos/3_quid.mov',
+	'videos/amy.mov',
+	'videos/beavis.mov',
+	'videos/farasadcxvxc.mp4',
+	'videos/hol_up.mp4',
+	'videos/i_kill_the_dog.mp4',
+	'videos/ITS_ABOUT_DRIVE.mp4',
+	'videos/krab.mov',
+	'videos/meow1.mp4',
+	'videos/meow2.mp4',
+	'videos/PATO_SAD.mp4',
+	'videos/sad_crocodile_-.mp4',
+	'videos/saddam_show_1.mp4',
+	'videos/scout_falls.mov',
+	'videos/shawty.mov',
+	'videos/the.....mov',
+	'videos/win2.mp4'
+	//
 ]
 
 export function getArray() {
