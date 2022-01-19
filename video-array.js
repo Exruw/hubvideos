@@ -1991,7 +1991,22 @@ var videoArray = [
 	'videos/scout_falls.mov',
 	'videos/shawty.mov',
 	'videos/the.....mov',
-	'videos/win2.mp4'
+	'videos/win2.mp4',
+	//
+	//
+	// 			             1/19/2021
+	// 				  ShadeblastHere
+	//
+	//  			          - i get high -
+	//
+	'videos/break.mp4',
+	'videos/ckit.mp4',
+	'videos/farter.mp4',
+	'videos/FNAF_jumpscare_irl.mp4',
+	'videos/freddy.mp4',
+	'videos/GURP.mp4',
+	'videos/quaza.mov',
+	'videos/Super_Mario_Smoking_Weed__The_Movie.mp4'
 	//
 ]
 
