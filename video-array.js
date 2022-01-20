@@ -2006,7 +2006,17 @@ var videoArray = [
 	'videos/freddy.mp4',
 	'videos/GURP.mp4',
 	'videos/quaza.mov',
-	'videos/Super_Mario_Smoking_Weed__The_Movie.mp4'
+	'videos/Super_Mario_Smoking_Weed__The_Movie.mp4',
+	//
+	//
+	// 			             1/20/2021
+	// 				  ShadeblastHere
+	//
+	//  			            - oh  no -
+	//
+	'videos/01.mp4',
+	'videos/A_job_application..mp4',
+	'videos/battle_of_wits.mp4'
 	//
 ]
 
