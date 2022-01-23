@@ -2016,7 +2016,31 @@ var videoArray = [
 	//
 	'videos/01.mp4',
 	'videos/A_job_application..mp4',
-	'videos/battle_of_wits.mp4'
+	'videos/battle_of_wits.mp4',
+	//
+	//
+	// 			             1/23/2021
+	// 				  ShadeblastHere
+	//
+	//  			                - -
+	//
+	'videos/AAAAHHHH.mp4',
+	'videos/bilingual.mp4',
+	'videos/CHAIN.mp4',
+	'videos/donald.mp4',
+	'videos/fich_2.mp4',
+	'videos/FREDDY_FAZBEAR_WHAT_HAPPENED.mp4',
+	'videos/FUCK_YOU_BALTIMORE.mp4',
+	'videos/happy_birthday_grandma.mp4',
+	'videos/ITS_HIM.mp4',
+	'videos/la_familia_simpson_versus_la_familia_de_Peppa_pig.mp4',
+	'videos/la_lechuga.mov',
+	'videos/LOOK_AT_THIS_FCUGKIN_CAT.mov',
+	'videos/nazuri1.mp4',
+	'videos/Scoop.mov',
+	'videos/structual_failure.mp4',
+	'videos/villager2.mp4',
+	'videos/what_is_he_saying.mov'
 	//
 ]
 
