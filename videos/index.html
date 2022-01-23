@@ -109,11 +109,6 @@
 					font-size: 12px;
 				}
 			}
-            #VideoAmount {
-                color:white;
-                font-family: Inconsolata;
-                text-align: center;
-            }
 		</style>
 	</head>
 
@@ -132,21 +127,17 @@
         
 		<div
 			class="content-container"
-			style="height: calc(88vh - 97px)"
+			style="height: calc(88vh - 50px)"
 			id="container"
 		></div>
-        
-		<footer>
-			<p>Page designed by Infernocat</p>
-		</footer>
-
 		<script type="module">
-			import { getArray } from '../video-array.js'
-			var videos = getArray(),
-				videoElements = []
-			var container = document.getElementById('container')
-			var searchText = document.getElementById('search-text')
+			import { getArray } from 'https://hubchicken.tk/video-array.js';
+			var videos = getArray(), videoElements = [];
+
+			var container = document.getElementById('container');
+			var searchText = document.getElementById('search-text');
 			searchText.placeholder = `Search for a video out of ${videos.length} videos...`;
+
 			function insertLink(text, link) {
 				link = link.replace('videos/', '')
 				var newElement = document.createElement('a')
