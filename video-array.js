@@ -1851,7 +1851,7 @@ var videoArray = [
 	'videos/ragoozer.mp4',
 	//
 	//
-	// 			             1/15/2021
+	// 			             1/15/2022
 	// 				  ShadeblastHere
 	//
 	//  				   - Shut  up -
@@ -1936,7 +1936,7 @@ var videoArray = [
 	'videos/XBOX-LIVE.mp4',
 	'videos/XBOX_LIVE2.mp4',
 	//
-	// brush spacy off because they forgot to split 1/17/2021
+	// brush spacy off because they forgot to split 1/17/2022
 	"videos/18_ONLY.mp4",
 	"videos/CNC.mp4",
 	"videos/EggsInAFridge.mov",
@@ -1970,7 +1970,7 @@ var videoArray = [
 	"videos/ytp_pedofiles.mp4",
 	//
 	//
-	// 			             1/17/2021
+	// 			             1/17/2022
 	// 				  ShadeblastHere
 	//
 	//  			         - i am not real -
@@ -1994,7 +1994,7 @@ var videoArray = [
 	'videos/win2.mp4',
 	//
 	//
-	// 			             1/19/2021
+	// 			             1/19/2022
 	// 				  ShadeblastHere
 	//
 	//  			          - i get high -
@@ -2009,7 +2009,7 @@ var videoArray = [
 	'videos/Super_Mario_Smoking_Weed__The_Movie.mp4',
 	//
 	//
-	// 			             1/20/2021
+	// 			             1/20/2022
 	// 				  ShadeblastHere
 	//
 	//  			            - oh  no -
@@ -2019,7 +2019,7 @@ var videoArray = [
 	'videos/battle_of_wits.mp4',
 	//
 	//
-	// 			             1/23/2021
+	// 			             1/23/2022
 	// 				  ShadeblastHere
 	//
 	//  			                - -
@@ -2040,7 +2040,65 @@ var videoArray = [
 	'videos/Scoop.mov',
 	'videos/structual_failure.mp4',
 	'videos/villager2.mp4',
-	'videos/what_is_he_saying.mov'
+	'videos/what_is_he_saying.mov',
+	//
+	//
+	// 			             1/26/2022
+	// 				  ShadeblastHere
+	//
+	//  			                - -
+	//
+	'videos/1984.mov',
+	'videos/air.mp4',
+	'videos/angry_birds_rap.mp4',
+	'videos/bodyparts.mp4',
+	'videos/BRICK.mov',
+	'videos/c418bruh.mp4',
+	'videos/CPR.mp4',
+	'videos/dance.mp4',
+	'videos/extra_terrestrial_.mp4',
+	'videos/eye_brows.mp4',
+	'videos/FORTEENAIT_OR_BABBA_JAY.mov',
+	'videos/frederick_fitzgerald_fazbear.mp4',
+	'videos/garfieldshowep1.mp4',
+	'videos/HIT_IT.mp4',
+	'videos/Homer_meets_the_Frowning_Friends.mp4',
+	'videos/I_am_going_to_commit_great_crime_Im_going_to_bust_nut_in_water_tower.mp4',
+	'videos/i_am_not_leaving.mp4',
+	'videos/I_HAVE_NO_FUCKING_IDEA.mp4',
+	'videos/life_discovery.mp4',
+	'videos/LOW_QUALITY_BAIT.mp4',
+	'videos/mafia_skeleton.mp4',
+	'videos/mamma_mia.mp4',
+	'videos/multiple_personality.mp4',
+	'videos/My_Movie_3.mov',
+	'videos/onep.mp4',
+	'videos/open_verse_challenge.mp4',
+	'videos/Optimus_praido.mp4',
+	'videos/PACKWATCHER.mp4',
+	'videos/porck.mp4',
+	'videos/pvz.mp4',
+	'videos/Rapid_Punches.mp4',
+	'videos/rollerskates.mp4',
+	'videos/sigma_male.mp4',
+	'videos/skatin.mp4',
+	'videos/Smiling_Saiyans.mp4',
+	'videos/sp.mp4',
+	'videos/space_jam_dvd.mp4',
+	'videos/Sqid_game.mp4',
+	'videos/Standing_here_i_realise_but_every_hit_is_the_vine_boom_sound_effect.mp4',
+	'videos/stronger.mov',
+	'videos/Superwog_Funny_Clips.mp4',
+	'videos/TACO_BELL.mp4',
+	'videos/THE_DEPTHS.mp4',
+	'videos/thughunter.mp4',
+	'videos/UNCLEBENWHATHAPPEND_.mp4',
+	'videos/video0-1-9.mp4',
+	'videos/weed_card_deluxe_vol._2.webm',
+	'videos/whathappened.mp4',
+	'videos/whatsgoingon.mp4',
+	'videos/YEEHAW.mp4',
+	'videos/you_dirt_disgusting_man.mp4'
 	//
 ]
 
