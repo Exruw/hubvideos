@@ -2098,7 +2098,43 @@ var videoArray = [
 	'videos/whathappened.mp4',
 	'videos/whatsgoingon.mp4',
 	'videos/YEEHAW.mp4',
-	'videos/you_dirt_disgusting_man.mp4'
+	'videos/you_dirt_disgusting_man.mp4',
+	//
+	//
+	// 			             1/29/2022
+	// 				  ShadeblastHere
+	//
+	//  			                - -
+	//
+	'videos/3_BIG_BALLS.mov',
+	'videos/ah.mp4',
+	'videos/bad_deep.mp4',
+	'videos/beep_boop.mov',
+	'videos/clash_of_clans.mov',
+	'videos/deer.mp4',
+	'videos/DONT_YOU_LECTURE_ME_WITH_YOUR_THIRTY_DOLLAR_HAIRCUT.mp4',
+	'videos/drifter.mp4',
+	'videos/edm.mp4',
+	'videos/ginger.mp4',
+	'videos/grandtheftautosanandreas.mp4',
+	'videos/guitar.webm',
+	'videos/hellfire.mp4',
+	'videos/im_roblox.mp4',
+	'videos/KKKKKK_q_som.mp4',
+	'videos/meow.mov',
+	'videos/no_talking.mp4',
+	'videos/pou_1.mp4',
+	'videos/reaaal.mp4',
+	'videos/SAY_GOODBYE_TO_YOUR_KNEECAPS_CHUCKLEHEAD.mp4',
+	'videos/sephiroth.mov',
+	'videos/SFOTH_IN_SOURCE.mp4',
+	'videos/spotted_dog.mp4',
+	'videos/THERE_IS_NO_ICE!.mp4',
+	'videos/travis_shapes.mov',
+	'videos/video0_15.mp4',
+	'videos/wow1.mp4',
+	'videos/XBOX_720.mov',
+	'videos/Yakuza.mp4'
 	//
 ]
 
