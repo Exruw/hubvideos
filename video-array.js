@@ -2134,8 +2134,31 @@ var videoArray = [
 	'videos/video0_15.mp4',
 	'videos/wow1.mp4',
 	'videos/XBOX_720.mov',
-	'videos/Yakuza.mp4'
+	'videos/Yakuza.mp4',
 	//
+	//
+	// 			             1/29/2022
+	// 				  ShadeblastHere
+	//
+	//  			                - -
+	//
+	'videos/cat_crack.webm',
+	'videos/darklaus.mp4',
+	'videos/delicious-banana.mp4',
+	'videos/dementia-.mp4',
+	'videos/dementia.mp4',
+	'videos/Extreme-snowboarding.mp4',
+	'videos/fnaf_bonnie_jumpscare_1.mp4',
+	'videos/FUCKING_INVINCIBLE.mp4',
+	'videos/gym.mp4',
+	'videos/HELICOPTER_WWE.mov',
+	'videos/hell_1.mp4',
+	'videos/MICHAEL_DONT_LEAVE_ME_HERE.mov',
+	'videos/oblivion.webm',
+	'videos/pato_sad2.mp4',
+	'videos/peter.mov',
+	'videos/rubber.mp4',
+	'videos/salad_man.mp4'
 ]
 
 export function getArray() {
