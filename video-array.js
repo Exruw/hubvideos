@@ -2158,7 +2158,41 @@ var videoArray = [
 	'videos/pato_sad2.mp4',
 	'videos/peter.mov',
 	'videos/rubber.mp4',
-	'videos/salad_man.mp4'
+	'videos/salad_man.mp4',
+	//
+	//
+	// 			             2/ 2/2022
+	// 				  ShadeblastHere
+	//
+	//  			                - -
+	//
+	'videos/24.mp4',
+	'videos/25.mp4',
+	'videos/34.mp4',
+	'videos/A_Very_Quick_Hello!.mp4',
+	'videos/AVERAGE.mp4',
+	'videos/BRITISH_WARIO.mp4',
+	'videos/Congrats_to_South_Park.mp4',
+	'videos/doodlebob.mp4',
+	'videos/excuse_me_gordon.mp4',
+	'videos/fishing_bossfight.mp4',
+	'videos/freddy-fazbear-what-happened.mp4',
+	'videos/FUS_RO_DAH.mp4',
+	'videos/GREETINGS3.mp4',
+	'videos/hq_funky_town.mp4',
+	'videos/luX22k64v94.mp4',
+	'videos/man_jumpscared.mp4',
+	'videos/microwave.mp4',
+	'videos/oops,_you_bwoke_it.mp4',
+	'videos/penguin_wilhelm.mp4',
+	'videos/ratte.mp4',
+	'videos/The_System_Is_Down.mp4',
+	'videos/theyre_waiting_for_you.mp4',
+	'videos/too_much_raining.mp4',
+	'videos/Two_cats_having_a_conversation.mp4',
+	'videos/what_is_it_man.mp4',
+	'videos/You_are_made_of_Stupid.mp4'
+	//
 ]
 
 export function getArray() {
