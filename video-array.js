@@ -22,6 +22,8 @@ var videoArray = [
 	'videos/mathclass.mp4',
 	'videos/halflife.mp4',
 	'videos/ltg.mp4',
+	'videos/cat_tube.mp4',
+	'videos/cat_whip.mp4',
 	'videos/Rogue_Lineage.mp4', // your welcome
 	'videos/top_infinity_cheese.webm',
 	'videos/cocaina.mov',
