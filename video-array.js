@@ -2671,7 +2671,24 @@ var videoArray = [
 	'videos/this_ride_right_here.mov',
 	'videos/josephs_machines.mp4',
 	'videos/vacume_snow.mp4',
-	'videos/when_hehe.mp4'
+	'videos/when_hehe.mp4',
+	//2003boobear, 3/29/2022
+	'videos/YallThinkHeLookLikeSteveHarvey.mp4',
+	'videos/dead_by_daylight.mp4',
+	'videos/BYE.mp4',
+	'videos/WHY_IS_MY_PIZZA_BLACK.mov',
+	'videos/que_dia_es_hoy.mp4',
+	'videos/unc.mp4',
+	'videos/fumfumfum.mp4',
+	'videos/WE_CALL_THIS_A_DIFFICULTY_TWEAK.mp4',
+	'videos/images_gamers_understand.mp4',
+	'videos/demo_raid.mov',
+	'videos/cta.mp4',
+	'videos/Fasbear.mp4',
+	'videos/Chewsday_init.mp4', //shut up bitc
+	'videos/How_to_start_your_day_clueless.mp4',
+	'videos/POKEY_THE_PENGUIN.mov',
+	'videos/THE_WASP_CAR.mp4'
 	//
 ]
 
