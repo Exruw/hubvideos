@@ -2688,7 +2688,21 @@ var videoArray = [
 	'videos/Chewsday_init.mp4', //shut up bitc
 	'videos/How_to_start_your_day_clueless.mp4',
 	'videos/POKEY_THE_PENGUIN.mov',
-	'videos/THE_WASP_CAR.mp4'
+	'videos/THE_WASP_CAR.mp4',
+	//2003boobear, 3/30/2022
+	'videos/microwave_pov.mov',
+	'videos/awwhallsnahspongbob.mp4',
+	'videos/R.mov',
+	'videos/thanos_goes_to_airport.mp4',
+	'videos/RADIO.mp4',
+	'videos/dog_slip.mov',
+	'videos/crawling.mp4'.
+	'videos/trinkets.mp4',
+	'videos/An_Irish_Tale.mp4',
+	'videos/coca_cola.mov',
+	'videos/pepis_bipebomb.mp4',
+	'videos/trap.mp4',
+	'videos/jetstream_sam_boss_fight.mp4'
 	//
 ]
 
