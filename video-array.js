@@ -2696,7 +2696,7 @@ var videoArray = [
 	'videos/thanos_goes_to_airport.mp4',
 	'videos/RADIO.mp4',
 	'videos/dog_slip.mov',
-	'videos/crawling.mp4'.
+	'videos/crawling.mp4',
 	'videos/trinkets.mp4',
 	'videos/An_Irish_Tale.mp4',
 	'videos/coca_cola.mov',
