@@ -2723,15 +2723,15 @@ var videoArray = [
 	'videos/Iliveinthewall.mp4',
 	'videos/monkey_goes_to_school.mp4',
 	'videos/announcement.mov',
-	'videos/wanna_play_a_little_game', //requested by shade
-	'videos/earthbound.mp4', //requested by shade
-	'videos/target_located.mp4', //requested by shade
-	'videos/socks.mp4', //requested by shade
-	'videos/sadbob.mp4', //requested by shade
-	'videos/you_sure.mp4', //requested by shade
-	'videos/heeheehaha.mp4', //requested by shade
-	'videos/facade_kick_out.mp4', //requested by shade
-	'videos/metrocop.mp4', //requested by shade
+	'videos/wanna_play_a_little_game', //requested by [[REDACTED]]
+	'videos/earthbound.mp4', //requested by [[REDACTED]]
+	'videos/target_located.mp4', //requested by [[REDACTED]]
+	'videos/socks.mp4', //requested by [[REDACTED]]
+	'videos/sadbob.mp4', //requested by [[REDACTED]]
+	'videos/you_sure.mp4', //requested by [[REDACTED]]
+	'videos/heeheehaha.mp4', //requested by [[REDACTED]]
+	'videos/facade_kick_out.mp4', //requested by [[REDACTED]]
+	'videos/metrocop.mp4', //requested by [[REDACTED]]
 	'videos/Average_Postal_Maniac_VS._Average_Postal_Pacifist.mp4', //requested by dion
 	'videos/yipee.mp4', //requested by R2283 server (Jestar Heart#0666)
 	'videos/un_pato.mp4' //requested by R2283 server (Demoralia#6252)
