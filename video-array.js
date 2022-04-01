@@ -2704,7 +2704,37 @@ var videoArray = [
 	'videos/coca_cola.mov',
 	'videos/pepis_bipebomb.mp4',
 	'videos/trap.mp4',
-	'videos/jetstream_sam_boss_fight.mp4'
+	'videos/jetstream_sam_boss_fight.mp4',
+	//2003boobear, 4/1/2022
+	'videos/Omegle.mp4',
+	'videos/Jeremiah_Elbertson.mp4',
+	'videos/all_of_the_lights.mp4',
+	'videos/obama-sparta-remix.mp4',
+	'videos/dungeons_and_dragons.mp4',
+	'videos/first_of_the_month.mp4',
+	'videos/twitter_post.mp4',
+	'videos/sorbet.mov',
+	'videos/opossum.mp4',
+	'videos/devious_little_scoundrel.mp4',
+	'videos/I_AM_NO_LONGER_RACIST.mp4',
+	'videos/incredible.mp4',
+	'videos/memory_foam.mp4',
+	'videos/California.mp4',
+	'videos/Iliveinthewall.mp4',
+	'videos/monkey_goes_to_school.mp4',
+	'videos/announcement.mov',
+	'videos/wanna_play_a_little_game', //requested by [[REDACTED]]
+	'videos/earthbound.mp4', //requested by [[REDACTED]]
+	'videos/target_located.mp4', //requested by [[REDACTED]]
+	'videos/socks.mp4', //requested by [[REDACTED]]
+	'videos/sadbob.mp4', //requested by [[REDACTED]]
+	'videos/you_sure.mp4', //requested by [[REDACTED]]
+	'videos/heeheehaha.mp4', //requested by [[REDACTED]]
+	'videos/facade_kick_out.mp4', //requested by [[REDACTED]]
+	'videos/metrocop.mp4', //requested by [[REDACTED]]
+	'videos/Average_Postal_Maniac_VS._Average_Postal_Pacifist.mp4', //requested by dion
+	'videos/yipee.mp4', //requested by R2283 server (Jestar Heart#0666)
+	'videos/un_pato.mp4' //requested by R2283 server (Demoralia#6252)
 	//
 ]
 
