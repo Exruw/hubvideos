@@ -60,6 +60,7 @@ var videoArray = [
 	'videos/3D.mp4',
 	'videos/peter.mp4',
 	'videos/john.mp4',
+	'videos/jerma_credit.mp4',
 	'videos/btd5.mp4',
 	'videos/hereicome.mp4',
 	'videos/minecrafdt.mp4',
