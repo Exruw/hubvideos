@@ -5,7 +5,7 @@
 // AS OF 12/27/2021 IF I CATCH YOUR FUCKING DUMBASS ADDING A VIDEO WITH A SPACE OR ANY OTHER SPECIAL CHARACTER IN ITS NAME I WILL REPRIMAND YOU
 // THE ONLY SPECIAL CHARACTERS THAT ARE ACCEPTABLE ARE _ - , . !
 // I DO NOT WANT TO WRITE ASCII CODES WHEN I LINK THE VIDEOS IT'S TOO MUCH OF A FUCKING HASSLE
-// - ShadeblastHere
+// - [[REDACTED]]
 
 // WHY ARE YOU USING SINGLE QUOTES 
 
@@ -95,7 +95,7 @@ var videoArray = [
 	'videos/be_a_big_shot.mp4',
 	'videos/sleep.mp4',
 	// New videos as of 9/25/2021, 4:20 PM (in romanian time)
-	// - ShadeblastHere
+	// - [[REDACTED]]
 	'videos/oh_hell_no.mp4',
 	//
 	'videos/ltgv2.mp4',
@@ -110,7 +110,7 @@ var videoArray = [
 	'videos/rattatooly.mp4',
 	'videos/handsome-squidward.mp4',
 	// New videos as of 10/23/2021, 3:08 AM (in romanian time)
-	// - ShadeblastHere
+	// - [[REDACTED]]
 	'videos/thisdude.mp4',
 	'videos/GCSDK_fish.webm',
 	'videos/long_way_from_texas.mp4', // And nobody noticed.
@@ -287,7 +287,7 @@ var videoArray = [
 	'videos/video0.mp4',
 	//
 	// 11/6/2021
-	// ShadeblastHere
+	// [[REDACTED]]
 	// Shut the fuck up
 	'videos/UUUUUA_AUUUUU.mp4',
 	'videos/joelghost.mp4',
@@ -360,7 +360,7 @@ var videoArray = [
 	'videos/bottle.mp4',
 	'videos/that_true.mp4',
 	// 11/7/2021 6:52 PM my balls
-	// ShadeblastHere
+	// [[REDACTED]]
 	'videos/20dollarhairnats.mp4',
 	'videos/HOMER_IS_DEAD.mp4',
 	'videos/nightma.mp4',
@@ -427,7 +427,7 @@ var videoArray = [
 	'videos/welcome_to_tetrio_place_the_blocks_1.3gpp',
 	//
 	//
-	//ShadeblastHere
+	//[[REDACTED]]
 	//
 	//   11/9/2021
 	// ALSO EXRUW PLEASE TELL ME HOW THE FUCK CAN I UPLOAD VIDEOS OF MORE THAN 10 MB OR WHATEVER
@@ -606,7 +606,7 @@ var videoArray = [
 	'videos/villager.mp4',
 	'videos/coke_bottle.mp4',
 	// 11/12/2021
-	// ShadeblastHere
+	// [[REDACTED]]
 	'videos/indian.mp4',
 	'videos/walking.mp4',
 	'videos/Black_Jew_Online-1.mp4',
@@ -624,7 +624,7 @@ var videoArray = [
 	'videos/indian_scammer.mp4',
 	'videos/cap_doctor.mp4',
 	// 11/14/2021
-	// ShadeblastHere
+	// [[REDACTED]]
 	'videos/1626699928698705724.webm',
 	'videos/aauugh.mp4',
 	'videos/abraham.mp4',
@@ -775,7 +775,7 @@ var videoArray = [
 	'videos/nooooooooooooooooo.mov',
 	//
 	// 				    11/16/2021
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//				- Look! 35 Videos! -
 	//
@@ -815,7 +815,7 @@ var videoArray = [
 	'videos/ururur.mp4',
 	//
 	// 				    11/18/2021
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//				- i'm so cracked -
 	//
@@ -845,7 +845,7 @@ var videoArray = [
 	'videos/wayfair.mp4',
 	'videos/YOU_LOSE.mp4',
 	//
-	//2003boobear, 11/17/2021 (shadeblasthere's timezone is different)
+	//2003boobear, 11/17/2021 ([[REDACTED]]'s timezone is different)
 	'videos/twinke_tackle.mov',
 	'videos/trolls.mp4',
 	'videos/dbd.mp4',
@@ -861,7 +861,7 @@ var videoArray = [
 	'videos/cinder.mp4',
 	//
 	// 			            11/20/2021
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  		 - one of the mp4s i downloaded made me go insane -
 	//
@@ -911,7 +911,7 @@ var videoArray = [
 	'videos/REALgamers.mp4',
 	'videos/dont_screenshot_nfts_.mp4',
 	'videos/Alcoholism.mp4',
-	'videos/bad_cramp.mp4', //HEY SHADEBLASTHERE
+	'videos/bad_cramp.mp4', //HEY [[REDACTED]]
 	'videos/based_as_fuck.mp4', //CRY
 	'videos/car_alarms_everywhere.mp4',
 	'videos/big_shot_but_its_small_shot.mp4',
@@ -937,7 +937,7 @@ var videoArray = [
 	'videos/dog_water.mp4',
 	//
 	// 				    11/27/2021
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//   			 - damn daniel, 🐬 🐬 🐬 🐬 🐬 🐬 -
 	//
@@ -998,7 +998,7 @@ var videoArray = [
 	'videos/spacesong.mp4',
 	//
 	// 				    11/29/2021
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//		 - let's beat http://thebest404pageeverredux.com -
 	//
@@ -1086,11 +1086,11 @@ var videoArray = [
 	'videos/El_pibe_que_salio_de_una_alcantarilla.mp4',
 	'videos/CRABGRASS.mp4',
 	'videos/roman_class.mp4',
-	'videos/BAGLE.mp4', //HEY SHADE CRY ABOUT IT
+	'videos/BAGLE.mp4', //HEY [[REDACTED]] CRY ABOUT IT
 	// what's there to cry about if i don't get it you dumbass
 	//
 	// 			        12/ 1/2021
-	// 			      ShadeblastHere
+	// 			      [[REDACTED]]
 	//
 	//		 	   - GAMERS,  GAMERS! -
 	//
@@ -1241,7 +1241,7 @@ var videoArray = [
 	'videos/reheeted.mp4',
 	'videos/nice_tones.mp4',
 	//2003boobear, 12/07/2021
-	//where the hell is shadeblasthere
+	//where the hell is [[REDACTED]]
 	'videos/AAAAAAAAAAAAAAAAAAAAA.mp4',
 	'videos/doooooog.mp4',
 	'videos/driving_at_night.mp4',
@@ -1266,7 +1266,7 @@ var videoArray = [
 	'videos/buuurp.mov', //lol
 	//
 	// 			        12/ 8/2021
-	// 			      ShadeblastHere
+	// 			      [[REDACTED]]
 	//
 	//		     - shut the fuck up 2003boobear -
 	//
@@ -1513,7 +1513,7 @@ var videoArray = [
 	'videos/love_this_game.mov',
 	//
 	// 			            12/21/2021
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  	       - No witty comment has been made for this update. -
 	//
@@ -1707,7 +1707,7 @@ var videoArray = [
 	'videos/Rogue_Lineage.mp4',
 	//
 	// 			            12/23/2021
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  				    - 2 days -
 	//
@@ -1855,7 +1855,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/15/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  				   - Shut  up -
 	//
@@ -1974,7 +1974,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/17/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			         - i am not real -
 	//
@@ -1998,7 +1998,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/19/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			          - i get high -
 	//
@@ -2013,7 +2013,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/20/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			            - oh  no -
 	//
@@ -2023,7 +2023,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/23/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			                - -
 	//
@@ -2047,7 +2047,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/26/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			                - -
 	//
@@ -2105,7 +2105,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/29/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			                - -
 	//
@@ -2141,7 +2141,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/29/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			                - -
 	//
@@ -2165,7 +2165,7 @@ var videoArray = [
 	//
 	//
 	// 			             2/ 2/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			                - -
 	//
@@ -2198,7 +2198,7 @@ var videoArray = [
 	//
 	//
 	// 			             2/17/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			                - -
 	//
@@ -2289,7 +2289,7 @@ var videoArray = [
 	//
 	//
 	// 			             3/ 1/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			                - -
 	//
@@ -2372,7 +2372,7 @@ var videoArray = [
 	//
 	//
 	// 			             3/ 6/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  			          - delimiters -
 	//
@@ -2504,7 +2504,7 @@ var videoArray = [
 	//
 	//
 	// 			             3/25/2022
-	// 				  ShadeblastHere
+	// 				  [[REDACTED]]
 	//
 	//  	         - i hate not having contributor role in arenadev -
 	//
