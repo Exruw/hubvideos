@@ -2734,7 +2734,9 @@ var videoArray = [
 	'videos/metrocop.mp4', //requested by [[REDACTED]]
 	'videos/Average_Postal_Maniac_VS._Average_Postal_Pacifist.mp4', //requested by dion
 	'videos/yipee.mp4', //requested by R2283 server (Jestar Heart#0666)
-	'videos/un_pato.mp4' //requested by R2283 server (Demoralia#6252)
+	'videos/un_pato.mp4', //requested by R2283 server (Demoralia#6252)
+	//2003boobear, 5/13/2022.
+	'videos/gravity_trap.mov'
 	//
 ]
 
