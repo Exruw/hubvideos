@@ -2760,7 +2760,6 @@ var videoArray = [
 	'videos/Thursday.mp4',
 	'videos/eagle_reaction.mp4',
 	'videos/DukeGotShitToDo.mp4',
-	'videos/anti_gravity_trap.mov',
 	'videos/meat_grinder.mov',
 	'videos/is_this_you.mov',
 	'videos/anti_gravity_trap.mov'
