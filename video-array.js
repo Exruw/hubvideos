@@ -2735,8 +2735,35 @@ var videoArray = [
 	'videos/Average_Postal_Maniac_VS_Average_Postal_Pacifist.mp4', //requested by dion
 	'videos/yipee.mp4', //requested by R2283 server (Jestar Heart#0666)
 	'videos/un_pato.mp4', //requested by R2283 server (Demoralia#6252)
-	//2003boobear, 5/13/2022.
-	'videos/gravity_trap.mov'
+	//2003boobear, 5/30/2022. Welcome back to Hubchicken.
+	'videos/los_voy_a_matar.mp4',
+	'videos/JimmyTable.mp4',
+	'videos/hurbler.mp4',
+	'videos/my_dog.mp4',
+	'videos/Cat-Singing-Blues.mp4',
+	'videos/epic_kick.mp4',
+	'videos/clair_de_lune.mp4',
+	'videos/dumbest_cat_in_poland.mp4',
+	'videos/thatsit.mp4',
+	'videos/Double_dip_chocolate_chip.mp4',
+	'videos/GoofyAssLaugh.mp4',
+	'videos/Spectral_smack.mp4',
+	'videos/5714.mp4',
+	'videos/wrong.mp4',
+	'videos/sabo.mp4',
+	'videos/fishing_license.mp4',
+	'videos/happiness.mp4',
+	'videos/breaking-bad_india.mp4',
+	'videos/italy.mp4',
+	'videos/stupid_car.mp4',
+	'videos/September.mp4',
+	'videos/Thursday.mp4',
+	'videos/eagle_reaction.mp4',
+	'videos/DukeGotShitToDo.mp4',
+	'videos/anti_gravity_trap.mov',
+	'videos/meat_grinder.mov',
+	'videos/is_this_you.mov',
+	'videos/anti_gravity_trap.mov'
 	//
 ]
 
