@@ -5,7 +5,7 @@
 // AS OF 12/27/2021 IF I CATCH YOUR FUCKING DUMBASS ADDING A VIDEO WITH A SPACE OR ANY OTHER SPECIAL CHARACTER IN ITS NAME I WILL REPRIMAND YOU
 // THE ONLY SPECIAL CHARACTERS THAT ARE ACCEPTABLE ARE _ - , . !
 // I DO NOT WANT TO WRITE ASCII CODES WHEN I LINK THE VIDEOS IT'S TOO MUCH OF A FUCKING HASSLE
-// - [[REDACTED]]
+// - ShadeblastHere
 
 // WHY ARE YOU USING SINGLE QUOTES 
 
@@ -15,7 +15,6 @@ var videoArray = [
 	'https://cdn.discordapp.com/attachments/883902480205905961/889500697538732092/WHA_DA.mp4',
 	'videos/frieza.mp4',
 	'videos/spong.mp4',
-	'videos/boobear_april.mov',
 	'videos/jumpscare.mp4',
 	'videos/rappingcat.mp4',
 	'videos/veggietale.mp4',
@@ -96,7 +95,7 @@ var videoArray = [
 	'videos/be_a_big_shot.mp4',
 	'videos/sleep.mp4',
 	// New videos as of 9/25/2021, 4:20 PM (in romanian time)
-	// - [[REDACTED]]
+	// - ShadeblastHere
 	'videos/oh_hell_no.mp4',
 	//
 	'videos/ltgv2.mp4',
@@ -111,7 +110,7 @@ var videoArray = [
 	'videos/rattatooly.mp4',
 	'videos/handsome-squidward.mp4',
 	// New videos as of 10/23/2021, 3:08 AM (in romanian time)
-	// - [[REDACTED]]
+	// - ShadeblastHere
 	'videos/thisdude.mp4',
 	'videos/GCSDK_fish.webm',
 	'videos/long_way_from_texas.mp4', // And nobody noticed.
@@ -288,7 +287,7 @@ var videoArray = [
 	'videos/video0.mp4',
 	//
 	// 11/6/2021
-	// [[REDACTED]]
+	// ShadeblastHere
 	// Shut the fuck up
 	'videos/UUUUUA_AUUUUU.mp4',
 	'videos/joelghost.mp4',
@@ -361,7 +360,7 @@ var videoArray = [
 	'videos/bottle.mp4',
 	'videos/that_true.mp4',
 	// 11/7/2021 6:52 PM my balls
-	// [[REDACTED]]
+	// ShadeblastHere
 	'videos/20dollarhairnats.mp4',
 	'videos/HOMER_IS_DEAD.mp4',
 	'videos/nightma.mp4',
@@ -428,7 +427,7 @@ var videoArray = [
 	'videos/welcome_to_tetrio_place_the_blocks_1.3gpp',
 	//
 	//
-	//[[REDACTED]]
+	//ShadeblastHere
 	//
 	//   11/9/2021
 	// ALSO EXRUW PLEASE TELL ME HOW THE FUCK CAN I UPLOAD VIDEOS OF MORE THAN 10 MB OR WHATEVER
@@ -607,7 +606,7 @@ var videoArray = [
 	'videos/villager.mp4',
 	'videos/coke_bottle.mp4',
 	// 11/12/2021
-	// [[REDACTED]]
+	// ShadeblastHere
 	'videos/indian.mp4',
 	'videos/walking.mp4',
 	'videos/Black_Jew_Online-1.mp4',
@@ -625,7 +624,7 @@ var videoArray = [
 	'videos/indian_scammer.mp4',
 	'videos/cap_doctor.mp4',
 	// 11/14/2021
-	// [[REDACTED]]
+	// ShadeblastHere
 	'videos/1626699928698705724.webm',
 	'videos/aauugh.mp4',
 	'videos/abraham.mp4',
@@ -776,7 +775,7 @@ var videoArray = [
 	'videos/nooooooooooooooooo.mov',
 	//
 	// 				    11/16/2021
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//				- Look! 35 Videos! -
 	//
@@ -816,7 +815,7 @@ var videoArray = [
 	'videos/ururur.mp4',
 	//
 	// 				    11/18/2021
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//				- i'm so cracked -
 	//
@@ -846,7 +845,7 @@ var videoArray = [
 	'videos/wayfair.mp4',
 	'videos/YOU_LOSE.mp4',
 	//
-	//2003boobear, 11/17/2021 ([[REDACTED]]'s timezone is different)
+	//2003boobear, 11/17/2021 (ShadeblastHere's timezone is different)
 	'videos/twinke_tackle.mov',
 	'videos/trolls.mp4',
 	'videos/dbd.mp4',
@@ -862,7 +861,7 @@ var videoArray = [
 	'videos/cinder.mp4',
 	//
 	// 			            11/20/2021
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  		 - one of the mp4s i downloaded made me go insane -
 	//
@@ -912,7 +911,7 @@ var videoArray = [
 	'videos/REALgamers.mp4',
 	'videos/dont_screenshot_nfts_.mp4',
 	'videos/Alcoholism.mp4',
-	'videos/bad_cramp.mp4', //HEY [[REDACTED]]
+	'videos/bad_cramp.mp4', //HEY ShadeblastHere
 	'videos/based_as_fuck.mp4', //CRY
 	'videos/car_alarms_everywhere.mp4',
 	'videos/big_shot_but_its_small_shot.mp4',
@@ -938,7 +937,7 @@ var videoArray = [
 	'videos/dog_water.mp4',
 	//
 	// 				    11/27/2021
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//   			 - damn daniel, 🐬 🐬 🐬 🐬 🐬 🐬 -
 	//
@@ -999,7 +998,7 @@ var videoArray = [
 	'videos/spacesong.mp4',
 	//
 	// 				    11/29/2021
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//		 - let's beat http://thebest404pageeverredux.com -
 	//
@@ -1087,11 +1086,11 @@ var videoArray = [
 	'videos/El_pibe_que_salio_de_una_alcantarilla.mp4',
 	'videos/CRABGRASS.mp4',
 	'videos/roman_class.mp4',
-	'videos/BAGLE.mp4', //HEY [[REDACTED]] CRY ABOUT IT
+	'videos/BAGLE.mp4', //HEY ShadeblastHere CRY ABOUT IT
 	// what's there to cry about if i don't get it you dumbass
 	//
 	// 			        12/ 1/2021
-	// 			      [[REDACTED]]
+	// 			      ShadeblastHere
 	//
 	//		 	   - GAMERS,  GAMERS! -
 	//
@@ -1242,7 +1241,7 @@ var videoArray = [
 	'videos/reheeted.mp4',
 	'videos/nice_tones.mp4',
 	//2003boobear, 12/07/2021
-	//where the hell is [[REDACTED]]
+	//where the hell is ShadeblastHere
 	'videos/AAAAAAAAAAAAAAAAAAAAA.mp4',
 	'videos/doooooog.mp4',
 	'videos/driving_at_night.mp4',
@@ -1267,7 +1266,7 @@ var videoArray = [
 	'videos/buuurp.mov', //lol
 	//
 	// 			        12/ 8/2021
-	// 			      [[REDACTED]]
+	// 			      ShadeblastHere
 	//
 	//		     - shut the fuck up 2003boobear -
 	//
@@ -1514,7 +1513,7 @@ var videoArray = [
 	'videos/love_this_game.mov',
 	//
 	// 			            12/21/2021
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  	       - No witty comment has been made for this update. -
 	//
@@ -1708,7 +1707,7 @@ var videoArray = [
 	'videos/Rogue_Lineage.mp4',
 	//
 	// 			            12/23/2021
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  				    - 2 days -
 	//
@@ -1856,7 +1855,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/15/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  				   - Shut  up -
 	//
@@ -1975,7 +1974,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/17/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			         - i am not real -
 	//
@@ -1999,7 +1998,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/19/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			          - i get high -
 	//
@@ -2014,7 +2013,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/20/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			            - oh  no -
 	//
@@ -2024,7 +2023,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/23/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			                - -
 	//
@@ -2048,7 +2047,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/26/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			                - -
 	//
@@ -2106,7 +2105,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/29/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			                - -
 	//
@@ -2142,7 +2141,7 @@ var videoArray = [
 	//
 	//
 	// 			             1/29/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			                - -
 	//
@@ -2166,7 +2165,7 @@ var videoArray = [
 	//
 	//
 	// 			             2/ 2/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			                - -
 	//
@@ -2199,7 +2198,7 @@ var videoArray = [
 	//
 	//
 	// 			             2/17/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			                - -
 	//
@@ -2290,7 +2289,7 @@ var videoArray = [
 	//
 	//
 	// 			             3/ 1/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			                - -
 	//
@@ -2373,7 +2372,7 @@ var videoArray = [
 	//
 	//
 	// 			             3/ 6/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  			          - delimiters -
 	//
@@ -2505,7 +2504,7 @@ var videoArray = [
 	//
 	//
 	// 			             3/25/2022
-	// 				  [[REDACTED]]
+	// 				  ShadeblastHere
 	//
 	//  	         - i hate not having contributor role in arenadev -
 	//
@@ -2723,15 +2722,15 @@ var videoArray = [
 	'videos/Iliveinthewall.mp4',
 	'videos/monkey_goes_to_school.mp4',
 	'videos/announcement.mov',
-	'videos/wanna_play_a_little_game', //requested by [[REDACTED]]
-	'videos/earthbound.mp4', //requested by [[REDACTED]]
-	'videos/target_located.mp4', //requested by [[REDACTED]]
-	'videos/socks.mp4', //requested by [[REDACTED]]
-	'videos/sadbob.mp4', //requested by [[REDACTED]]
-	'videos/you_sure.mp4', //requested by [[REDACTED]]
-	'videos/heeheehaha.mp4', //requested by [[REDACTED]]
-	'videos/facade_kick_out.mp4', //requested by [[REDACTED]]
-	'videos/metrocop.mp4', //requested by [[REDACTED]]
+	'videos/wanna_play_a_little_game', //requested by ShadeblastHere
+	'videos/earthbound.mp4', //requested by ShadeblastHere
+	'videos/target_located.mp4', //requested by ShadeblastHere
+	'videos/socks.mp4', //requested by ShadeblastHere
+	'videos/sadbob.mp4', //requested by ShadeblastHere
+	'videos/you_sure.mp4', //requested by ShadeblastHere
+	'videos/heeheehaha.mp4', //requested by ShadeblastHere
+	'videos/facade_kick_out.mp4', //requested by ShadeblastHere
+	'videos/metrocop.mp4', //requested by ShadeblastHere
 	'videos/Average_Postal_Maniac_VS_Average_Postal_Pacifist.mp4', //requested by dion
 	'videos/yipee.mp4', //requested by R2283 server (Jestar Heart#0666)
 	'videos/un_pato.mp4', //requested by R2283 server (Demoralia#6252)
@@ -2762,7 +2761,160 @@ var videoArray = [
 	'videos/DukeGotShitToDo.mp4',
 	'videos/meat_grinder.mov',
 	'videos/is_this_you.mov',
-	'videos/anti_gravity_trap.mov'
+	'videos/anti_gravity_trap.mov',
+	//
+	//
+	// 			             5/31/2022
+	// 				  ShadeblastHere
+	//
+	//  	         - i fucking hate serious notes like the one above -
+	//
+	'videos/278155809_295780812733059_6555789656173036487_n.mp4',
+	'videos/3ced407d9e52e50adb9590f52c0399ea.mp4',
+	'videos/A_STRAIGHT_WHITE_MAN.mov',
+	'videos/AAAAAAAAAAA.mp4',
+	'videos/AAAAAAAAAAAAAAAA.mp4',
+	'videos/Animal_I_Have_Become_Roblox_Style.mp4',
+	'videos/arab_goku.mp4',
+	'videos/ARE_YOU_READY.mp4',
+	'videos/aww_the_sog.mp4',
+	'videos/basedrick.mp4',
+	'videos/basketball-.mp4',
+	'videos/best_buds.mov',
+	'videos/bowling.mp4',
+	'videos/bowling2.mp4',
+	'videos/bread.mp4',
+	'videos/cachedVideo.mov',
+	'videos/Carmen_Winstead_trap_remix_auuuuuuhhhhh.mp4',
+	'videos/cat_pen.mp4',
+	'videos/cathigher.mp4',
+	'videos/charlie_brown.mp4',
+	'videos/Chickens_dont_make_that_noise.mp4',
+	'videos/content_deleted.mp4',
+	'videos/cryingskeleton.mov',
+	'videos/csgo_aneurysm.mp4',
+	'videos/death-.mov',
+	'videos/dj_keemstar.mp4',
+	'videos/DONALDS.mp4',
+	'videos/donot.mp4',
+	'videos/dracula.mp4',
+	'videos/dubstep3.mp4',
+	'videos/el_pepe.mp4',
+	'videos/ElGuapoDeHuapos.mp4',
+	'videos/factman.mp4',
+	'videos/FERRURIU.mp4',
+	'videos/FishingLicense.mp4',
+	'videos/foishe.mov',
+	'videos/football.mp4',
+	'videos/ford_O.mov',
+	'videos/freeman_clear_my_ass_you_bastard.mp4',
+	'videos/FUCK.mp4',
+	'videos/funky_town.mp4',
+	'videos/GOKU.mov',
+	'videos/grooving.mp4',
+	'videos/hagh_bird.mov',
+	'videos/haram-.mp4',
+	'videos/heatwaves.mp4',
+	'videos/hotdigdemon.mp4',
+	'videos/how_to_make_taco.mp4',
+	'videos/how_to_play_minecraft.mp4',
+	'videos/huaaagh.mov',
+	'videos/I_CANT_STIOP_LAUGHING_AT_THIS.mp4',
+	'videos/i_feel_like_shit.mp4',
+	'videos/I_SUMMON_POT_OF_GREED.mp4',
+	'videos/i_woke_up_in_a_new.mp4',
+	'videos/Ignition_Tincture.mp4',
+	'videos/im_fishing.mp4',
+	'videos/IMG_6084.mov',
+	'videos/In_The_Virtual_End.mp4',
+	'videos/iron_man.mp4',
+	'videos/it_starts_with.mp4',
+	'videos/it_would_be_so_awesome_it_would_be_so_cool.mp4',
+	'videos/IZF_RAT.mp4',
+	'videos/jarate.mp4',
+	'videos/jeff_the..._uhhh.mp4',
+	'videos/jolly_good_show-.mov',
+	'videos/kids_born_after_2013.mp4',
+	'videos/Kiryu_tries_snapchat.mp4',
+	'videos/lego_building.mp4',
+	'videos/life.mp4',
+	'videos/lisa_the_painful_fights_be_like.mp4',
+	'videos/llegas_tarde_sonic_ahora_soy_un_montacarga_certificado.mp4',
+	'videos/lol_1.mp4',
+	'videos/look_at_kiryu_go.mp4',
+	'videos/majim.mp4',
+	'videos/mike_tomlin_interview.mp4',
+	'videos/milk_alive.mp4',
+	'videos/morbius.mov',
+	'videos/morbius.mp4',
+	'videos/mrkrabs.mp4',
+	'videos/My_asshole_burns..._BRUH.mp4',
+	'videos/my_pocket_sluuuuug.mp4',
+	'videos/naruto.mp4',
+	'videos/neighbors.mp4',
+	'videos/never_f.mp4',
+	'videos/NO_MO_DICK.mov',
+	'videos/Normal_Disaster.mp4',
+	'videos/Nostalgia_Critic.mp4',
+	'videos/Not_the_impostir_song.mp4',
+	'videos/nothing_happened.mp4',
+	'videos/okay_i_pull_up.mp4',
+	'videos/OkieDokie.mp4',
+	'videos/Pac-Man.mp4',
+	'videos/peeter.mp4',
+	'videos/penguins.mp4',
+	'videos/PERSONA-.mp4',
+	'videos/pitbull_go.mp4',
+	'videos/Portal_Cake_Recipe.mp4',
+	'videos/POWER.mp4',
+	'videos/Purple_Colored_Clown.mp4',
+	'videos/real_1.mov',
+	'videos/riddle-.mp4',
+	'videos/rule6.mp4',
+	'videos/run.mov',
+	'videos/Scott_Screams.mp4',
+	'videos/screm.mp4',
+	'videos/SECURITY.mp4',
+	'videos/shawty.mp4',
+	'videos/Shun_GameStop_Satsu.mp4',
+	'videos/skeleton_brakes_the_law.mp4',
+	'videos/skeleton_hit_by_car.mp4',
+	'videos/skeleton_tank.mp4',
+	'videos/sneed_3.mp4',
+	'videos/sniping.mp4',
+	'videos/spingebill.mp4',
+	'videos/sponchbo.mp4',
+	'videos/sponegbob.mp4',
+	'videos/SWIGGITY_SWAG_From_original_channel.mp4',
+	'videos/team_fortress_two_india.mp4',
+	'videos/the_cat.mp4',
+	'videos/The_education_system.mp4',
+	'videos/the_jesus_donut.mp4',
+	'videos/thepigs.mp4',
+	'videos/thethrow.mp4',
+	'videos/they_got_rich.mp4',
+	'videos/This_is_Sparta_Last_techno_remix.mp4',
+	'videos/top_10_cat_pictures.mov',
+	'videos/top_500_possums.mp4',
+	'videos/true.mp4',
+	'videos/tweny.mp4',
+	'videos/tycoon_music.mov',
+	'videos/UAAAHAHA.mov',
+	'videos/venom-goodman.mov',
+	'videos/video0-.mp4',
+	'videos/video0-61.mp4',
+	'videos/vllo.mp4',
+	'videos/WAAAGH.mp4',
+	'videos/weave1.mp4',
+	'videos/What_the_hell.mov',
+	'videos/wii_shop_wednesday.mp4',
+	'videos/woahyoure.mp4',
+	'videos/yagevil.mp4',
+	'videos/yagevil2.mp4',
+	'videos/yellow_fish.mp4',
+	'videos/YOU_SON_OF_A_BITCH.mp4',
+	'videos/yugioh_in_mugen.mp4',
+	'videos/zs.mp4'
 	//
 ]
 
