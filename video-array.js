@@ -15,6 +15,7 @@ var videoArray = [
 	'https://cdn.discordapp.com/attachments/883902480205905961/889500697538732092/WHA_DA.mp4',
 	'videos/frieza.mp4',
 	'videos/mohg.mp4',
+	'videos/onepieced.mp4',
 	'videos/thecreationlivestream.mov',
 	'videos/spong.mp4',
 	'videos/jumpscare.mp4',
