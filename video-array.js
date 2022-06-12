@@ -2989,7 +2989,7 @@ var videoArray = [
 	'videos/Hightower.mp4',
 	'videos/nightmare_solution.mp4',
 	'videos/pizza_place.mp4',
-	'videos/Every_Pepsiman_Commercial_in_HD.mp4'
+	'videos/Every_Pepsiman_Commercial_in_HD.mp4',
 	//2003boobear, JUNE 11 2022
 	'videos/June_11.mp4',
 	'videos/british_died.mp4',
@@ -3058,7 +3058,7 @@ var videoArray = [
 	'videos/epic_cat.mov',
 	'videos/FREE_CRACK.mp4',
 	'videos/nge.mp4',
-	'videos/Frogcool.mp4',
+	'videos/Frogcool.mp4'
 	//
 ]
 
