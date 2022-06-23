@@ -2765,7 +2765,6 @@ var videoArray = [
 	'videos/is_this_you.mov',
 	'videos/anti_gravity_trap.mov',
 	//
-	//
 	// 			             5/31/2022
 	// 				  ShadeblastHere
 	//
@@ -2931,6 +2930,7 @@ var videoArray = [
 	'videos/ninjer.mp4',
 	'videos/peter_pool.mp4',
 	//'videos/pump_it_up.mp4', //duplicate
+	// No? Don't delete that at all? We thrive in duplications.
 	'videos/skeleton_joke.mp4',
 	'videos/fella.mp4',
 	'videos/KRABS.mp4',
@@ -3130,7 +3130,75 @@ var videoArray = [
 	'videos/wtf_is_this.mp4',
 	'videos/im_a_god.mp4',
 	'videos/shirts_and_pants.mp4',
-	'videos/sunscreen.mp4'
+	'videos/sunscreen.mp4',
+	//
+	// 			             6/23/2022
+	// 				  ShadeblastHere
+	//
+	//   - i ALSO do not care about you not caring about me pointing your note out -
+	//
+	'videos/agreement.mp4',
+	'videos/big_news.mp4',
+	'videos/BISMILLAHIROHAMILLHAHIM.mp4',
+	'videos/BITCHES_HOUSE.mp4',
+	'videos/bohemian_rhapsody.mov',
+	'videos/boomboomboomboomboom.mp4',
+	'videos/buyfreerobuxatrobuxdotcomfree.mp4',
+	'videos/check_out_how_soft_i_can_urinate.mp4',
+	'videos/cristo_slasher.mp4',
+	'videos/damntuff.mp4',
+	'videos/DE_NOVO.mp4',
+	'videos/diagonally.mp4',
+	'videos/DreamedGifs.mp4',
+	'videos/duet_with_us.mp4',
+	'videos/FUCK-.mov',
+	'videos/gank_2.mp4',
+	'videos/goober.mp4',
+	'videos/hello_kitten.mp4',
+	'videos/Hes_pulling_his_cock_out.mp4',
+	'videos/im_killing_you.mp4',
+	'videos/islamic_warrior.mp4',
+	'videos/it_would_be_so_awesome.mp4',
+	'videos/KIKE.mp4',
+	'videos/lego_island.mp4',
+	'videos/Meatball.mp4',
+	'videos/Mental_Breakdown.mp4',
+	'videos/miky_jackson.mp4',
+	'videos/Napalm.mp4',
+	'videos/neco_hell.mp4',
+	'videos/only_my_weapon.mp4',
+	'videos/OOC_horror_2.mp4',
+	'videos/OOC_horror_4.mp4',
+	'videos/Ooh_and_the_cum_monster.mp4', // this sat in my downloads folder collecting dust
+	'videos/people_playground.mp4',
+	'videos/pepeno.mp4',
+	'videos/PLAYSTATION_PLUS.mov',
+	'videos/Purple_Colored_Clown_.mp4',
+	'videos/py.mp4',
+	'videos/rejected.mp4',
+	'videos/roblox_tycoon.mp4',
+	'videos/secret_sayings_of_shade.mp4',
+	'videos/shotgun.mp4',
+	'videos/shrimple.mp4',
+	'videos/slight_dent.mp4',
+	'videos/SOO_SAD.mp4',
+	'videos/spliffendor.mp4',
+	'videos/spongebob_rp.mp4',
+	'videos/springlock_failure.mp4',
+	'videos/student.mp4',
+	'videos/talk_to_the_power.mp4',
+	'videos/The_Will_of_Hades.mp4',
+	'videos/tickletickle.mp4',
+	'videos/toddler.mp4',
+	'videos/vertically.mp4',
+	'videos/we_take_a_bottle.mp4',
+	'videos/WTF.mp4',
+	'videos/XD-.mp4',
+	'videos/YAHOO.mov',
+	'videos/yay.mov',
+	'videos/yohohohetookabiteofgumgum.mp4',
+	'videos/YUMYUMYUM.mp4',
+	'videos/zzzzzz.mp4'
 	//
 ]
 
