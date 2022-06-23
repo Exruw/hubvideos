@@ -2705,7 +2705,7 @@ var videoArray = [
 	'videos/coca_cola.mov',
 	'videos/pepis_bipebomb.mp4',
 	'videos/trap.mp4',
-	'videos/jetstream_sam_boss_fight.mp4',
+	//'videos/jetstream_sam_boss_fight.mp4', //omitted
 	//2003boobear, 4/1/2022
 	'videos/Omegle.mp4',
 	'videos/Jeremiah_Elbertson.mp4',
