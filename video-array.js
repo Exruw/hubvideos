@@ -3198,7 +3198,9 @@ var videoArray = [
 	'videos/yay.mov',
 	'videos/yohohohetookabiteofgumgum.mp4',
 	'videos/YUMYUMYUM.mp4',
-	'videos/zzzzzz.mp4'
+	'videos/zzzzzz.mp4',
+	//2003boobear, 6/23/2022.
+	'videos/what_a_thrill.mov'
 	//
 ]
 
