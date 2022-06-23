@@ -15,7 +15,7 @@ var videoArray = [
 	//'https://cdn.discordapp.com/attachments/883902480205905961/889500697538732092/WHA_DA.mp4',
 	'videos/frieza.mp4',
 	'videos/mohg.mp4',
-	'videos/onepieced.mp4',
+	//'videos/onepieced.mp4', //omitted. what the hell is wrong with you
 	'videos/thecreationlivestream.mov',
 	'videos/spong.mp4',
 	'videos/jumpscare.mp4',
@@ -121,7 +121,7 @@ var videoArray = [
 	'videos/exploiters.mp4',
 	'videos/sex_win.mp4',
 	'videos/chirumiru.mp4',
-	'videos/screwthenether.mp4',
+	//'videos/screwthenether.mp4', //omitted
 	'videos/sew_ner.mp4',
 	'videos/video0_9-9.mp4',
 	'videos/soccer.mp4',
@@ -240,7 +240,7 @@ var videoArray = [
 	'videos/i_dont_understand.mp4',
 	'videos/sword_fight_on_the_heights.mp4',
 	'videos/GEN_Z_DELUXE_EDITION.webm',
-	'videos/stupid_phone.mp4',
+	//'videos/stupid_phone.mp4', //omitted
 	'videos/boobie_trap.mp4',
 	'videos/THE_GRIM_RAPPER.mp4',
 	'videos/rap.mp4',
@@ -287,7 +287,7 @@ var videoArray = [
 	//11/5/2021
 	//AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 	'videos/kids.mov',
-	'videos/video0.mp4',
+	//'videos/video0.mp4', //omitted
 	//
 	// 11/6/2021
 	// ShadeblastHere
@@ -424,7 +424,7 @@ var videoArray = [
 	'videos/the_time.mp4',
 	'videos/video0-21.mov',
 	'videos/video0-33.mov',
-	'videos/video0.mov',
+	//'videos/video0.mov', //omitted
 	'videos/you_should.mp4',
 	'videos/welcome_to_tetrio_place_the_blocks_1.3gpp',
 	//
@@ -613,7 +613,7 @@ var videoArray = [
 	'videos/walking.mp4',
 	'videos/Black_Jew_Online-1.mp4',
 	'videos/6qok3s.mp4',
-	'videos/damn_daniel-1.mp4',
+	//'videos/damn_daniel-1.mp4', //omitted
 	'videos/resident.mp4',
 	'videos/hdmi_to_hose.mp4',
 	'videos/atumalaca.mp4',
@@ -652,7 +652,7 @@ var videoArray = [
 	'videos/fear.mp4',
 	'videos/floppy.webm',
 	'videos/fuu.mp4',
-	'videos/gaogao.mp4',
+	//'videos/gaogao.mp4', //omitted
 	'videos/genders.mp4',
 	'videos/get_stratod.mp4',
 	'videos/grrrrr.mp4',
@@ -675,13 +675,13 @@ var videoArray = [
 	'videos/hex.mp4',
 	'videos/hgpjiSAY9DM.mp4',
 	'videos/hi.mp4',
-	'videos/hi_did_you_know_that_eeeeeeee_bebeb_bebebb_ebbeee_ee_eee_e_e_ee_ee_ee_eb_eb....mp4',
+	//'videos/hi_did_you_know_that_eeeeeeee_bebeb_bebebb_ebbeee_ee_eee_e_e_ee_ee_ee_eb_eb....mp4', //omitted
 	'videos/highquality.mp4',
 	'videos/HKXME0Q59AFshNYx.mp4',
 	'videos/hobbits.mp4',
 	'videos/hollow_knight_2_leaked.mp4',
 	'videos/HOO_HEY_OHH_WAY.mp4',
-	'videos/hood.mp4',
+	//'videos/hood.mp4', //omitted
 	'videos/Hope.mp4',
 	'videos/How_the_world_meows.mp4',
 	'videos/how_to_get_rich.mp4',
@@ -689,7 +689,7 @@ var videoArray = [
 	'videos/HUH.mov',
 	'videos/i_have.mp4',
 	'videos/its_so_sad.mp4',
-	'videos/Japanese_niggas_be_like.mp4',
+	//'videos/Japanese_niggas_be_like.mp4', //omitted
 	'videos/kangaroo.mp4',
 	'videos/kit.mov',
 	'videos/lock_the_taskbar.mp4',
@@ -739,7 +739,7 @@ var videoArray = [
 	'videos/get_your_balls_stuck.mp4',
 	'videos/pushing_in_your_balls.mp4',
 	'videos/asterisk.mp4',
-	'videos/se.mp4',
+	//'videos/se.mp4', //omitted
 	'videos/scout_but_high_on_meth.mp4',
 	'videos/-163.mp4',
 	'videos/death_2.mp4',
@@ -766,7 +766,7 @@ var videoArray = [
 	'videos/Mr._Krabs_Hydraulic_Press_Money.mp4',
 	'videos/Crimson.mp4',
 	'videos/vehicular_manslaughter.mov',
-	'videos/game_and_watch.mov',
+	//'videos/game_and_watch.mov', //omitted
 	'videos/home_alone.mov',
 	'videos/tf2_heavy.mov',
 	'videos/squod_gam.mov',
@@ -787,7 +787,7 @@ var videoArray = [
 	'videos/damn_daniel-2.mp4',
 	'videos/damn_daniel-3.mp4',
 	'videos/damn_daniel.mov',
-	'videos/damn_daniel_but_its_1080p.mp4',
+	//'videos/damn_daniel_but_its_1080p.mp4', //omitted
 	'videos/damn_daniel_one_piece_x_monochrome_meme.mp4',
 	'videos/dang.mp4',
 	'videos/epicdancing.mp4',
@@ -827,8 +827,8 @@ var videoArray = [
 	'videos/dallas.mp4',
 	'videos/dallas_goes_underground.mp4',
 	'videos/damn_daniel-4.mp4',
-	'videos/Damn_Daniel_Super_Star.mp4',
-	'videos/Flightreacts_Damn_Daniel_ar_ar_ar_ar_ar_ar_vocoded.mp4',
+	//'videos/Damn_Daniel_Super_Star.mp4', //omitted
+	//'videos/Flightreacts_Damn_Daniel_ar_ar_ar_ar_ar_ar_vocoded.mp4', //omitted
 	'videos/FLOOR_999.mp4',
 	'videos/GO_FUCK_YOURSELF.mp4',
 	'videos/i_have_a_meme.mp4',
@@ -896,7 +896,7 @@ var videoArray = [
 	'videos/slugger.mp4',
 	'videos/spongebobb.mp4',
 	'videos/stupid_idiot.mp4',
-	'videos/stupid_idiot2.mp4',
+	//'videos/stupid_idiot2.mp4', //omitted
 	'videos/the_man_of_sex.mp4',
 	// exruw damn daniel 11/20/21
 	'videos/damndan.mp4',
@@ -972,7 +972,7 @@ var videoArray = [
 	'videos/how_do_i_craft_this_again.mp4',
 	'videos/jiren_scary.mp4',
 	'videos/kanye.mp4',
-	'videos/LIMC_ar_ar_ar_ar.mp4',
+	//'videos/LIMC_ar_ar_ar_ar.mp4', //omitted
 	'videos/maeia_hee.mp4',
 	'videos/math.mp4',
 	'videos/michael_jackson_cat.mp4',
@@ -1188,7 +1188,7 @@ var videoArray = [
 	'videos/Wiggles.mp4',
 	'videos/FIHS.mp4',
 	'videos/you_messatsu_right.mp4',
-	'videos/flamethrower_far_cry_3.mp4',
+	//'videos/flamethrower_far_cry_3.mp4', //omitted
 	'videos/step_on_the_gas.mp4',
 	'videos/Poom.mp4',
 	'videos/anonymous_helicoptor.mp4',
@@ -1227,7 +1227,7 @@ var videoArray = [
 	'videos/cursed_fnaf_bootleg.mp4',
 	'videos/fish_dies_of_mud poisoning.mp4',
 	'videos/mud_dies_of_fish_poisoning_2.mp4',
-	'videos/SexTape.mp4',
+	//'videos/SexTape.mp4', //omitted
 	'videos/obama_israel.mp4',
 	'videos/pinecone.mp4',
 	'videos/script_trading.mp4',
@@ -1259,7 +1259,7 @@ var videoArray = [
 	'videos/hona.mp4',
 	'videos/joel.mp4',
 	'videos/niipah.mp4',
-	'videos/fanf.mp4',
+	//'videos/fanf.mp4', //omitted
 	'videos/Barack_Obama_vs_Mitt_Romney.mp4', //NO WAY
 	'videos/minecraft_in_a_cave.mp4',
 	'videos/NO.mov',
@@ -1307,7 +1307,7 @@ var videoArray = [
 	'videos/jinxmusic.mov',
 	'videos/jumping_godzilla.mp4',
 	'videos/kazakhstan.mp4',
-	'videos/kazakhstan_ugrazaj_nambambierofke.mp4',
+	//'videos/kazakhstan_ugrazaj_nambambierofke.mp4', //omitted
 	'videos/man_screams_at_yellow_paint.mp4',
 	'videos/mario_galaxy_3.mp4',
 	'videos/mario_pinball_land.mp4',
@@ -1493,7 +1493,7 @@ var videoArray = [
 	'videos/whattheshitisthis.mp4',
 	//2003boobear, 12/15/2021
 	'videos/vangaurd.mp4',
-	'videos/gravity_gun.mp4',
+	//'videos/gravity_gun.mp4', //omitted
 	'videos/real_life_glitch.mp4',
 	'videos/wine_cat.mp4',
 	'videos/catcatcatcatcatcat.mp4',
@@ -1572,7 +1572,7 @@ var videoArray = [
 	'videos/HEY.mp4',
 	'videos/hey_peter.mp4',
 	'videos/i_think_you_dropped_this_back_in_black_mesa.mp4',
-	'videos/in_a_week.mp4',
+	//'videos/in_a_week.mp4', //omitted
 	'videos/interfere.mp4',
 	'videos/ITEM_GENERATION.mp4',
 	'videos/jazz_cat.mp4',
@@ -1717,7 +1717,7 @@ var videoArray = [
 	'videos/Cangrejo.mp4',
 	'videos/cocodile.mp4',
 	'videos/crack.mp4',
-	'videos/crack2.mp4',
+	//'videos/crack2.mp4', //omitted
 	'videos/CRAZY_BUTT.mp4',
 	'videos/death-3.mp4',
 	'videos/deep.mp4',
@@ -1765,7 +1765,7 @@ var videoArray = [
 	'videos/mario_movie_leaked.mp4',
 	'videos/martin_cabello_on_working_smarter_not_harder.mp4',
 	'videos/no_mickey_mouse.mp4',
-	'videos/now_we_wish_we_had_a_portable_version_of_spiderman.mp4',
+	//'videos/now_we_wish_we_had_a_portable_version_of_spiderman.mp4', //omitted
 	'videos/nowthatsonewaytodoit.mp4',
 	'videos/okatumuerto.mp4',
 	'videos/phone_tune.webm',
@@ -1840,7 +1840,7 @@ var videoArray = [
 	'videos/dynamite.mp4',
 	'videos/duck_attack.mp4',
 	'videos/Eevee_dies.mp4',
-	'videos/forbidden_cola.mp4',
+	//'videos/forbidden_cola.mp4', //omitted
 	'videos/B_r_u_h..mp4',
 	'videos/the_johnson_house.mp4',
 	'videos/38.mp4',
@@ -1914,7 +1914,7 @@ var videoArray = [
 	'videos/pregant.mp4',
 	'videos/psychological_4.mp4',
 	'videos/Revengeance_status.mp4',
-	'videos/rock_hard.mp4',
+	//'videos/rock_hard.mp4', //omitted
 	'videos/schmooves.mp4',
 	'videos/skeleton_coc.mp4',
 	'videos/Smile_Time.mp4',
@@ -1932,7 +1932,7 @@ var videoArray = [
 	'videos/Train-1.mp4',
 	'videos/un_epico_troller.mp4',
 	'videos/uohgh_oh_dear.mp4',
-	'videos/VID_20211128_110901_499-1.mp4',
+	//'videos/VID_20211128_110901_499-1.mp4', //omitted
 	'videos/video0_2.mov',
 	'videos/wallace.mp4',
 	'videos/Water..mov',
@@ -1948,7 +1948,7 @@ var videoArray = [
 	"videos/Paradox_Crash_Team Racing_cracktro.mp4",
 	"videos/Unexpected.mp4",
 	"videos/VYBIN.mp4",
-	"videos/WHEN_HE.mp4",
+	//"videos/WHEN_HE.mp4", //omitted
 	"videos/brutalcar.mp4",
 	"videos/chicken.mov",
 	"videos/climbdownthisladder.mp4",
@@ -1967,7 +1967,7 @@ var videoArray = [
 	"videos/piston.mp4",
 	"videos/roblox_bloopers_shorty.mp4",
 	"videos/scout_falling.mp4",
-	"videos/shoo.mp4",
+	//"videos/shoo.mp4", //omitted
 	"videos/spintowinbaby.mp4",
 	"videos/top_cores.mp4",
 	"videos/waaow.mp4",
@@ -2010,7 +2010,7 @@ var videoArray = [
 	'videos/FNAF_jumpscare_irl.mp4',
 	'videos/freddy.mp4',
 	'videos/GURP.mp4',
-	'videos/quaza.mov',
+	//'videos/quaza.mov', //omitted
 	'videos/Super_Mario_Smoking_Weed__The_Movie.mp4',
 	//
 	//
@@ -2082,7 +2082,7 @@ var videoArray = [
 	'videos/Optimus_praido.mp4',
 	'videos/PACKWATCHER.mp4',
 	'videos/porck.mp4',
-	'videos/pvz.mp4',
+	//'videos/pvz.mp4', //omitted
 	'videos/Rapid_Punches.mp4',
 	'videos/rollerskates.mp4',
 	'videos/sigma_male.mp4',
@@ -2154,13 +2154,13 @@ var videoArray = [
 	'videos/dementia.mp4',
 	'videos/Extreme-snowboarding.mp4',
 	'videos/fnaf_bonnie_jumpscare_1.mp4',
-	'videos/FUCKING_INVINCIBLE.mp4',
+	//'videos/FUCKING_INVINCIBLE.mp4', //omitted
 	'videos/gym.mp4',
 	'videos/HELICOPTER_WWE.mov',
 	'videos/hell_1.mp4',
 	'videos/MICHAEL_DONT_LEAVE_ME_HERE.mov',
 	'videos/oblivion.webm',
-	'videos/pato_sad2.mp4',
+	//'videos/pato_sad2.mp4', //omitted
 	'videos/peter.mov',
 	'videos/rubber.mp4',
 	'videos/salad_man.mp4',
@@ -2181,7 +2181,7 @@ var videoArray = [
 	'videos/doodlebob.mp4',
 	'videos/excuse_me_gordon.mp4',
 	'videos/fishing_bossfight.mp4',
-	'videos/freddy-fazbear-what-happened.mp4',
+	//'videos/freddy-fazbear-what-happened.mp4', //omitted
 	'videos/FUS_RO_DAH.mp4',
 	'videos/GREETINGS3.mp4',
 	'videos/hq_funky_town.mp4',
@@ -2189,7 +2189,7 @@ var videoArray = [
 	'videos/man_jumpscared.mp4',
 	'videos/microwave.mp4',
 	'videos/oops,_you_bwoke_it.mp4',
-	'videos/penguin_wilhelm.mp4',
+	//'videos/penguin_wilhelm.mp4', //omitted
 	'videos/ratte.mp4',
 	'videos/The_System_Is_Down.mp4',
 	'videos/theyre_waiting_for_you.mp4',
@@ -2216,7 +2216,7 @@ var videoArray = [
 	'videos/British_Food.mp4',
 	'videos/C.mp4',
 	'videos/cabbage.mp4',
-	'videos/cabbage2.mp4',
+	//'videos/cabbage2.mp4', //omitted
 	'videos/Cali_Swag_District_-_Teach_Me_How_To_Dougie.mp4',
 	'videos/carl.mov',
 	'videos/cat.mp4',
@@ -2261,7 +2261,7 @@ var videoArray = [
 	'videos/mattress.mp4',
 	'videos/meat.mp4',
 	'videos/MEAT2.mp4',
-	'videos/moyai2.mp4',
+	//'videos/moyai2.mp4', //omitted
 	'videos/nip.mp4',
 	'videos/normal_cigarette_vs_electronic_cigarette.mp4',
 	'videos/npc_running_speed.mov',
@@ -2472,7 +2472,7 @@ var videoArray = [
 	'videos/Rodent.mp4',
 	'videos/sadwatch.mp4',
 	'videos/scout_buys_iphone_off_black_market.mp4',
-	'videos/senatorwatch.mp4',
+	//'videos/senatorwatch.mp4', //omitted
 	'videos/set_the_world_on_fire.mp4',
 	'videos/SHUT_YO_GOOFY.mp4',
 	'videos/SIII.mp4',
@@ -2581,7 +2581,7 @@ var videoArray = [
 	'videos/no_dive.mp4',
 	'videos/obamna.mp4',
 	'videos/obamna_soda.mp4',
-	'videos/OK...mp4',
+	//'videos/OK...mp4', //omitted
 	'videos/peter_parker.mov',
 	'videos/PLEASE_IM_DYING.mov',
 	'videos/police_kid.mp4',
@@ -2786,7 +2786,7 @@ var videoArray = [
 	'videos/bowling2.mp4',
 	'videos/bread.mp4',
 	'videos/cachedVideo.mov',
-	'videos/Carmen_Winstead_trap_remix_auuuuuuhhhhh.mp4',
+	//'videos/Carmen_Winstead_trap_remix_auuuuuuhhhhh.mp4', //omitted
 	'videos/cat_pen.mp4',
 	'videos/cathigher.mp4',
 	'videos/charlie_brown.mp4',
@@ -2830,7 +2830,7 @@ var videoArray = [
 	'videos/In_The_Virtual_End.mp4',
 	'videos/iron_man.mp4',
 	'videos/it_starts_with.mp4',
-	'videos/it_would_be_so_awesome_it_would_be_so_cool.mp4',
+	//'videos/it_would_be_so_awesome_it_would_be_so_cool.mp4', //omitted
 	'videos/IZF_RAT.mp4',
 	'videos/jarate.mp4',
 	'videos/jeff_the..._uhhh.mp4',
@@ -2881,7 +2881,7 @@ var videoArray = [
 	'videos/skeleton_brakes_the_law.mp4',
 	'videos/skeleton_hit_by_car.mp4',
 	'videos/skeleton_tank.mp4',
-	'videos/sneed_3.mp4',
+	//'videos/sneed_3.mp4', //omitted
 	'videos/sniping.mp4',
 	'videos/spingebill.mp4',
 	'videos/sponchbo.mp4',
@@ -2902,7 +2902,7 @@ var videoArray = [
 	'videos/tycoon_music.mov',
 	'videos/UAAAHAHA.mov',
 	'videos/venom-goodman.mov',
-	'videos/video0-.mp4',
+	//'videos/video0-.mp4', //omitted
 	'videos/video0-61.mp4',
 	'videos/vllo.mp4',
 	'videos/WAAAGH.mp4',
@@ -3023,7 +3023,7 @@ var videoArray = [
 	'videos/banana_story.mp4',
 	'videos/fire_hydrant.mp4',
 	'videos/Jerma985_PO_PI_PO.mp4',
-	'videos/My_reaction_to_that_information.mp4',
+	//'videos/My_reaction_to_that_information.mp4', //omitted
 	'videos/scout_sings_gummy_bear_song.mov',
 	'videos/Forklift.mp4',
 	'videos/cole_lore.mp4',
