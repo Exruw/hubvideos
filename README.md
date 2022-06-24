@@ -1,32 +1,29 @@
 Credits:
 
+-------------------------------
 
 mau (coding and some videos)
 
-
 xander (coding)
-
 
 mlgwarfare04 (coding)
 
-
 exruw (some coding and just the owner lol)
-
 
 spacy (coding and videos)
 
-
 jack5079 (coding)
 
+-------------------------------
 
 losers but still contributed:
 
-
-shade (videos)
-
-
 2003boobear (videos)
 
+-------------------------------
 
+mega idiot who contributed most of the videos:
 
-![Fuck you](https://c.tenor.com/3gJrau0SCnMAAAAj/gooper-hypnospace.gif)
+shade
+
+![Fuck you](https://cdn.discordapp.com/attachments/800189623287939103/989687164679893002/Tower-Win64-Shipping_WZghmuR6yn.gif)
