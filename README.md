@@ -1,4 +1,4 @@
-Credits:
+**Credits:**
 
 -------------------------------
 
@@ -16,14 +16,10 @@ jack5079 (coding)
 
 -------------------------------
 
-losers but still contributed:
+**losers but still contributed:**
 
 2003boobear (videos)
 
--------------------------------
-
-mega idiot who contributed most of the videos:
-
-shade
+shade (videos)
 
 ![Fuck you](https://cdn.discordapp.com/attachments/800189623287939103/989687164679893002/Tower-Win64-Shipping_WZghmuR6yn.gif)
