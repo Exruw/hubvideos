@@ -22,4 +22,4 @@ jack5079 (coding)
 
 shade (videos)
 
-![Fuck you](https://cdn.discordapp.com/attachments/800189623287939103/989687164679893002/Tower-Win64-Shipping_WZghmuR6yn.gif)
+![Fuck you](https://c.tenor.com/2d14B9OsCbwAAAAC/emoji-smoking.gif)
