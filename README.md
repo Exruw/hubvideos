@@ -22,4 +22,4 @@ jack5079 (coding)
 
 shade (videos)
 
-![Fuck you](https://c.tenor.com/2d14B9OsCbwAAAAC/emoji-smoking.gif)
+![Fuck you](https://cdn.discordapp.com/emojis/852669621941174302.gif?v=1)
