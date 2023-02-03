@@ -22,4 +22,4 @@ jack5079 (coding)
 
 shade (videos)
 
-![Fuck you](https://cdn.discordapp.com/emojis/852669621941174302.gif?v=1)
+![Fuck you](https://media.discordapp.net/attachments/848237686253944853/991884113248264283/971867344198570026.gif)
