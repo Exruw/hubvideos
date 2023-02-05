@@ -3215,7 +3215,48 @@ var videoArray = [
 	'videos/what_a_thrill.mov',
 	//
 	// 2/5/2023 - you can add videos again
-	'videos/expired.mp4'
+	'videos/expired.mp4',
+	//2003boobear, 2/5/2023.
+	'videos/hi_guys.mp4', //HI!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+	'videos/Dr_Trayaurus_is_homophobic.mov',
+	'videos/Dhar_mann_copycat.mp4',
+	'videos/Finally_It_is_done.mp4',
+	'videos/fuckin_asshole.mp4',
+	'videos/gexperimental_attraction.mov',
+	'videos/glaggleland_third_massacre.mp4',
+	'videos/glogday.mp4',
+	'videos/goofy_kuze.mov',
+	'videos/invader.mp4',
+	'videos/smartest_tesla_owner.mp4',
+	'videos/crush_his_skull.mp4',
+	'videos/sence.mp4',
+	'videos/left_4_cat.mov',
+	'videos/PUSSWATCHOUT.mp4',
+	'videos/ShaveNStuff.mp4',
+	'videos/youch.mov',
+	'videos/peanutbutter.mov',
+	'videos/hi_squidward.mp4',
+	'videos/YOU_NOT_A_DIFFERENT_BREED.mov',
+	'videos/my_awesome_exploit.mp4',
+	'videos/golfing.mp4',
+	'videos/doors_if_it_was_good.mp4',
+	'videos/milkoff.mp4',
+	'videos/Plants_VS_Zombies_Eternal.mov',
+	'videos/Metal_Gear_Solid.mp4',
+	'videos/cowball.mov',
+	'videos/Polish-smart-kitchen.mov',
+	'videos/thatstrue.mp4',
+	'videos/eternal_human_spirit.mp4',
+	'videos/indomitable_human_spirit.mp4',
+	'videos/Neanderthal.mp4',
+	'videos/theeternalgale.mp4',
+	'videos/mossbal.mp4',
+	'videos/algae.mov',
+	'videos/TASER_SWORD_TASER_SWORD.mp4',
+	'videos/HellsKitchenMultiverse.mp4',
+	'videos/doors_if_it_was_good.mp4',
+	'videos/Top20BritishFood.mov',
+	'videos/Saint.mp4'
 ]
 
 export function getArray() {
