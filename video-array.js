@@ -3212,8 +3212,10 @@ var videoArray = [
 	'videos/242514900_606365890359045_6888773379466043906_n.mp4',
 	//
 	//2003boobear, 6/23/2022.
-	'videos/what_a_thrill.mov'
+	'videos/what_a_thrill.mov',
 	//
+	// 2/5/2023 - you can add videos again
+	'videos/expired.mp4'
 ]
 
 export function getArray() {
