@@ -139,9 +139,9 @@
 			searchText.placeholder = `Search for a video out of ${videos.length} videos...`;
 
 			function insertLink(text, link) {
-				link = link.replace('videos/', '')
+				link = link.replace('https://videos.hubchicken.tk/', '')
 				var newElement = document.createElement('a')
-				newElement.href = `/videos/${link}`
+				newElement.href = `./${link}`
 				newElement.innerText = text
 				container.append(newElement)
 				videoElements.push(newElement)
