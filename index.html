@@ -141,14 +141,14 @@
 			function insertLink(text, link) {
 				link = link.replace('https://videos.hubchicken.tk/', '')
 				var newElement = document.createElement('a')
-				newElement.href = `./${link}`
+				newElement.href = `${link}`
 				newElement.innerText = text
 				container.append(newElement)
 				videoElements.push(newElement)
 			}
 
 			function formatText(text) {
-				let formatted = text.split('videos/')
+				let formatted = text.split('https://videos.hubchicken.tk/')
 				if (formatted[1])
 					// fuk u if you have a file extension twice
 					return formatted[1]
