@@ -2,8 +2,8 @@
 # routing internally.
 [[redirects]]
   from = "/*"
-  to = "/index.html"
-  status = 200
+  to = "/404.html"
+  status = 404
 
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
