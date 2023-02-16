@@ -10,3 +10,6 @@
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
+    
+[functions]
+  included_files = ["**"]
