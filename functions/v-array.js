@@ -3,7 +3,7 @@ let fileRegex = /.mp4|.mov|.ogv|.webm|.flv|.vob|.ogv|.drc|.gifv|.mng|.avi|.mov|.
 
 exports.handler = async function(event, context) {
   let files = []
-  let dir = fs.readdirSync("/", { withFileTypes: true })
+  let dir = fs.readdirSync("/var/task", { withFileTypes: true })
   
   dir.forEach((d) => {
     if (d.isFile() && d.name !== "README.md" && d.name !== "video-array.js" && d.name.toLowerCase().search(fileRegex) !== -1) {
@@ -13,6 +13,13 @@ exports.handler = async function(event, context) {
   
   return {
     statusCode: 200,
-    body: JSON.stringify(files),
+    body:  `let videoArray = ${JSON.stringify(files)}
+    
+export function getArray() {
+  return videoArray
+}
+export function getRandomVideo() {
+  return videoArray[Math.floor(Math.random() * videoArray.length)]
+}`,
   }
 }
