@@ -146,16 +146,13 @@
 				container.append(newElement)
 				videoElements.push(newElement)
 			}
-
+			
 			function formatText(text) {
 				let formatted = text.split('https://videos.hubchicken.tk/')
 				if (formatted[1])
 					// fuk u if you have a file extension twice
 					return formatted[1]
-						.replace('.mp4', '')
-						.replace('.webm', '')
-						.replace('.mov', '')
-						.replace('.3gpp', '')
+						.replace(/\.mp4|\.webm|\.mov|\.3gpp/gi, '')
 						.replaceAll('_', ' ')
 						.replaceAll('-', ' ')
 				//
@@ -171,24 +168,36 @@
 
 			function searchItems(search) {
 				videoElements.forEach((video) => {
-					if (
-						//Kept this if anyone wants to revert it, for whatever reason
-						//---------------------------------------------------------------
-						//formatText(video.innerText)
-						//	.substring(0, search.length)
-						//	.toLowerCase() == search.toLowerCase()
-						video.innerText.includes(search)
-					) {
-						video.style.display = 'block'
+					if (video.innerText.toLowerCase().includes(search.toLowerCase())) {
+						video.style.display = 'block';
 					} else {
-						video.style.display = 'none'
+						video.style.display = 'none';
 					}
-				})
+				});
 			}
 
-			searchText.onkeyup = function () {
-				searchItems(searchText.value)
+			function debounce(func, wait, immediate) {
+				var timeout;
+				return function() {
+					var context = this,
+						args = arguments;
+					var later = function() {
+						timeout = null;
+						if (!immediate) func.apply(context, args);
+					};
+					var callNow = immediate && !timeout;
+					clearTimeout(timeout);
+					timeout = setTimeout(later, wait);
+					if (callNow) func.apply(context, args);
+				};
 			}
+
+			searchText.addEventListener(
+				'input',
+				debounce(function() {
+					searchItems(searchText.value);
+				}, 300)
+			);
 		</script>
 	</body>
 </html>
