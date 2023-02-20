@@ -115,7 +115,7 @@
 	<body>
 		<div class="topbar">
 			<p>Video List<br /><a href="https://hubchicken.tk/">Go Back</a></p>
-            
+			
 		</div>
 		<div class="content-container">
 			<input
@@ -124,7 +124,7 @@
 				id="search-text"
 			/>
 		</div>
-        
+		
 		<div
 			class="content-container"
 			style="height: calc(88vh - 50px)"
@@ -132,72 +132,82 @@
 		></div>
 		<script type="module">
 			import { getArray } from 'https://hubchicken.tk/video-array.js';
-			var videos = getArray(), videoElements = [];
 
-			var container = document.getElementById('container');
-			var searchText = document.getElementById('search-text');
+			const videos = getArray();
+
+			const container = document.getElementById('container');
+			const searchText = document.getElementById('search-text');
 			searchText.placeholder = `Search for a video out of ${videos.length} videos...`;
 
 			function insertLink(text, link) {
-				link = link.replace('https://videos.hubchicken.tk/', '')
-				var newElement = document.createElement('a')
-				newElement.href = `${link}`
-				newElement.innerText = text
-				container.append(newElement)
-				videoElements.push(newElement)
+				link = link.replace('https://videos.hubchicken.tk/', '');
+				const newElement = document.createElement('a');
+				newElement.href = `${link}`;
+				newElement.innerText = text;
+				container.append(newElement);
 			}
-			
+
 			function formatText(text) {
-				let formatted = text.split('https://videos.hubchicken.tk/')
-				if (formatted[1])
-					// fuk u if you have a file extension twice
+				let formatted = text.split('https://videos.hubchicken.tk/');
+				if (formatted[1]) {
 					return formatted[1]
 						.replace(/\.mp4|\.webm|\.mov|\.3gpp/gi, '')
 						.replaceAll('_', ' ')
 						.replaceAll('-', ' ')
-				//
-				else return text
+				} else {
+					return text
+				}
 			}
-
-			videos.sort()
-			videos.forEach((video) => {
-				insertLink(formatText(video), video)
-			})
-
-			// Searching
-
-			function searchItems(search) {
-				videoElements.forEach((video) => {
-					if (video.innerText.toLowerCase().includes(search.toLowerCase())) {
-						video.style.display = 'block';
+			
+			// create search index
+			const searchIndex = {};
+			videos.forEach((video, i) => {
+				const formattedText = formatText(video);
+				const words = formattedText.split(/\s+/);
+				words.forEach((word) => {
+					word = word.toLowerCase();
+					if (searchIndex[word]) {
+						searchIndex[word].push(i);
 					} else {
-						video.style.display = 'none';
+						searchIndex[word] = [i];
 					}
 				});
-			}
+				insertLink(formattedText, video);
+			});
 
-			function debounce(func, wait, immediate) {
-				var timeout;
-				return function() {
-					var context = this,
-						args = arguments;
-					var later = function() {
-						timeout = null;
-						if (!immediate) func.apply(context, args);
-					};
-					var callNow = immediate && !timeout;
-					clearTimeout(timeout);
-					timeout = setTimeout(later, wait);
-					if (callNow) func.apply(context, args);
-				};
-			}
+			// incremental search
+			let searchResults = new Set();
+			let searchTimeout = null;
+			searchText.addEventListener('input', () => {
+				if (searchTimeout) {
+					clearTimeout(searchTimeout);
+				}
+				searchTimeout = setTimeout(() => {
+					const searchWords = searchText.value.toLowerCase().split(/\s+/);
+					const newSearchResults = new Set();
+					Object.keys(searchIndex).forEach((word) => {
+						if (searchWords.some((searchWord) => word.includes(searchWord))) {
+							searchIndex[word].forEach((index) => {
+								newSearchResults.add(index);
+							});
+						}
+					});
+			videoElements.forEach((video, i) => {
+				if (newSearchResults.has(i)) {
+					video.style.display = 'block';
+				} else {
+					video.style.display = 'none';
+				}
+			});
+			searchResults = newSearchResults;
+			}, 300);
+			});
 
-			searchText.addEventListener(
-				'input',
-				debounce(function() {
-					searchItems(searchText.value);
-				}, 300)
-			);
+			// show all videos on initial load
+			const videoElements = Array.from(container.children);
+			videoElements.forEach((video) => {
+				video.style.display = 'block';
+			});
 		</script>
 	</body>
 </html>
