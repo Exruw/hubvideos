@@ -171,7 +171,7 @@
 					const searchWords = searchText.value.toLowerCase().split(/\s+/);
 					const newSearchResults = new Set();
 					Object.keys(searchIndex).forEach((word) => {
-						if (searchWords.some((searchWord) => word.includes(searchWord))) {
+						if (searchWords.some((searchWord) => word.startsWith(searchWord))) {
 							searchIndex[word].forEach((index) => {
 								newSearchResults.add(index);
 							});
