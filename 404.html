@@ -27,7 +27,7 @@
 			transition: top 10s linear, left 10s linear;
 			z-index: -1;
 			}
-			img {
+			#fart {
 			display: block;
 			margin-left: auto;
 			margin-right: auto;
@@ -36,13 +36,17 @@
 			width: 39%;
 			}
 			.topbar {
-			display: inline-block;
 			width: 100%;
 			min-width: 320px;
 			margin: 0;
 			background-color: #262626;
 			box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
 			margin-bottom: 20px;
+			display: flex;
+			justify-content: center;
+    			align-items: center;
+    			gap: 1ch;
+    			flex-direction: row;
 			}
 			.topbar p {
 			text-align: center;
@@ -63,11 +67,12 @@
 		</style>
 	</head>
 	<body>
-		<div class="topbar">
+		<div class="topbar" id="topbar" >
 			<p>
 				Page Not Found<br /><a href="https://hubchicken.tk/">Go Back</a>
 			</p>
 		</div>
+		<script src="/theme-parser.js"></script>
 	</body>
 	<div id="banner-images"></div>
 	<script type="module">
@@ -125,9 +130,9 @@
         
 		const images = [];
 		const extensions = {"gif": true, "png": true, "jpg": true, "jpeg": true};
-		(await (await fetch(`https://api.github.com/repos/Exruw/hubcdn/git/trees/${(await (await fetch("https://api.github.com/repos/Exruw/hubcdn/commits")).json())[0]?.commit?.tree?.sha}`)).json()).tree.forEach(v => {
-			if (v?.type !== "tree" && v?.path && extensions[v.path.split(".").pop()])
-			images.push(`https://cdn.hubchicken.tk/${encodeURIComponent(v.path)}`);
-		});
-	$('<img class="fade-in" src="' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-images');		
+		let files = await fetch(`https://cdn.hubchicken.tk/image-array.json`)
+		files = await files.json()
+
+		for (const [file, url] of Object.entries(files)) images.push(url)
+	$('<img class="fade-in" id="fart" src="' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-images');		
 	</script>
