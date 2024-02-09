@@ -7,7 +7,7 @@
 		<meta name="description" content="A list of all videos." />
 		<meta name="theme-color" content="#262626" />
 		<title>Video Directory</title>
-		<script src="https://hubchicken.tk/theme-parser.js"></script>
+		<script src="https://hubchicken.pages.dev/theme-parser.js"></script>
 		<style>
 			@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
 			body {
@@ -100,7 +100,7 @@
 	</head>
 	<body>
 		<div class="topbar">
-			<p>Video List<br /><a href="https://hubchicken.tk/">Go Back</a></p>
+			<p>Video List<br /><a href="https://hubchicken.pages.dev/">Go Back</a></p>
 			
 		</div>
 		<div class="content-container">
@@ -117,7 +117,7 @@
 			id="container"
 		></div>
 		<script type="module">
-			import { getArray } from 'https://hubchicken.tk/video-array.js';
+			import { getArray } from 'https://hubchicken.pages.dev/video-array.js';
 
 			const videos = getArray();
 
@@ -126,7 +126,7 @@
 			searchText.placeholder = `Search for a video out of ${videos.length} videos...`;
 
 			function insertLink(text, link) {
-				link = link.replace('https://videos.hubchicken.tk/', '');
+				link = link.replace('https://hubvideos.pages.dev/', '');
 				const newElement = document.createElement('a');
 				newElement.href = `${link}`;
 				newElement.innerText = text;
@@ -134,7 +134,7 @@
 			}
 
 			function formatText(text) {
-				let formatted = text.split('https://videos.hubchicken.tk/');
+				let formatted = text.split('https://hubvideos.pages.dev/');
 				if (formatted[1]) {
 					return formatted[1]
 						.replace(/\.mp4|\.webm|\.mov|\.3gpp/gi, '')
